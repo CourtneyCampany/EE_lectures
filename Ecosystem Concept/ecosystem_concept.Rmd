@@ -1,0 +1,332 @@
+---
+title: "The Ecosystem Concept"
+author: "Court Campany"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Class updates and annoucements
+<hr>
+<br/>
+<br/>
+<br/>
+
+* Syllabus/Grading Quesions?
+
+* Lecture Schedule
+
+* Jigsaw classrooms and why they are **awesome**
+
+* Grand Challenge
+
+* Coding and BIG data science
+
+* My expectations
+
+* Words of advice
+
+## About me
+<hr>
+
+<br />
+<br />
+<br />
+<br />
+
+* Plant Ecophysologist  
+* Ecosystem Ecologist
+
+<br />
+
+* www.courtneycampany.com  
+* twitter @court_campany
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:450px; WIDTH:475px; HEIGHT:475px" SRC="images/soilpit.jpg">
+
+## Science Background
+<hr>
+
+```{r echo=FALSE}
+library(leaflet)
+locations <- read.csv("data/memap.csv")
+
+leaflet() %>% addTiles%>%
+      addCircleMarkers(locations[1:nrow(locations),3], 
+                 locations[1:nrow(locations),2],
+                 popup = locations[1:nrow(locations),1],
+                 col=c("red", "gold", "orange", "forestgreen", "navy", "black", "darkgreen",                         rep("darkgreen",19),"#990033"),
+                 opacity=c(.85, 100, .85, .85, .85, .85, rep(.85, 21)),
+                fillColor = c("white", "black", "white", "white", "grey", "darkgoldenrod", "plum", 
+                        "white", rep("white",19)),
+                 fillOpacity = c(100, 100, 100, 0, 85, 100, rep(100, 21)), weight=3)
+ 
+```
+
+## Sustainability and System Science 
+<hr>
+<br/>
+
+>- <strong>Consider that I give everyone a dollar each time you come to class</strong> 
+  >- Is that sustainable?    
+<br/>
+
+>- <strong>What information do we need?</strong>
+  >- What is my 'stock' of money?
+<br/>
+
+>- <strong>What if I spend $ on other stuff? </strong>  
+  >- What is my 'input' of new money
+  >- What is my 'turnover' time of money based on my consumption of money
+<br/>
+
+>- <strong>What if the class size grows....because Im giving away money?</strong> 
+<br/>
+<br/>
+>- <strong><span style="color:green">This question relates to a 'system' which has a balancing point</strong></span>
+
+## Key Concepts: 'System Science'
+<hr>
+<br/>
+<br/>
+
+**Standing Stock:**    
+
+<br/>
+
+**Mass Balance:**    
+
+<br/>
+
+**Material Flux Rate:**    
+
+<br/>
+
+**Residence Time:**    
+
+<br/>
+
+**Feedbacks:**
+
+
+## What is an Ecosystem?
+<hr>
+<br/>
+<br/>
+<br/>
+
+* <strong>An ecosystem consists of...</strong>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* <strong>The two main processes that ecosystem scientists study are:</strong>
+<br/>
+  + 1. Energy transformations
+  + 2. Biogeochemical cycling.
+  
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:475px; HEIGHT:475px" SRC="images/ecosystem.jpg">
+
+## How does this apply to general ecology?
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:600px; HEIGHT:400px" SRC="images/ecology.jpg">
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<strong>Interactions of organisms with one another and with the environment</strong>
+
+## What is Ecosystem Ecology
+<hr>
+<br />
+
+* <strong>How the 'system' operates as a whole</strong> 
+<br />
+<br />
+<br />
+<br />
+<br />
+
+* <strong>Focus on major functional aspects of the system</strong> 
+<br />
+  + Ex. amount of energy that is produced by photosynthesis, 
+  + EX. how energy or materials flow along the many steps in a food chain
+  + Ex. what controls the rate of decomposition of materials
+  + Ex. how fast are nutrients recycled in the system.
+
+## Role of Ecology
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:480px; HEIGHT:480px" SRC="images/twitter1.png">
+
+## Components of an Ecosystem: Review
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/abioticbiotic.png">
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+* <strong>These basic components are important to nearly all types of ecosystems</strong>
+
+## Processes of Ecosystems
+<hr>
+<br />
+<br />
+
+* <strong>Ecosystems have *energy flows* and *cycle materials*</strong>
+<br />
+  + These processes are linked, but they are not quite the same 
+<br />
+<br />
+<br />
+<br />
+  
+* <strong>Four fundamental ecological processes of ecosystems </strong>
+<br />
+  + Water cycle
+  + Biogeochemical (or nutrient) cycling, 
+  + Energy flow
+  + Community dynamics
+
+## The Transformation of Energy
+<hr>
+<br />
+
+
+## Biogeochemistry
+<hr>
+<br />
+<br />
+<br />
+<br />
+
+* <strong>1. Element ratios</strong>
+<br />
+<br />
+<br />
+* <strong>2. Mass Balance</strong>
+<br />
+<br />
+<br />
+* <strong>3. Element Cycling</strong>
+<br />
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:450px; WIDTH:500px; HEIGHT:500px" SRC="images/biogeo.jpg">
+
+## Controls on Ecosystem Function
+<hr>
+<br />
+<br />
+<br />
+
+* <strong>Bottom-up control theory</strong>
+<br />
+  + nutrient supply to the primary producers that ultimately controls ecosystem function. 
+<br />
+<br />
+<br />
+* <strong>Top-down control theory</strong>
+<br />
+  + predation/grazing by higher trophic levels on lower trophic levels controls ecosystem function.
+<br />
+<br />
+<br />  
+
+>- <strong>One, both, neither?</strong>
+
+## The Geography of Ecosystems
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes.gif">
+
+## The Geography of Ecosystems
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes2.png">
+
+## The Geography of Ecosystems
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
+
+
+## Summary
+<hr>
+<br />  
+
+* Ecosystems:  abiotic + biotic components
+
+* Ecosystem Ecology: energy transformations and biogeochemical cycling
+
+* Energy: continually input via sun energy
+  + amount of primary production determines the amount of energy available to higher trophic levels.
+  + sum is lost with each transfer to a higher trophic level
+  
+* Nutrients: recycled within an ecosystem and  supply limits biological activity 
+
+* Biogeochemical cycle: a set of stores (pools) and transfers
+  + "stoichiometry", "mass balance", and "residence time"
+  
+* Ecosystem function: controlled by "top-down" and/or "bottom-up" controls
+
+* Biome: major vegetation type over a large area
+  + distributions determined by temperature and precipitation
+
+## Directions of Ecosystem Ecology
+<hr>
+<br />  
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/earthclass.jpg">
+
+## Current challenges to ecosystmes?
+<hr>
+<br />  
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/earthproblem.jpg">
