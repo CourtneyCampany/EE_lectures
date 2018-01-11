@@ -1,0 +1,139 @@
+---
+title: "Earth's Climate System"
+author: "Dr. Court Campany"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    widescreen: true
+    smaller: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Climate: The BIG state factor
+<hr>
+<br />
+<div class="centered">
+<strong>factor which most strongly governs ecosystem structure and processes</strong>
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/statefactors.jpg">
+
+## Climate: Hot Topic
+<hr>
+<br />
+
+## Earth's Energy Budget
+<hr>
+<br />
+
+## Atmospheric System
+<hr>
+<br />
+
+## Atmosphere: Composition
+<hr>
+<br />
+
+## Atmosphere: Chemisty
+<hr>
+<br />
+
+## Atmosphere: Structure
+<hr>
+<br />
+
+## Atmosphere: Circulation
+<hr>
+<br />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i2mec3vgeaI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Oceans: Structure
+<hr>
+<br />
+
+## Oceans: Circulation
+<hr>
+<br />
+
+## Landforms effect on climate
+<hr>
+<br />
+
+## Vegetation effects on climate
+<hr>
+<br />
+
+## Climate Variability: Long-term
+<hr>
+<br />
+
+## Climate Variability: Interannual
+<hr>
+<br />
+
+## Climate Variability: Seasonal
+<hr>
+<br />
+
+## Climate Variability: Daily
+<hr>
+<br />
+
+## Climate Variability: People
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/biomes_temp.jpg">
+
+## What is weather?
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/trumpcold.jpg">
+
+## How does weather impact ecosystems
+<hr>
+<br />
+
+## Climate and biomes 
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/biomes_temp.jpg">
+
+## Climate and vegetation
+<hr>
+<br />
+
+* Vegetaion struture varies within and among biomes due to climate
+  + Predictable!
+  
+* Ex. Among biomes:
+
+* Ex. Within biomes:
+
+* Remember: boundaries caused by climate are not discrete
+  + Gradients of growth forms, leaf types, life forms, etc.
+  
+## Climate and vegetation
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/beard1955.png">
+
+## Climate and vegetation
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/whittaker1967.png">
+
+## Climate and diversity
+<hr>
+<br />
+
+* Species Diversity declines from tropics
+* Species Diversity declines from low-high elevation
