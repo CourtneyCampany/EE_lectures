@@ -1,6 +1,6 @@
 ---
 title: "The Ecosystem Concept"
-author: "Court Campany"
+author: "Dr. Court Campany"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -55,7 +55,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Science Background
 <hr>
 
-```{r echo=FALSE}
+```{r echo=FALSE, warning=FALSE}
 library(leaflet)
 locations <- read.csv("data/memap.csv")
 
@@ -63,11 +63,11 @@ leaflet() %>% addTiles%>%
       addCircleMarkers(locations[1:nrow(locations),3], 
                  locations[1:nrow(locations),2],
                  popup = locations[1:nrow(locations),1],
-                 col=c("red", "gold", "orange", "forestgreen", "navy", "black", "darkgreen",                         rep("darkgreen",19),"#990033"),
-                 opacity=c(.85, 100, .85, .85, .85, .85, rep(.85, 21)),
-                fillColor = c("white", "black", "white", "white", "grey", "darkgoldenrod", "plum", 
-                        "white", rep("white",19)),
-                 fillOpacity = c(100, 100, 100, 0, 85, 100, rep(100, 21)), weight=3)
+                 col=c("red", "gold", "orange", "forestgreen", "navy", "black", "darkgreen",                         rep("darkgreen",19),"#990033", "#990033","forestgreen", "royalblue",
+                       "green", "gold", "cornflowerblue"),
+                 opacity=c(.85, 100, .85, .85, .85, .85, rep(.85, 25)),
+                fillColor = c("white", "black", "white", "white", "grey", "darkgoldenrod", "plum", "white", rep("white",25)),
+                 fillOpacity = c(100, 100, 100, 0, 85, 100, rep(100, 25)), weight=3)
  
 ```
 
@@ -75,7 +75,7 @@ leaflet() %>% addTiles%>%
 <hr>
 <br/>
 
->- <strong>Consider that I give everyone a dollar each time you come to class</strong> 
+>- <strong>Consider that I give everyone 1 dollar each time you come to class</strong> 
   >- Is that sustainable?    
 <br/>
 
@@ -123,6 +123,8 @@ leaflet() %>% addTiles%>%
 <br/>
 <br/>
 
+<div style="float: left; width: 50%;">
+
 * <strong>An ecosystem consists of...</strong>
 <br/>
 <br/>
@@ -132,53 +134,54 @@ leaflet() %>% addTiles%>%
 
 * <strong>The two main processes that ecosystem scientists study are:</strong>
 <br/>
-  + 1. Energy transformations
-  + 2. Biogeochemical cycling.
-  
+  + Energy transformations
+  + Biogeochemical cycling.
+ 
+</div>
+
 <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:475px; HEIGHT:475px" SRC="images/ecosystem.jpg">
 
 ## How does this apply to general ecology?
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:600px; HEIGHT:400px" SRC="images/ecology.jpg">
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<div class="centered">
 <strong>Interactions of organisms with one another and with the environment</strong>
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:400px" SRC="images/ecology.jpg">
 
 ## What is Ecosystem Ecology
 <hr>
 <br />
 
 * <strong>How the 'system' operates as a whole</strong> 
-<br />
+<strong><span style="color:green">How is the 'system' STRUCTURED and how does in FUNCTION</strong></span>
 <br />
 <br />
 <br />
 <br />
 
 * <strong>Focus on major functional aspects of the system</strong> 
-<br />
   + Ex. amount of energy that is produced by photosynthesis, 
   + EX. how energy or materials flow along the many steps in a food chain
   + Ex. what controls the rate of decomposition of materials
-  + Ex. how fast are nutrients recycled in the system.
+  + Ex. how fast are nutrients recycled in the system
+  
+<br />
+  
+* <strong><span style="color:green">We do this at many spatial scales </strong></span>
+
+## Coweete and Hubbard Brook experimental forests
+<hr>
+
+<div class="centered">
+<strong>Watershed exps: materials entering from air/rocks-balanced by those leaving via stream catchments</strong>
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/hb1.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/hb2.jpg">
 
 ## Role of Ecology
 <hr>
@@ -215,6 +218,7 @@ leaflet() %>% addTiles%>%
 <br />
 <br />
 
+<div style="float: left; width: 50%;">
 * <strong>Ecosystems have *energy flows* and *cycle materials*</strong>
 <br />
   + These processes are linked, but they are not quite the same 
@@ -230,10 +234,15 @@ leaflet() %>% addTiles%>%
   + Energy flow
   + Community dynamics
 
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:475px; HEIGHT:475px" SRC="images/ncycle.gif">
+
 ## The Transformation of Energy
 <hr>
 <br />
 
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/energy_pyramid.png">
 
 ## Biogeochemistry
 <hr>
@@ -257,7 +266,13 @@ leaflet() %>% addTiles%>%
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:450px; WIDTH:500px; HEIGHT:500px" SRC="images/biogeo.jpg">
 
-## Controls on Ecosystem Function
+## Controls on Ecosystem Processes: State Factors
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/statefactors.png">
+
+## Interactivce controls of Ecosystem Function
 <hr>
 <br />
 <br />
@@ -296,28 +311,11 @@ leaflet() %>% addTiles%>%
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
 
-
-## Summary
+## Ecosystem Services: Review
 <hr>
 <br />  
 
-* Ecosystems:  abiotic + biotic components
-
-* Ecosystem Ecology: energy transformations and biogeochemical cycling
-
-* Energy: continually input via sun energy
-  + amount of primary production determines the amount of energy available to higher trophic levels.
-  + sum is lost with each transfer to a higher trophic level
-  
-* Nutrients: recycled within an ecosystem and  supply limits biological activity 
-
-* Biogeochemical cycle: a set of stores (pools) and transfers
-  + "stoichiometry", "mass balance", and "residence time"
-  
-* Ecosystem function: controlled by "top-down" and/or "bottom-up" controls
-
-* Biome: major vegetation type over a large area
-  + distributions determined by temperature and precipitation
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:450px; HEIGHT:450px" SRC="images/ecosystem-services.jpg">
 
 ## Directions of Ecosystem Ecology
 <hr>
@@ -325,8 +323,9 @@ leaflet() %>% addTiles%>%
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/earthclass.jpg">
 
-## Current challenges to ecosystmes?
+## Current challenges to ecosystems?
 <hr>
 <br />  
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/earthproblem.jpg">
+
