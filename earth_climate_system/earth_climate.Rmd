@@ -21,13 +21,77 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/statefactors.jpg">
 
+##
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1eRp0EGOmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Climate: Hot Topic
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wXrYvd-LBu0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Human's are *modifiying* Earth's climate
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:600px; HEIGHT:400px" SRC="images/humans_climate.png">
+
+<div style="float: right; width: 35%;">
+<br />
+<br />
+
+* <strong>Changes in climate alter ecosystem processes</strong>
+  + subtly and not so subtly
+<br />
+<br />
+* <strong>USA 2017</strong>
+  + Fire and storm frequency
+  + Hurricane strength -- ?WHY?
+</div>
+
 ## Climate: Hot Topic
 <hr>
 <br />
 
+<br />
+<br />
+<strong>http://www.ipcc.ch/</strong>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:50px; WIDTH:200px; HEIGHT:200px" SRC="images/ipcc.png">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:800px; HEIGHT:500px" SRC="images/emissions.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:350px; WIDTH:400px; HEIGHT:600px" SRC="images/politics.png">
+
+
 ## Earth's Energy Budget
 <hr>
 <br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/energybudget.jpg">
+
+## Short wave radiation
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/shortwave.png">
+
+## Long wave radiation
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/radiationbalance.jpg">
+
+## Greenhouse effect
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/greenhouse.jpg">
+
+## Greenhouse effect
+<hr>
+<br />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VYMjSule0Bw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Atmospheric System
 <hr>
@@ -137,3 +201,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Species Diversity declines from tropics
 * Species Diversity declines from low-high elevation
+
