@@ -67,7 +67,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/energybudget.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/energy_balance_perc.jpg">
 
 ## Short wave radiation
 <hr>
@@ -89,63 +89,203 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Greenhouse effect
 <hr>
-<br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VYMjSule0Bw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Atmospheric System
+## Earth's Energy Budget: balance
+<hr>
+
+* <strong>Earth normally close to radiative balance</strong> (emission = absorbtion)
+  
+<br />
+
+* <strong>Atmospheric heating</strong>
+  + <span style="color:green">longwave absorption by active gases</span>
+  + absorption of some solar radiation
+  + *latent heat flux*: evaporation/transpiration of surface water & cloud making
+  + *sensible heat flux*: upward transfer of surface heat to air
+  
+<br />
+  
+* <strong><span style="color:green">Recent large increases in active atmospheric gases</span></strong>
+  + fossil fuels, industry and agriculture
+  + atmosphere traps more longwave = <strong>↑ greenhouse effect</strong>
+  
+* affects radiative balance (2-3%)
+  + absorbed by oceans
+
+## Earth's Energy Budget: atmosphere absorption
 <hr>
 <br />
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/spectral_absorb.png">
 
 ## Atmosphere: Composition
 <hr>
 <br />
 
-## Atmosphere: Chemisty
+<IMG STYLE="position:absolute; TOP:275px; LEFT:75px; WIDTH:400px; HEIGHT:300px" SRC="images/air-composition.jpg">
+
+<div style="float: right; width: 50%;">
+<br />
+<br />
+* <strong>these gases have long mean residence times</strong>
+  + constant around the world
+  + N<sub>2</sub> = 13 mil years and O<sub>2</sub> = 10,000
+  + CO<sub>2</sub> = 5 years (?Good or Bad?)
+
+<br />
+<br />
+
+* <strong>Water vapor is reactive and variable</strong>
+  + seasonally and spatially
+
+</div>
+
+## Why clouds are cool!
 <hr>
 <br />
 
-## Atmosphere: Structure
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/clouds.jpg">
+
+## Atmosphere: Vertical Structure
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:550px; HEIGHT:500px" SRC="images/atmosphere_layers.jpg">
+
+<div style="float: right; width: 35%;">
+
+* <strong>Troposphere</strong>
+  + lowest layer - weather happens here
+  + temperatre decreases w/ height
+<br />
+
+* <strong>Stratosphere</strong>
+  + heated from top
+  + ozone layer lives here; ↓ UV
+
+<br />
+
+* <strong>Mesophere</strong>
+  + temperatre decreases w/ height
+
+<br />
+
+* <strong>Thermosphere</strong>
+  + extends into space
+</div>
+
+## Atmosphere: plantery boundary layer
 <hr>
 <br />
 
-## Atmosphere: Circulation
+https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod_lg.m4v
+
+## Atmosphere: Circulation → Uneven Heating
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:225px; WIDTH:600px; HEIGHT:600px" SRC="images/uneven_heating.gif">
+
+## Atmosphere: Circulation → Hadley cell
+<br />
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:225px; WIDTH:600px; HEIGHT:600px" SRC="images/hadley.jpg">
+
+## Atmosphere: Rotation → Corilis effect
 <hr>
 <br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i2mec3vgeaI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Oceans: Structure
-<hr>
-<br />
-
-## Oceans: Circulation
-<hr>
-<br />
-
 ## Landforms effect on climate
 <hr>
 <br />
+
+<div style="float: left; width: 50%;">
+
+* <strong>Land</strong>
+  + heating of ocean vs land
+  + land and sea breezes
+  + dirunal and seasonal
+<br />
+
+* <strong>Mountains</strong>
+  + rain shadow
+  + topography & micro-climate
+  + aspect -Ski Resorts-
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:325px; WIDTH:500px; HEIGHT:400px" SRC="images/rainshadow.jpg">
 
 ## Vegetation effects on climate
 <hr>
 <br />
 
-## Climate Variability: Long-term
+* <strong>Variable albedo</strong>
+  + bare soil < grasslands < forests
+  + issues with land use change
+  
+* <strong>Ecosystem structure</strong>
+  + smooth vs variable surfaces (forest stands)
+  + wind turbulence alters senisble and latent heat fluxes
+  
+* <strong>Vegetaion structure</strong>
+  + Tropical recycled rain
+
+## Climate Variability: Longer time scales
 <hr>
 <br />
 
-## Climate Variability: Interannual
+<div style="float: left; width: 50%;">
+
+* <strong>Millennial</strong>
+  + distribution of solar input (orbit variation)
+  + atmospheric composition changes
+  + volcanoes and asteroids (solar)
+  + glacial periods
+<br />
+
+* <strong>Bubbles in ice </strong>
+  + ice cores give us a view to the past
+  + past warming from CO<sub>2</sub> and CH<sub>4</sub> 
+  + CO<sub>2</sub> now highest in 650,000 years
+</div>
+
+
+<div style="float: right; width: 50%;">
+
+* <strong>Interannual</strong>
+  + changes in atmosphere-ocean systems
+  + La Nina = norm
+  + cool surface waters over eastern Pacific
+
+<br />
+
+* <strong>El Nino</strong>
+  + atmospheric pressure + ocean temp changes
+  + weakening of Pacific, Indo and easterly winds
+  + warm waters of Pacific change to eastward
+</div>
+
+
+## Climate Variability: Shorter time scales
 <hr>
 <br />
 
-## Climate Variability: Seasonal
-<hr>
-<br />
+<div style="float: left; width: 50%;">
 
-## Climate Variability: Daily
-<hr>
-<br />
+* <strong>Seasonal</strong>
+
+</div>
+
+
+<div style="float: right; width: 50%;">
+
+* <strong>Daily</strong>
+
+</div>
+
 
 ## Climate Variability: People
 <hr>
@@ -201,4 +341,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Species Diversity declines from tropics
 * Species Diversity declines from low-high elevation
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/usa_diversity.jpg">
 
