@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 <div class="centered">
-<strong>factor which most strongly governs ecosystem structure and processes</strong>
+<strong><span style="color:green">factor which most strongly governs ecosystem structure and processes</span></strong>
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/statefactors.jpg">
@@ -79,7 +79,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/radiationbalance.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:500px; HEIGHT:500px" SRC="images/Radiationbalance.jpg">
 
 ## Greenhouse effect
 <hr>
@@ -88,7 +88,6 @@ knitr::opts_chunk$set(echo = FALSE)
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/greenhouse.jpg">
 
 ## Greenhouse effect
-<hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VYMjSule0Bw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -118,7 +117,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/spectral_absorb.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:750px; HEIGHT:450px" SRC="images/spectral_absorb.png">
 
 ## Atmosphere: Composition
 <hr>
@@ -129,7 +128,8 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: right; width: 50%;">
 <br />
 <br />
-* <strong>these gases have long mean residence times</strong>
+
+* <strong>These gases have long mean residence times</strong>
   + constant around the world
   + N<sub>2</sub> = 13 mil years and O<sub>2</sub> = 10,000
   + CO<sub>2</sub> = 5 years (?Good or Bad?)
@@ -150,27 +150,26 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Atmosphere: Vertical Structure
 <hr>
+<br />
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:550px; HEIGHT:500px" SRC="images/atmosphere_layers.jpg">
 
-<div style="float: right; width: 35%;">
+<div style="float: right; width: 40%;">
 
 * <strong>Troposphere</strong>
   + lowest layer - weather happens here
   + temperatre decreases w/ height
+  
 <br />
-
 * <strong>Stratosphere</strong>
   + heated from top
   + ozone layer lives here; ↓ UV
 
 <br />
-
 * <strong>Mesophere</strong>
   + temperatre decreases w/ height
 
 <br />
-
 * <strong>Thermosphere</strong>
   + extends into space
 </div>
@@ -185,24 +184,24 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:225px; WIDTH:600px; HEIGHT:600px" SRC="images/uneven_heating.gif">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/uneven_heating.gif">
 
 ## Atmosphere: Circulation → Hadley cell
-<br />
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:225px; WIDTH:600px; HEIGHT:600px" SRC="images/hadley.jpg">
-
-## Atmosphere: Rotation → Corilis effect
 <hr>
 <br />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i2mec3vgeaI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/hadley.jpg">
+
+## Atmosphere: Rotation → Corilis effect
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i2mec3vgeaI?start=6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Landforms effect on climate
 <hr>
 <br />
 
 <div style="float: left; width: 50%;">
+<br />
 
 * <strong>Land</strong>
   + heating of ocean vs land
@@ -216,7 +215,7 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
   + aspect -Ski Resorts-
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:325px; WIDTH:500px; HEIGHT:400px" SRC="images/rainshadow.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:500px; HEIGHT:400px" SRC="images/rainshadow.jpg">
 
 ## Vegetation effects on climate
 <hr>
@@ -225,13 +224,18 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 * <strong>Variable albedo</strong>
   + bare soil < grasslands < forests
   + issues with land use change
+  <br />
   
 * <strong>Ecosystem structure</strong>
   + smooth vs variable surfaces (forest stands)
   + wind turbulence alters senisble and latent heat fluxes
+  <br />
   
 * <strong>Vegetaion structure</strong>
   + Tropical recycled rain
+  + https://www.youtube.com/watch?v=Y3OWgb0Bv-A
+  
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:350px; HEIGHT:350px" SRC="images/trees_rain.jpg">
 
 ## Climate Variability: Longer time scales
 <hr>
@@ -244,6 +248,7 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
   + atmospheric composition changes
   + volcanoes and asteroids (solar)
   + glacial periods
+  
 <br />
 
 * <strong>Bubbles in ice </strong>
@@ -253,7 +258,7 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 </div>
 
 
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 45%;">
 
 * <strong>Interannual</strong>
   + changes in atmosphere-ocean systems
@@ -276,38 +281,64 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 <div style="float: left; width: 50%;">
 
 * <strong>Seasonal</strong>
+  + realted to earths tilt and rotation
+  + predictable
+  + day length and irradiance
+  
+<br />
 
+* <strong>Equinoxes</strong>
+  + sun directly over equator
+  + 12 hr daylight
+  
+  <br />
+  
+* <strong>Solstices</strong>
+  + Sun reaches most northerly/southerly excursion 
+  + daylength min/max
+  + pronouced as latitude ↑
+  
 </div>
 
 
 <div style="float: right; width: 50%;">
 
 * <strong>Daily</strong>
-
+  + photoperiod
+  + temperature
+  + storms 
+  + weather
 </div>
 
+<IMG STYLE="position:absolute; TOP:375px; LEFT:600px; WIDTH:400px; HEIGHT:250px" SRC="images/seasons.png">
 
 ## Climate Variability: People
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/biomes_temp.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/climate-people.png">
 
 ## What is weather?
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/trumpcold.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:275px; WIDTH:600px; HEIGHT:200px" SRC="images/trumpcold.jpg">
 
 ## How does weather impact ecosystems
 <hr>
 <br />
 
+<div class="centered">
+<strong>Extreme weather such as hurricanes, torrential downpours and droughts will become more frequent in pace with global warming. Consequently, this increases the risk for species extinction, especially in bio diverse ecosystems such as coral reefs and tropical rainforests.</strong>
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:275px; WIDTH:450px; HEIGHT:450px" SRC="images/hurricanes.jpg">
+
 ## Climate and biomes 
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/biomes_temp.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
 
 ## Climate and vegetation
 <hr>
@@ -316,9 +347,13 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 * Vegetaion struture varies within and among biomes due to climate
   + Predictable!
   
+  <br />
+  
 * Ex. Among biomes:
 
 * Ex. Within biomes:
+
+<br />
 
 * Remember: boundaries caused by climate are not discrete
   + Gradients of growth forms, leaf types, life forms, etc.
@@ -327,20 +362,20 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/beard1955.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:600px" SRC="images/beard1955.png">
 
 ## Climate and vegetation
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/whittaker1967.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/whittaker1967.png">
 
 ## Climate and diversity
 <hr>
-<br />
 
-* Species Diversity declines from tropics
-* Species Diversity declines from low-high elevation
+<div class="centered">
+<strong><span style="color:green">Species Diversity declines from tropics and from low-high elevation</span></strong>
+</div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/usa_diversity.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:175px; WIDTH:600px; HEIGHT:400px" SRC="images/biomes2.png">
 
