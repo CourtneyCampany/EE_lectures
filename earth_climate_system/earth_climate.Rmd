@@ -1,11 +1,12 @@
 ---
 title: "Earth's Climate System"
-author: "Dr. Court Campany"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
+    css: custom.css
     widescreen: true
     smaller: true
+runtime: shiny
 ---
 
 ```{r setup, include=FALSE}
@@ -326,13 +327,12 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 
 ## How does weather impact ecosystems
 <hr>
-<br />
 
 <div class="centered">
-<strong>Extreme weather such as hurricanes, torrential downpours and droughts will become more frequent in pace with global warming. Consequently, this increases the risk for species extinction, especially in bio diverse ecosystems such as coral reefs and tropical rainforests.</strong>
+<strong>Extreme weather such as hurricanes, torrential downpours and droughts will become more frequent in pace with global warming. This increases the risk for species extinction, especially in bio diverse ecosystems such as coral reefs and tropical rainforests.</strong>
 </div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:275px; WIDTH:450px; HEIGHT:450px" SRC="images/hurricanes.jpg">
+<IMG STYLE="position:absolute; TOP:280spx; LEFT:275px; WIDTH:425px; HEIGHT:425px" SRC="images/hurricanes.jpg">
 
 ## Climate and biomes 
 <hr>
@@ -377,5 +377,5 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 <strong><span style="color:green">Species Diversity declines from tropics and from low-high elevation</span></strong>
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:175px; WIDTH:600px; HEIGHT:400px" SRC="images/biomes2.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/biomes2.png">
 

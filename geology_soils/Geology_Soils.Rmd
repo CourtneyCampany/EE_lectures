@@ -1,0 +1,218 @@
+---
+title: "Geology and Soils"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Soils: The BIG state factor
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/profile1.jpg">
+
+## Soils: The BIG state factor
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/state.jpg">
+
+## Soils: Hot Topic History
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/article.jpg">
+
+## Soils: Hot Topic Socitey
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/calisoils.jpg">
+
+## Soils: Hot Topic Cultural
+<hr>
+<br />
+
+ Soil represents the entire natural world. Without soil there is no food and without food there is no life, trees, forests, animals or people.
+ 
+ We are all part of this healthy web of life maintained by soil. The Latin word humus means soil. The words human, humility and humus all come from the same root. When humans lose contact with soil, they are no longer humans.
+ 
+ If we can have a holistic view of soil, soul and society, if we can understand the interdependence of all living beings, and understand that all living creatures – from trees to worms to humans – depend on each other, then we can live in harmony with ourselves, with other people and with nature.
+
+In our education systems, we have come to think that soil simply means dirt and that dirt means dirty. But dirt is not dirty; it is the source of life. Without it there is no life.
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/kumar_soil.png">
+
+## Controls over soil formation: State factors
+<hr>
+<br />
+
+## Parent material: The Rock Cycle
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/rockcycle.png">
+
+
+## Soils formation: other state factors
+<hr>
+<br />
+
+* Time:
+
+<br />
+
+* Climate:
+
+<br />
+
+* Topography
+
+<br />
+
+* Biota:
+
+<br />
+
+Humans: 
+
+## Controls over soil loss
+<hr>
+<br />
+
+* Think back to "system science" example:
+
+
+## Soil loss: short term
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/Soil-erosion.jpg">
+
+## Soil loss: long term
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/erosionrates1.jpg">
+
+## Soil loss: long term
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/erosionrates2.jpg">
+
+## Development of soil profiles
+<hr>
+<br />
+
+## Soil Profiles: Additions
+<hr>
+<br />
+
+## Soil Profiles: Transformations
+<hr>
+<br />
+
+## Soil Profiles: Transfers
+<hr>
+<br />
+
+## Soil Profiles: Losses
+<hr>
+<br />
+
+## Soil Horizons
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/horizons2.jpg">
+
+## Soil Classifications
+<hr>
+<br />
+
+## Soil orders
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soil_orders2.jpg">
+
+## Soil orders: USA
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soil_orders.jpg">
+
+## Soils: Ecosystem Functioning
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soils_ecosystem>
+
+## Soils: Physical Properties
+<hr>
+<br />
+
+>- What is soil texture?
+
+<br />
+<br />
+
+>- What are the 3 main soil particles
+>- Order them from large to small
+
+<br />
+
+>- Dont forgot about rocks and gravel (large volumes)
+
+<br />
+<br />
+
+>- What is 'Bulk Density' & why is it important
+
+
+
+## Soils: Physical Properties
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soiltexturetriangle.jpg>
+
+
+## Soils: Structure
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soilaggregates.jpg>
+
+## Soils & Water
+<hr>
+<br />
+
+## Soils & Water
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/Soil_Retention_Curve.jpg>
+
+## Soil: chemical properties
+<hr>
+<br />
+
+## Soil: organic matter
+<hr>
+<br />
+
+## Soils: Future
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soil_improvement.jpg>
