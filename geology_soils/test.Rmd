@@ -1,0 +1,24 @@
+---
+title: "Geology and Soils"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+  
+
+
+## Soil: chemical properties
+<hr>
+<br />
+
+## Soil: organic matter
+<hr>
+<br />

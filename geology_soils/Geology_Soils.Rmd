@@ -13,53 +13,117 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Soils: The BIG state factor
+## Soils: The underlying state factor
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/profile1.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:300px; HEIGHT:500px" SRC="images/profile1.jpg">
 
-## Soils: The BIG state factor
+<div style="float: right; width: 55%;">
+* <strong>Soils govern many terrestrial ecosystem properties</strong>
+  + plant rooting zone
+  + medium for decomposers
+  + home for animals
+  + flitration for aquatic systems
+  
+<br />
+<br />
+
+* <strong>Soils rule the world</strong>
+  + mediate many biogeochemical cycles
+  + although small by %, is the biologically excited layer of earth's crust
+  + responsive to: biota, climate, geology and atmospheric chemistry
+  + large volumes for storage
+</div>
+
+## Soils: The underlying state factor
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/state.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/state.png">
 
 ## Soils: Hot Topic History
 <hr>
 <br />
+<br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/article.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:50px; WIDTH:375px; HEIGHT:175px" SRC="images/article1.png">
+
+<div style="float: right; width: 60%;">
+* <strong>Lake Dojran (Macedonia/Greece) lake sediment isotopes</strong>
+  + soil development changes require longer-term climate shifts
+  + shortlived (<1,000 yrs) climatic shifts can impact soil erosion
+  + Unprecedented erosion associated with development of agriculture
+  + early signs of a negative feedback between civilization and environment
+  
+<br />
+<br />
+
+* <strong>https://www.nature.com/articles/s41598-017-18603-4</strong>
+
+</div>
 
 ## Soils: Hot Topic Socitey
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/calisoils.jpg">
+<div class="centered">
+<strong><span style="color:green">'Lost within a moment's time': 20 dead in California mudslide </span></strong>
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/calisoils.jpg">
 
 ## Soils: Hot Topic Cultural
 <hr>
+
+<strong><span style="color:green"> Soil represents the entire natural world. Without soil there is no food and without food there is no life, trees, forests, animals or people.</span></strong>
+</div>
+ 
+<br />
+<br />
 <br />
 
- Soil represents the entire natural world. Without soil there is no food and without food there is no life, trees, forests, animals or people.
+<div style="float: left; width: 45%;">
+ * We are all part of this healthy web of life maintained by soil. 
  
- We are all part of this healthy web of life maintained by soil. The Latin word humus means soil. The words human, humility and humus all come from the same root. When humans lose contact with soil, they are no longer humans.
+ * The Latin word humus means soil. The words human, humility and humus all come from the same root. 
  
- If we can have a holistic view of soil, soul and society, if we can understand the interdependence of all living beings, and understand that all living creatures – from trees to worms to humans – depend on each other, then we can live in harmony with ourselves, with other people and with nature.
+* If we can have a holistic view of soil, soul and society...then we can live in harmony with ourselves, with other people and with nature.
+</div>
 
-In our education systems, we have come to think that soil simply means dirt and that dirt means dirty. But dirt is not dirty; it is the source of life. Without it there is no life.
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/kumar_soil.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/kumar_soil.png">
 
 ## Controls over soil formation: State factors
 <hr>
 <br />
 
+<div class="centered">
+<strong><span style="color:green">Soil properties balance between formation and loss </span></strong>
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/soil-formation.jpg">
+
 ## Parent material: The Rock Cycle
 <hr>
 <br />
+<br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/rockcycle.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/rockcycle.png">
+
+<div style="float: right; width: 40%;">
+
+* <strong>Plate tectonics</strong>
+  + Uplift
+  + continental drift
+  + distributes rocks, minerals, chemical elements
+  
+  <br />
+  
+* <strong>Weathering of rock material</strong>
+  + chemical and physical
+  + release of essential biochemical elements
+  + Australia and phosphorus
+</div>
 
 
 ## Soils formation: other state factors
@@ -74,7 +138,7 @@ In our education systems, we have come to think that soil simply means dirt and 
 
 <br />
 
-* Topography
+* Topography:
 
 <br />
 
@@ -82,80 +146,148 @@ In our education systems, we have come to think that soil simply means dirt and 
 
 <br />
 
-Humans: 
+* Humans: 
 
-## Controls over soil loss
+## ?Controls over soil loss?
 <hr>
-<br />
 
-* Think back to "system science" example:
+<div class="centered">
+<strong><span style="color:green">Practice with "system science" concepts </span></strong>
+</div>
 
+<IMG STYLE="position:absolute; TOP:195px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/croperosion.png">
 
 ## Soil loss: short term
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/Soil-erosion.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/Soil-erosion.jpg">
 
 ## Soil loss: long term
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/erosionrates1.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/erosionrates1.jpg">
 
 ## Soil loss: long term
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/erosionrates2.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/erosionrates2.jpg">
 
-## Development of soil profiles
+## Development of soil profiles: Additions
 <hr>
 <br />
-
-## Soil Profiles: Additions
-<hr>
 <br />
 
-## Soil Profiles: Transformations
+<IMG STYLE="position:absolute; TOP:325px; LEFT:500px; WIDTH:500px; HEIGHT:150px" SRC="images/asia_dust.jpg">
+
+* <strong>Outside</strong>
+  + Wind: ion and dust deposit
+  + ex. Asian dust phenomenon
+  + Precipitation: floods and tides
+  + Source determines chemistry
+
+  <br/>
+
+* <strong>Inside</strong>
+  + dead organic matter
+
+
+## Development of soil profiles: Transformations
 <hr>
+<br />
+<br />
 <br />
 
-## Soil Profiles: Transfers
+<div style="float: left; width: 40%;">
+
+* <strong>Decomposition</strong>
+  + organic to inorganic froms
+  + chemical, physical and biological processes
+  + soil organic matter formed
+  + nutrients and CO<sub>2</sub> released
+  
+  </div>
+  
+<div style="float: right; width: 40%;">
+
+* <strong>Weathering</strong>
+  + physical processes:
+  + weather, fire, freeze-thaw, wetting-drying
+  + chemical processes:
+  + organic acids from roots and microbes
+  + source determines properites
+</div>
+
+## Development of soil profiles: Transfers/Losses
 <hr>
+<br />
+<br />
+<br />
+<br />
 <br />
 
-## Soil Profiles: Losses
-<hr>
-<br />
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:500px; HEIGHT:500px" SRC="images/leaching.jpg">
+
+<div style="float: right; width: 40%;">
+
+* <strong>Leaching</strong>
+  + Degree of water flow
+  + Solute concentration
+  + buffered by exchange capacity of soil
+  + ions with single charge lost easily
+</div>
 
 ## Soil Horizons
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/horizons2.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/soil-formation2.jpg">
+
+## Soil Horizons
+<hr>
+<br />
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:250px; HEIGHT:500px" SRC="images/horizons2.jpg">
+
+<div style="float: right; width: 45%;">
+
+* <strong>Common soil horizons</strong>
+<br />
+
+  + O horizon:
+
+  + A horizon:
+  
+  + B horizon:
+
+  + C horizon:
+
+  + R horizon = unweathered
+</div>
 
 ## Soil Classifications
 <hr>
-<br />
+<div class="centered">
+<strong><span style="color:green"> Major groups classified by soil forming processes, factors and properties (e.g. base saturation, wetness, organic matter content) </span></strong>
+</div>
 
-## Soil orders
+<IMG STYLE="position:absolute; TOP:240px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soil_orders2.png">
+
+## USA has 12 major soil orders
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soil_orders2.jpg">
-
-## Soil orders: USA
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soil_orders.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soil_orders.jpg">
 
 ## Soils: Ecosystem Functioning
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soils_ecosystem>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/soils_ecosystem.jpg">
 
 ## Soils: Physical Properties
 <hr>
@@ -178,30 +310,64 @@ Humans:
 
 >- What is 'Bulk Density' & why is it important
 
-
-
 ## Soils: Physical Properties
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soiltexturetriangle.jpg>
+<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soil_triangle2.jpg">
 
-
-## Soils: Structure
+## Soils:Structure
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soilaggregates.jpg>
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/soilaggregates.jpg">
+
+* <strong>Soil aggregates</strong>
+<br />
+  + soil particles glued together in different sizes
+  + >3mm - 0.001mm
+  + mostly clay and loam
+  + iron and aluminum oxides , silica & cations
+  + organic matetr: exudates by roots/bacteria/fungi
+  + earthworm poop
+  
+* <strong>Pores</strong>
+<br />
+  + spaces between particles
+  + wet/dry clay
+  + spac>
 
 ## Soils & Water
 <hr>
 <br />
 
-## Soils & Water
+* <strong>Water saturation</strong>
+
+<br />
+
+* <strong>Field capacity</strong>
+
+<br />
+
+* <strong>Water potential gradient</strong>
+  + part of the soil-plant-atmosphere continuum
+  
+<br />
+
+* <strong>Permanent wilting points</strong>
+
+<br />
+
+* <strong>Water holding capacity</strong>
+  + difference between soil types?
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/spac.jpg">
+
+## Soil Types & Water Renention
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/Soil_Retention_Curve.jpg>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:450px; HEIGHT:450px" SRC="images/Soil_Retention_Curve.jpg">
 
 ## Soil: chemical properties
 <hr>
@@ -211,8 +377,34 @@ Humans:
 <hr>
 <br />
 
+## Soil: organic matter carbon
+<hr>
+<br />
+<br />
+
+>- Definition: Soil organic carbon (SOC): 
+
+>- Amount of C stored in the soil is a component of soil organic matter 
+>– Plant and animal materials in the soil in various stages of decay 
+>- Soil organic carbon is the basis of soil fertility
+
+<br />
+<br />
+
+>- Storage:  
+
+>- Soil C sequestration happens when CO<sub>2</sub> is removed from the atmosphere and stored in the soil C pool. 
+>- Primarily mediated by plants through photosynthesis, with carbon stored in the form of SOC.
+>- Age in organic soil layers varies (boreal, temperate and tropics) - 200-1200 yrs (Trumbore 2000)
+
+## Soil Carbon
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soilcarbon.jpg">
+
 ## Soils: Future
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soil_improvement.jpg>
+<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soil_improvement.jpg">
