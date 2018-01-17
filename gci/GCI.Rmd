@@ -1,0 +1,111 @@
+---
+title: "The Ecosystem Concept"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Grand Challenges: Gate foundation
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:450px; WIDTH:475px; HEIGHT:475px" SRC="images/gci1.png">
+
+## Grand Challenges: Resources
+
+>- <strong><span style="color:green">https://gcgh.grandchallenges.org/
+</strong></span>
+
+>- <strong><span style="color:green">https://www.chapman.edu/scst/undergraduate/grand-challenges-initiative.aspx</strong></span>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:450px; WIDTH:475px; HEIGHT:475px" SRC="images/gci2.png">
+
+## Grand Challenges: BIO 359
+
+* Tasked to solve a major ecological problem/issue
+* Teams of 4
+* One grade per team (see rubric) + self assessment
+
+* <strong><span style="color:green">What will be your ?</strong></span>
+
+
+## My Role (#1): Contact scientific experts
+
+>- I was wondering if you would be willing to propose an ecological problem related to your interests, which they would try to solve. The problem could be regionally related to the US or possibly at a larger scale...
+
+>- However, any topic you would like to propose would be totally great. Whatever you truly believe is a pressing issue.
+
+>- The idea is that they have the semester to work towards potential solutions and develop an **ecological action plan**. 
+
+>- Although they may not be able to actually solve the problem this concept brings in work-related deadlines, active self-learning, inclusive and diversity driven group work and most importantly activism. 
+
+
+## 4 scientists with ecological backgrounds
+
+* Leaders in there fields
+
+* Posed questions based on their fields of interests
+
+
+## Your assignment:
+
+* Work in diverse teams to solve your given problem
+  + "Dig into the background/history/available literature"
+  + Present your background information to class
+  
+  + Develop an **Ecological Action PLan**
+  + Solutions oriented
+  + 'Uncostrained' = Lots of Freedom
+  + Final exam = written EAP + EAP presentation
+  + http://www.cityofsydney.nsw.gov.au/__data/assets/pdf_file/0009/135882/GreeningSydneyPlan.pdf
+  
+  + Divide an conquer
+  + Use the diversity within your group to manage tasks
+  + 50% lab time + outside of class
+  
+## Your assignment: Something Awesome (10%)
+
+  * Promote activism and solutions
+    + Interview experts?
+    + Start a blog?
+    + Get on NPR?
+    + Interview a politician?
+  
+  * Move beyond collegiate experience
+    + treat this as a job assignment
+    + impress
+  
+## My Role (#2): Mentor
+
+* Progress meetings: Lab time
+  + Provide advice
+  + Help you network
+  + Push you
+  + Always come with 
+
+* Guide EAP formation
+  + No set format
+  + We will decide together
+  
+##
+<IMG STYLE="position:absolute; TOP:175px; LEFT:450px; WIDTH:475px; HEIGHT:475px" SRC="images/areyouready.jpg">
+
+** Molly Timmers (NOAA)
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:450px; WIDTH:475px; HEIGHT:475px" SRC="images/areyouready.jpg">
+
+
+** Group #1:
+
+>- name
+>- name
+>- name
+>- name
+
+>- How do we manage the algal explosion that is choking Caribbean coral reefs?

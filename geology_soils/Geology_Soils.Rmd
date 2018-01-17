@@ -369,42 +369,70 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:450px; HEIGHT:450px" SRC="images/Soil_Retention_Curve.jpg">
 
-## Soil: chemical properties
+## Soil organic matter
 <hr>
+
+* <strong>Composition</strong>
+  + dead tissues
+  + age of components varies
+  + new/partially decomposed : charcoal
+  
 <br />
 
-## Soil: organic matter
-<hr>
+* <strong>Key resevior</strong>
+  + energy/carbon for heterotrophic organsims
+  + essential plant nutrient pool
+
 <br />
+
+* <strong>Soil properties</strong>
+  + weathering
+  + structure
+  + water and nutrient retention
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:500px; HEIGHT:300px" SRC="images/som-map.jpg">
 
 ## Soil: organic matter carbon
 <hr>
 <br />
+
+>- <strong>Definition: Soil organic carbon (SOC):</strong> 
+
+>-  Amount of C stored in the soil is a component of soil organic matter 
+>–  Plant and animal materials in the soil in various stages of decay 
+>-  Soil organic carbon is the basis of soil fertility
+
 <br />
 
->- Definition: Soil organic carbon (SOC): 
+>- <strong>Storage:</strong> 
 
->- Amount of C stored in the soil is a component of soil organic matter 
->– Plant and animal materials in the soil in various stages of decay 
->- Soil organic carbon is the basis of soil fertility
-
-<br />
-<br />
-
->- Storage:  
-
->- Soil C sequestration happens when CO<sub>2</sub> is removed from the atmosphere and stored in the soil C pool. 
->- Primarily mediated by plants through photosynthesis, with carbon stored in the form of SOC.
->- Age in organic soil layers varies (boreal, temperate and tropics) - 200-1200 yrs (Trumbore 2000)
+>-  Soil C sequestration happens when CO<sub>2</sub> is removed from the atmosphere and stored in the soil C pool. 
+>-  Primarily mediated by plants through photosynthesis, with carbon stored in the form of SOC.
+>-  Age in organic soil layers varies (boreal, temperate and tropics) - 200-1200 yrs (Trumbore 2000)
 
 ## Soil Carbon
 <hr>
-<br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soilcarbon.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soilcarbon.jpg">
 
 ## Soils: Future
 <hr>
-<br />
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soil_improvement.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:550px; HEIGHT:550px" SRC="images/soil_improvement.jpg">
+
+## 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+  
+<div style="float: right; width: 50%;">
+<strong><span style="color:green">"It is imperative that everyone—city dwellers, farmers and ranchers, land owners, and rural citizens alike—take responsibility for caring for and investing in our soils. Given their importance, soil must be protected from degradation, as the alternative is the loss of an array of important ecosystem services."</span></strong>
+</div>
+  
+<IMG STYLE="position:absolute; TOP:25px; LEFT:50px; WIDTH:450px; HEIGHT:650px" SRC="images/obama_soils.png">

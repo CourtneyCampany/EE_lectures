@@ -12,13 +12,7 @@ runtime: shiny
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-  
 
 
-## Soil: chemical properties
-<hr>
-<br />
 
-## Soil: organic matter
-<hr>
-<br />
+ 
