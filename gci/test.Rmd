@@ -1,5 +1,6 @@
 ---
-title: "Geology and Soils"
+title: "Grand challenge Initiative"
+subtitle: "BIOL359 - Ecosystem ECology"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -13,6 +14,12 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Molly Timmers (NOAA)
+<hr>
+<br/>
 
+<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:600px; HEIGHT:500px" SRC="images/molly.png">
 
- 
+<IMG STYLE="position:absolute; TOP:375px; LEFT:700px; WIDTH:300px; HEIGHT:100px" SRC="images/noaa.png">
+  
+
