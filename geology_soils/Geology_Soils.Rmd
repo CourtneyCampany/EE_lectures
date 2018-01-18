@@ -13,6 +13,13 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+## Soils: The underlying state factor
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/state.png">
+
 ## Soils: The underlying state factor
 <hr>
 <br />
@@ -24,7 +31,7 @@ knitr::opts_chunk$set(echo = FALSE)
   + plant rooting zone
   + medium for decomposers
   + home for animals
-  + flitration for aquatic systems
+  + filtration for aquatic systems
   
 <br />
 <br />
@@ -36,11 +43,6 @@ knitr::opts_chunk$set(echo = FALSE)
   + large volumes for storage
 </div>
 
-## Soils: The underlying state factor
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/state.png">
 
 ## Soils: Hot Topic History
 <hr>
@@ -91,7 +93,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * If we can have a holistic view of soil, soul and society...then we can live in harmony with ourselves, with other people and with nature.
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/kumar_soil.png">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/kumar_soil.png">
 
 ## Controls over soil formation: State factors
 <hr>
@@ -113,7 +115,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: right; width: 40%;">
 
 * <strong>Plate tectonics</strong>
-  + Uplift
+  + uplift
   + continental drift
   + distributes rocks, minerals, chemical elements
   
@@ -169,7 +171,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/erosionrates1.jpg">
 
-## Soil loss: long term
+## Soil loss: agriculture
 <hr>
 <br />
 
@@ -183,7 +185,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <IMG STYLE="position:absolute; TOP:325px; LEFT:500px; WIDTH:500px; HEIGHT:150px" SRC="images/asia_dust.jpg">
 
 * <strong>Outside</strong>
-  + Wind: ion and dust deposit
+  + wind: ion and dust deposit
   + ex. Asian dust phenomenon
   + Precipitation: floods and tides
   + Source determines chemistry
@@ -316,7 +318,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/soil_triangle2.jpg">
 
-## Soils:Structure
+## Soils: Structure
 <hr>
 <br />
 
@@ -328,14 +330,14 @@ knitr::opts_chunk$set(echo = FALSE)
   + >3mm - 0.001mm
   + mostly clay and loam
   + iron and aluminum oxides , silica & cations
-  + organic matetr: exudates by roots/bacteria/fungi
+  + organic matter: exudates by roots/bacteria/fungi
   + earthworm poop
   
 * <strong>Pores</strong>
 <br />
   + spaces between particles
   + wet/dry clay
-  + spac>
+  + earthworm travel
 
 ## Soils & Water
 <hr>
@@ -410,7 +412,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 >-  Soil C sequestration happens when CO<sub>2</sub> is removed from the atmosphere and stored in the soil C pool. 
 >-  Primarily mediated by plants through photosynthesis, with carbon stored in the form of SOC.
->-  Age in organic soil layers varies (boreal, temperate and tropics) - 200-1200 yrs (Trumbore 2000)
+>-  age of C in organic soil layers varies (boreal, temperate and tropics) - 200-1200 yrs (Trumbore 2000)
 
 ## Soil Carbon
 <hr>
