@@ -68,25 +68,25 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/energy_balance_perc.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/energy_balance_perc.jpg">
 
 ## Short wave radiation
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/shortwave.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:650px; HEIGHT:450px" SRC="images/shortwave.png">
 
 ## Long wave radiation
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:500px; HEIGHT:500px" SRC="images/Radiationbalance.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/Radiationbalance.jpg">
 
 ## Greenhouse effect
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/greenhouse.jpg">
+<IMG STYLE="position:absolute; TOP:200 px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/greenhouse.jpg">
 
 ## Greenhouse effect
 
@@ -111,7 +111,7 @@ knitr::opts_chunk$set(echo = FALSE)
   + fossil fuels, industry and agriculture
   + atmosphere traps more longwave = <strong>↑ greenhouse effect</strong>
   
-* affects radiative balance (2-3%)
+* affects radiative balance (.2-.3%)
   + absorbed by oceans
 
 ## Earth's Energy Budget: atmosphere absorption
@@ -151,28 +151,33 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Atmosphere: Vertical Structure
 <hr>
-<br />
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:550px; HEIGHT:500px" SRC="images/atmosphere_layers.jpg">
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 40
+
+<br />
 
 * <strong>Troposphere</strong>
   + lowest layer - weather happens here
-  + temperatre decreases w/ height
+  + temperature decreases w/ height
   
 <br />
+
 * <strong>Stratosphere</strong>
   + heated from top
   + ozone layer lives here; ↓ UV
 
 <br />
+
 * <strong>Mesophere</strong>
   + temperatre decreases w/ height
 
 <br />
+
 * <strong>Thermosphere</strong>
   + extends into space
+  + O and N atoms absorb short wavelengths
 </div>
 
 ## Atmosphere: plantery boundary layer
@@ -185,7 +190,7 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/uneven_heating.gif">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/uneven_heating.gif">
 
 ## Atmosphere: Circulation → Hadley cell
 <hr>
@@ -225,18 +230,20 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 * <strong>Variable albedo</strong>
   + bare soil < grasslands < forests
   + issues with land use change
-  <br />
   
-* <strong>Ecosystem structure</strong>
+  <br />
+
+* <strong>Ecosystem structure</strong>    
   + smooth vs variable surfaces (forest stands)
   + wind turbulence alters senisble and latent heat fluxes
+  
   <br />
   
-* <strong>Vegetaion structure</strong>
+* <strong>Vegetation structure</strong>
   + Tropical recycled rain
   + https://www.youtube.com/watch?v=Y3OWgb0Bv-A
   
-<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:350px; HEIGHT:350px" SRC="images/trees_rain.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:625px; WIDTH:350px; HEIGHT:350px" SRC="images/trees_rain.jpg">
 
 ## Climate Variability: Longer time scales
 <hr>
@@ -332,13 +339,13 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 <strong>Extreme weather such as hurricanes, torrential downpours and droughts will become more frequent in pace with global warming. This increases the risk for species extinction, especially in bio diverse ecosystems such as coral reefs and tropical rainforests.</strong>
 </div>
 
-<IMG STYLE="position:absolute; TOP:280spx; LEFT:275px; WIDTH:425px; HEIGHT:425px" SRC="images/hurricanes.jpg">
+<IMG STYLE="position:absolute; TOP:280spx; LEFT:300px; WIDTH:425px; HEIGHT:425px" SRC="images/hurricanes.jpg">
 
 ## Climate and biomes 
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/biomes_temp.png">
 
 ## Climate and vegetation
 <hr>
@@ -348,23 +355,22 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
   + Predictable!
   
   <br />
+  <br />
   
-* Ex. Among biomes:
-
-* Ex. Within biomes:
+* Examples:
 
 <br />
 
 * Remember: boundaries caused by climate are not discrete
   + Gradients of growth forms, leaf types, life forms, etc.
   
-## Climate and vegetation
+## Climate and vegetation (Beard 1955)
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:600px" SRC="images/beard1955.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:525px; HEIGHT:525px" SRC="images/beard1955.png">
 
-## Climate and vegetation
+## Climate and vegetation (Whittaker 1967)
 <hr>
 <br />
 
