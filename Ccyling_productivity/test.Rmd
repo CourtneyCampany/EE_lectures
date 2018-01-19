@@ -1,0 +1,37 @@
+---
+title: "Earth's Climate System"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Carbon inputs to ecosystems
+<hr>
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/tree_photosyn.png">
+
+<div style="float: left; width: 45%;">
+* Driven by plant photosynthesis
+
+<br />
+
+* C from photosynthesis = 50% of Earth's organic matter
+
+<br />
+
+*  Living biomass holds ~1,000 gigatons of C (mostly wood) 
+
+<br />
+
+*  Dead biomass holds ~1,200 gigatons of C
+</div>

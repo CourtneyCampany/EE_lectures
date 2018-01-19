@@ -1,0 +1,78 @@
+---
+title: "Plant C budgets"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Plant Carbon Budgets / NPP
+<hr>
+<br />
+
+## 'System Science' - mass balance
+<hr>
+<br />
+
+## Plant respiration
+<hr>
+<br />
+
+## Temperature sensitivity of respiration
+<hr>
+<br />
+
+
+## NPP (large scale)
+<hr>
+<br />
+
+
+## Controls over NPP
+<hr>
+<br />
+
+## Are terrestrial plants source or sink limited?
+<hr>
+<br />
+
+## To grow or to store?
+<hr>
+<br />
+
+
+## Enviromental controls of NPP
+<hr>
+<br />
+
+## Temperature sensitivity 
+<hr>
+<br />
+
+## Thermal optimums
+<hr>
+<br />
+
+## NPP and climate
+<hr>
+<br />
+
+## C cycling : allocation
+<hr>
+<br />
+
+## Allocation theory's
+<hr>
+<br />
+
+## Turnover and NPP
+<hr>
+<br />
