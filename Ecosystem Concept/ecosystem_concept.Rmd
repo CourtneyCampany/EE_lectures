@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 <br/>
 
-* Syllabus/Grading Quesions?
+* Syllabus/Grading Questions?
 
 * Lecture Schedule
 
@@ -155,7 +155,7 @@ leaflet() %>% addTiles%>%
 <br />
 
 * <strong>How the 'system' operates as a whole</strong> 
-<strong><span style="color:green">How is the 'system' STRUCTURED and how does in FUNCTION</strong></span>
+* <strong><span style="color:green">How is the 'system' STRUCTURED and how does in FUNCTION</strong></span>
 <br />
 <br />
 <br />
@@ -229,7 +229,7 @@ leaflet() %>% addTiles%>%
 * <strong>Four fundamental ecological processes of ecosystems </strong>
 <br />
   + Water cycle
-  + Biogeochemical (or nutrient) cycling, 
+  + Biogeochemical (or nutrient) cycling 
   + Energy flow
   + Community dynamics
 
@@ -275,7 +275,7 @@ leaflet() %>% addTiles%>%
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:275px; WIDTH:600px; HEIGHT:400px" SRC="images/statefactors.png">
 
-## Interactivce controls of Ecosystem Function
+## Interactive controls of Ecosystem Function
 <hr>
 <br />
 <br />
