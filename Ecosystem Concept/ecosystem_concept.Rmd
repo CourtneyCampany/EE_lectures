@@ -171,7 +171,7 @@ leaflet() %>% addTiles%>%
   
 * <strong><span style="color:green">We do this at many spatial scales </strong></span>
 
-## Coweete and Hubbard Brook experimental forests
+## Coweeta and Hubbard Brook experimental forests
 <hr>
 
 <div class="centered">
