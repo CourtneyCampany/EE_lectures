@@ -1,6 +1,5 @@
 ---
 title: "The Ecosystem Concept"
-author: "Dr. Court Campany"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -149,7 +148,7 @@ leaflet() %>% addTiles%>%
 <strong>Interactions of organisms with one another and with the environment</strong>
 </div>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:275px; WIDTH:600px; HEIGHT:400px" SRC="images/ecology.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/ecology.jpg">
 
 ## What is Ecosystem Ecology
 <hr>
@@ -179,14 +178,14 @@ leaflet() %>% addTiles%>%
 <strong>Watershed exps: materials entering from air/rocks-balanced by those leaving via stream catchments</strong>
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/hb1.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:115px; WIDTH:400px; HEIGHT:400px" SRC="images/hb1.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/hb2.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:565px; WIDTH:400px; HEIGHT:400px" SRC="images/hb2.jpg">
 
 ## Role of Ecology
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:480px; HEIGHT:480px" SRC="images/twitter1.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:480px; HEIGHT:480px" SRC="images/twitter1.png">
 
 ## Components of an Ecosystem: Review
 <hr>
@@ -218,7 +217,7 @@ leaflet() %>% addTiles%>%
 <br />
 <br />
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 45%;">
 * <strong>Ecosystems have *energy flows* and *cycle materials*</strong>
 <br />
   + These processes are linked, but they are not quite the same 
@@ -242,7 +241,7 @@ leaflet() %>% addTiles%>%
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/energy_pyramid.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/energy_pyramid.png">
 
 ## Biogeochemistry
 <hr>
@@ -270,7 +269,11 @@ leaflet() %>% addTiles%>%
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/statefactors.png">
+## Controls on Ecosystem Processes: State Factors
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:275px; WIDTH:600px; HEIGHT:400px" SRC="images/statefactors.png">
 
 ## Interactivce controls of Ecosystem Function
 <hr>
@@ -297,7 +300,7 @@ leaflet() %>% addTiles%>%
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes.gif">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/biomes.gif">
 
 ## The Geography of Ecosystems
 <hr>
@@ -315,7 +318,7 @@ leaflet() %>% addTiles%>%
 <hr>
 <br />  
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:450px; HEIGHT:450px" SRC="images/ecosystem-services.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:450px; HEIGHT:450px" SRC="images/ecosystem-services.jpg">
 
 ## Directions of Ecosystem Ecology
 <hr>
