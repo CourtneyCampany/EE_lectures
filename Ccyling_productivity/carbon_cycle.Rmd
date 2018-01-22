@@ -54,43 +54,189 @@ knitr::opts_chunk$set(echo = FALSE)
 ##
 <IMG STYLE="position:absolute; TOP:25px; LEFT:175px; WIDTH:750px; HEIGHT:650px" SRC="images/carbon_cycle_wiki.png">
 
-## Gross Primary Production
+## Gross Primary Production (GPP)
 <hr>
 <br />
 
-## ?How do we measure GPP?
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/gpp_usa.jpg">
+
+
+<div style="float: left; width: 45%;">
+>- sum of net photosynthesis by all tissue at a given scale
+
+<br />
+
+>- Canopy processes + environmental factors
+
+<br />
+
+>- Canopy gradients are key but not always straightforwards
+
+<br />
+
+>- Water availability at larger scales RULES
+
+<br />
+
+>- Hard to physically measure
+
+</div>
+
+## How do we measure GPP?
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:800px; HEIGHT:600px" SRC="images/scaling.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/scaling.jpg">
 
-## Net Photosynthesis
+## How do we measure GPP?
 <hr>
 <br />
 
-## Photosynthetic terms for Ecosystem Ecology
+<div style="float: right; width: 35%;">
+
+* **Modelling at large scales**
+ + process based
+ + vegetation based
+ + temporal integration 
+ 
+</div>
+
+* **Satellite products**
+   + radation use efficiency, light use efficiency, greenness
+   + solar-induced chlorophyll fluorescence
+   + https://modis.gsfc.nasa.gov/data/dataprod/mod17.php
+
+<br />
+
+* **Remote Sensing**
+  + exchange rates of  gases over ecosystems
+  + vertical turbulent fluxes within atmospheric boundary layers
+  + statistical method
+  + http://ameriflux.lbl.gov/
+ 
+## How do we measure GPP?
+<hr>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div style="float: left; width: 60%;">
+* **Lots of disagreement**
+  + no direct measure
+  
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/gpp_wrong.png">
+
+##
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0hAiaQGHOQI?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Terrestrial Photosynthesis
 <hr>
 <br />
 
-## Photosynthetic structures for Ecosystem Ecology
+<IMG STYLE="position:absolute; TOP:175px; LEFT:5opx; WIDTH:450px; HEIGHT:450px" SRC="images/leaves.jpg">
+
+<div style="float: right; width: 45%;">
+<br />
+
+* **Leaves remain in fixed postition**
+  + subject to vertical canopy gradients
+  + VPD driven drying
+
+<br />
+
+* **Leaves must adjust their physiology/capacity**
+
+<br />
+
+* **Carbon gain from forest floor to top of canopy**
+  + total leaf area is key
+</div>
+
+## Photosynthesis: Review
 <hr>
 <br />
 
-* stomata
-* boundary layers
-* stomatal conductance
-* SPAD
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/photosyn.jpg">
 
+## Terrestrial Photosynthesis: Light
+<hr>
+<br />
+<br />
+<br />
+<br />
+
+
+* **Things to know**
+<br />
+
+  + Irradiance:
+  + Light componsation point: 
+  + Sunflecks: 
+  + Diffuse vs direct light: 
+  + Extinction coefficient: 
+  + Light use efficiency: 
+  
+  <IMG STYLE="position:absolute; TOP:225px; LEFT:400px; WIDTH:650px; HEIGHT:400px" SRC="images/hemisphere.jpg">
+
+## Terrestrial Photosynthesis: Water
+<hr>
+<br />
+
+* **Stomata**
+  + leaf boundary layer:
+  + stomatal conductance:
+  + SPAD and VPD
+  
+<br />
+  
+* **Water supply**
+  + Outside plant:
+  + Inside plant:
+  + Water use efficiency: 
+  
+<br />
+
+* **Water limitation**
+  + Which environments?
+  + Leaf morpholgical adaptions?
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:350px; WIDTH:375px; HEIGHT:275px" SRC="images/plant_cell.jpg">
+
+<IMG STYLE="position:absolute; TOP:425px; LEFT:700px; WIDTH:375px; HEIGHT:250px" SRC="images/stomata.png">
+
+## Progress in Estimating Terrestrial Photosynthesis
+
+* Big leaf model
+
+* Two big leaf model
+
+* Dynamic systems models
+  + direct and diffuse light sources
+  + gradients in nutrients and water
+  + light extinction coefficien
+  + ability to alter photosynthetic capacity
+  + inputs from belowground
+  
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/gpp_wrong.png">
+  
 ## CO2 supply
 <hr>
 <br />
 
-## Photosynthetic down regulation
+## Photosynthetic up/down regulation
 
-## Light and leaf area index
+## Terrestrial photosynthesis: Leaves
 <hr>
 <br />
 
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/gpp_wrong.png">
+
+The greater the surface area of leaves, the less light will penetrate the canopy and reach the ground. The vertical reduction, or attenuation, of light through a stand of plants can be estimated using Beer's law, which describes the attenuation of light through a homogeneous medium.
 
 ## Nitrogen limitation and Photosynthetic capacity
 <hr>

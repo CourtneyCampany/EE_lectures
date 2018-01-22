@@ -13,25 +13,23 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Carbon inputs to ecosystems
+## Progress in Estimating Terrestrial Photosynthesis
 <hr>
 <br />
-<br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/tree_photosyn.png">
-
-<div style="float: left; width: 45%;">
-* Driven by plant photosynthesis
+* **Big leaf model**
 
 <br />
 
-* C from photosynthesis = 50% of Earth's organic matter
+* **Two big leaf model**
 
 <br />
 
-*  Living biomass holds ~1,000 gigatons of C (mostly wood) 
-
-<br />
-
-*  Dead biomass holds ~1,200 gigatons of C
-</div>
+* **Dynamic systems models**
+  + direct and diffuse light sources
+  + gradients in nutrients and water
+  + light extinction coefficien
+  + ability to alter photosynthetic capacity
+  + inputs from belowground
+  
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/gpp_wrong.png">
