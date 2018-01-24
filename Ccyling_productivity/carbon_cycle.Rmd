@@ -108,11 +108,21 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br />
 
-* **Remote Sensing**
+* **Eddy Flux towers**
   + exchange rates of  gases over ecosystems
   + vertical turbulent fluxes within atmospheric boundary layers
   + statistical method
   + http://ameriflux.lbl.gov/
+  
+## GPP from space, far out man
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/remote_sensing.jpg">
+
+## GPP from eddy flux towers
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/eddyflux.jpg">
  
 ## How do we measure GPP?
 <hr>
@@ -209,6 +219,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:425px; LEFT:700px; WIDTH:375px; HEIGHT:250px" SRC="images/stomata.png">
 
+## VPD: The gist on mist
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:700px; HEIGHT:400px" SRC="images/vpd.jpg">
+
+## VPD and stomatal behavior
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.gif">
+
 ## Progress in Estimating Terrestrial Photosynthesis
 
 * Big leaf model
@@ -253,15 +273,28 @@ The greater the surface area of leaves, the less light will penetrate the canopy
 <hr>
 <br />
 
-
-## Terrestrial GPP (large scale)
-<hr>
-<br />
-
+* Temperature
+  + plant physiology has thermal optimums
+  + carbon fixing enzymes sensitive to low temps
+  + extreme temperatures limit C absorption
+  
+* Leaves adapt
 
 ## Canopy Processes and Gradients
 <hr>
 <br />
+
+* Trees are smart!!!
+
+* Will try maximize C gain for all leaves
+
+* Based on gradients of canopy light extinction 
+  + water use 
+  + distribution of nitrogen 
+  
+* The photosynthetic capacity of leaves differs within a canopy
+
+* Resource economics of C gain
 
 ## LAI (large scale)
 <hr>
@@ -278,10 +311,11 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 <br />
 
 
-## GPP from space, far out man
-<hr>
-<br />
+* Photosynthesis can become CO2 limited at high elevations
 
+* Pollution
+  + ozone causes serious leaf damage
+  + pollution effects altered by local environment
 
 ## Next time: NPP
 <hr>
