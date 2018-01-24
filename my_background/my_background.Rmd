@@ -1,0 +1,45 @@
+---
+title: "me"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## About me
+<hr>
+
+<br />
+<br />
+<br />
+<br />
+
+* Plant Ecophysologist  
+* Ecosystem Ecologist
+
+<br />
+
+* www.courtneycampany.com  
+* twitter @court_campany
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:450px; WIDTH:475px; HEIGHT:475px" SRC="images/soilpit.jpg">
+
+## Science Background
+<hr>
+
+```{r echo=FALSE, warning=FALSE}
+library(leaflet)
+locations <- read.csv("data/memap.csv")
+
+leaflet() %>% addTiles%>%
+      addCircleMarkers(locations[1:nrow(locations),3], 
+                 locations[1:nrow(locations),2],
+                 popup = locations[1:nrow(locations),1],
+                 col=c("red", "gold", "orange", "forestgreen", "navy", "black", "darkgreen",                         rep("darkgreen",19),"#990033", "#990033","forestgreen", "royalblue",
+                       "green", "gold", "cornflowerblue"),
+                 opacity=c(.85, 100, .85, .85, .85, .85, rep(.85, 25)),
+                fillColor = c("white", "black", "white", "white", "grey", "darkgoldenrod", "plum", "white", rep("white",25)),
+                 fillOpacity = c(100, 100, 100, 0, 85, 100, rep(100, 25)), weight=3)
+ 
+```
