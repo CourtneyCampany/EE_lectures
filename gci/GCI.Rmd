@@ -52,6 +52,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/ecoprob.jpg">
 
+## Grand Challenges: Why?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/moon.jpg">
+
 ## My Role (#1): Contact scientific experts
 <hr>
 <br/>
@@ -165,15 +170,17 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br/>
 
-<div class="centered"><strong><span style="color:green">How do we manage the algal explosion that is choking Caribbean coral reefs? </strong></span></div>
-
-<br/>
-<br/>
-
 >- S. Dexter
 >- M. Pugliese
 >- P. Murphy
 >- M. Webb
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+>- <strong><span style="color:green">How do we manage the algal explosion that is choking Caribbean coral reefs? </strong></span>
 
 ## Scott Stephens (UCBerkeley)
 <hr>
@@ -187,15 +194,17 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br/>
 
-<div class="centered"><strong><span style="color:green">How do we plan and manage to reduce the vulnerability of human communities in fire prone areas of California? </strong></span></div>
-
-<br/>
-<br/>
-
 >- K. Hankowsky
 >- M. Israelit
 >- A. Violette
 >- T. Ali
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+>- <strong><span style="color:green">How do we plan and manage to reduce the vulnerability of human communities in fire prone areas of California? </strong></span>
 
 ## Prof. Bill Anderegg (Utah University)
 <hr>
@@ -209,15 +218,17 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br/>
 
-<div class="centered"><strong><span style="color:green">How do we plan and manage for climate-resilient forests? (focusing on either the southwestern US or inter-mountain western US)</strong></span></div>
-
-<br/>
-<br/>
-
 >- K. Brown
 >- C. Brown
 >- A. Russell
 >- S. Shapiro
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+>- <strong><span style="color:green">How do we plan and manage for climate-resilient forests? (focusing on either the southwestern US or inter-mountain western US)</strong></span
 
 ## Prof. Howard Neufeld (Appalachian State University)
 <hr>
@@ -231,15 +242,17 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br/>
 
-<div class="centered"><span style="color:green">How should the U.S. deal with the subject of invasive species, especially from the standpoint of maintaining maximum services from our natural ecosystems?</strong></span></div>
-
-<br/>
-<br/>
-
 >- M. Murphy
 >- A. Laskowski
 >- A. Raemer
 >- J. Winward
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+>- <span style="color:green">How should the U.S. deal with the subject of invasive species, especially from the standpoint of maintaining maximum services from our natural ecosystems?</strong></span>
 
 ## 
 <IMG STYLE="position:absolute; TOP:125px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/questions.jpg">
