@@ -228,7 +228,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br/>
 <br/>
 
->- <strong><span style="color:green">How do we plan and manage for climate-resilient forests? (focusing on either the southwestern US or inter-mountain western US)</strong></span
+>- <strong><span style="color:green">How do we plan and manage for climate-resilient forests? (focusing on either the southwestern US or inter-mountain western US)</strong></span>
 
 ## Prof. Howard Neufeld (Appalachian State University)
 <hr>
