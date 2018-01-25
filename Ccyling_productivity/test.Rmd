@@ -17,9 +17,6 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 
-## Terrestrial photosynthesis: Nitrogen
-<hr>
-<br />
 
 ## Terrestrial photosynthesis: Capacity
 <hr>
@@ -30,20 +27,13 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 
-## Terrestrial photosynthesis: Leaves
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/gpp_wrong.png">
-
-The greater the surface area of leaves, the less light will penetrate the canopy and reach the ground. The vertical reduction, or attenuation, of light through a stand of plants can be estimated using Beer's law, which describes the attenuation of light through a homogeneous medium.
-
 
 ## Progress in Estimating Terrestrial Photosynthesis
 
 * Big leaf model
 
 * Two big leaf model
+  + some self-shading
 
 * Dynamic systems models
   + direct and diffuse light sources

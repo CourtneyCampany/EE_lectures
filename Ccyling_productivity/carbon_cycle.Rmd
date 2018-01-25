@@ -102,7 +102,7 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 
 * **Satellite products**
-   + radation use efficiency, light use efficiency, greenness
+   + radiation use efficiency, light use efficiency, greenness
    + solar-induced chlorophyll fluorescence
    + https://modis.gsfc.nasa.gov/data/dataprod/mod17.php
 
@@ -177,15 +177,16 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 <br />
-<br />
-<br />
 
+* Light decreases exponentially through the canopy
+
+<br />
 
 * **Things to know**
 <br />
 
   + Irradiance:
-  + Light componsation point: 
+  + Light compensation point: 
   + Sunflecks: 
   + Diffuse vs direct light: 
   + Extinction coefficient: 
@@ -213,7 +214,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Water limitation**
   + Which environments?
-  + Leaf morpholgical adaptions?
+  + Leaf morphological adaptions?
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:350px; WIDTH:375px; HEIGHT:275px" SRC="images/plant_cell.jpg">
 
@@ -228,21 +229,6 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.gif">
-
-## Progress in Estimating Terrestrial Photosynthesis
-
-* Big leaf model
-
-* Two big leaf model
-
-* Dynamic systems models
-  + direct and diffuse light sources
-  + gradients in nutrients and water
-  + light extinction coefficien
-  + ability to alter photosynthetic capacity
-  + inputs from belowground
-  
-<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/gpp_wrong.png">
   
 ## CO2 supply
 <hr>
@@ -254,22 +240,86 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/gpp_wrong.png">
+<div class="centered"><strong><span style="color:green">The greater the surface area of leaves, the less light will penetrate the canopy and reach the ground. The vertical reduction, or attenuation, of light through a stand of plants can be estimated using Beer's law, which describes the attenuation of light through a homogeneous medium.</span></strong></div>
 
-The greater the surface area of leaves, the less light will penetrate the canopy and reach the ground. The vertical reduction, or attenuation, of light through a stand of plants can be estimated using Beer's law, which describes the attenuation of light through a homogeneous medium.
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/light_extinctions.jpg">
 
-## Nitrogen limitation and Photosynthetic capacity
+## Leaf Area Index: LAI
 <hr>
 <br />
+
+* **Projected leaf area per unit ground area**
+
+  + 1) LAI determines how much area for light abosoprtion/C uptake
+
+  + 2) LAI determines light extinction through canopy
+
+* LAI is the basis of many remote sensing methods
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/lai_vis.png">
+
+## LAI: from space
+<hr>
+<br />
+
+https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
+
+## Regulators of LAI
+<hr>
+<br />
+
+* Highly seasonal (obvisously)
+
+<br />
+
+* Variability within ecosystems
+  + species and climate driven
+  + stand dynamics (1-8)
+
+<br />
+
+* Leaf angles
+  + Eucalpytus 
+
+<br />
+
+* Leaf types
+  + leaf size
+  + broadleaf vs conifers
+  
+<br />
+* Crop species can have large LAI
+  + cotton peaks at ~5
+  
+  <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/stand_light.jpg">
+
+
+## Nitrogen distribution and Photosynthetic capacity
+<hr>
+<br />
+
+* **Theoritically** nitrogen should be distributed more to sun leaves
+  + matching light availability
+  + photosynthetic capacity highest in full sun leaves
+  
+* **Optimality theory of canopy N distributions**
+  + Trees and forest stands
+  + Basis of a lot of models for GPP
+  
+## Nitrogen distribution: not so fast!
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/Ncanopy2.png">
 
 ## Water use efficiency
 <hr>
 <br />
 
 * different meanings for crops vs non-crops
-* different temproal scales 
+* different temporal scales 
 
-## Temperature effects on carbon uptake (large scale)
+## Temperature effects on C uptake (large scale)
 <hr>
 <br />
 
@@ -278,7 +328,11 @@ The greater the surface area of leaves, the less light will penetrate the canopy
   + carbon fixing enzymes sensitive to low temps
   + extreme temperatures limit C absorption
   
-* Leaves adapt
+* Thermal ranges
+  + plant physiology has thermal optimums (Topt)
+  + Topt can be acclimated if environment shifts
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/topt.png">
 
 ## Canopy Processes and Gradients
 <hr>
@@ -296,26 +350,38 @@ The greater the surface area of leaves, the less light will penetrate the canopy
 
 * Resource economics of C gain
 
-## LAI (large scale)
-<hr>
-<br />
-
-https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
-
-## Regulators of LAI
-<hr>
-<br />
-
 ## Environmental controls of GPP
 <hr>
 <br />
-
 
 * Photosynthesis can become CO2 limited at high elevations
 
 * Pollution
   + ozone causes serious leaf damage
   + pollution effects altered by local environment
+  
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/ozone.jpg">
+
+## Progress in Estimating Terrestrial Photosynthesis
+
+* Big leaf model
+
+* Two big leaf model
+  + some self-shading
+
+* Dynamic systems models
+  + direct and diffuse light sources
+  + gradients in nutrients and water
+  + light extinction coefficien
+  + ability to alter photosynthetic capacity
+  + inputs from belowground
+  
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/gpp_wrong.png">
+
+## Review: Draw the perfect forest....
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/draw_forest.jpg">
 
 ## Next time: NPP
 <hr>
