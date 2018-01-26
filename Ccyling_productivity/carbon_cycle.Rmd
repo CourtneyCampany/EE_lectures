@@ -229,10 +229,58 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.gif">
-  
-## CO2 supply
+
+## Water use efficiency (WUE)
 <hr>
 <br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:25px; WIDTH:600px; HEIGHT:500px" SRC="images/wue3.jpg">
+
+<div style="float: right; width: 45%;">
+
+* **Stomatal conductance has slightly different effects on the rates of CO<sub>2</sub> entry and water loss**
+  + water out/CO<sub>2</sub> in:  both experience stomatal/boundary layer resistances
+  + CO<sub>2</sub> also has internal cell resistances to diffusion
+
+<br />
+
+* **So...CO2 in is slightly slower than water out**
+
+</div>
+
+## WUE and VPD
+<hr>
+<br />
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/wue_vpd.jpg">
+
+<div style="float: left; width: 45%;">
+
+* **Change in stomatal conductance has larger effect on water loss than on C gain**
+
+<br />
+
+* **Water diffuses more rapidly than does CO<sub>2</sub>**
+  + smaller molecular mass
+  + steeper concentration gradient
+
+<br />
+
+* **Instantaneous or leaf life span**
+</div>
+
+## WUE relevant in climate change science
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/wue.jpg">
+
+## WUE relevant on ecosystem scales
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:950px; HEIGHT:525px" SRC="images/gpp_wue.png">
 
 ## Photosynthetic up/down regulation
 
@@ -292,6 +340,60 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
   + cotton peaks at ~5
   
   <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/stand_light.jpg">
+  
+  ## Photosynthetic up/down regulation
+<hr>
+<br />
+<br />
+
+<div style="float: left; width: 45%;">
+
+* **Plants adjust photosynthetic mechansims**
+ 
+ <br />
+ 
+* **Active process in newly produced cells**
+  + increase investment in light harvesting in low light
+  + increase carbon fixing capacity in high light
+ 
+ <br />
+ 
+* **Plants can also acclimate processes when environment changes**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/topt2.png">
+
+## Leaf photosynthetic Capacity
+<hr>
+<br />
+
+* **Photosynthetic capacity:**
+
+<br />
+
+* **Quality vs Quantity**
+  + number of leaves in a forest changes minimally over growing season
+  + age and quality of leaves varies tremendously
+
+<br />
+
+* **Max leaf photosynthetic efficiency lasts ~ 3 months**
+  + http://www.biographic.com/posts/sto/from-leaf-to-landscape
+  
+<br />
+
+* **Unavoidable tradeoff between max photosynthesis and max longevity**
+  + Wright 2004: Leaf Economic Spectrum
+  
+<IMG STYLE="position:absolute; TOP:175px; LEFT:600px; WIDTH:450px; HEIGHT:275px" SRC="images/leaf.png">  
+  
+## Terrestrial photosynthesis: Capacity
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/capacity_nitro.png">
+
 
 
 ## Nitrogen distribution and Photosynthetic capacity
@@ -312,10 +414,11 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/Ncanopy2.png">
 
-## Water use efficiency
+## Water use efficiency (WUE)
 <hr>
 <br />
 
+* carbon gain per unit of water lost
 * different meanings for crops vs non-crops
 * different temporal scales 
 

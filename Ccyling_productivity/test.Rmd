@@ -13,36 +13,3 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Terrestrial photosynthesis: CO2 limitation
-<hr>
-<br />
-
-
-## Terrestrial photosynthesis: Capacity
-<hr>
-<br />
-
-## Photosynthetic up/down regulation
-<hr>
-<br />
-
-
-
-## Progress in Estimating Terrestrial Photosynthesis
-
-* Big leaf model
-
-* Two big leaf model
-  + some self-shading
-
-* Dynamic systems models
-  + direct and diffuse light sources
-  + gradients in nutrients and water
-  + light extinction coefficien
-  + ability to alter photosynthetic capacity
-  + inputs from belowground
-  
-<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/gpp_wrong.png">
-
-
-
