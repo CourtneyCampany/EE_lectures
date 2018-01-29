@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 <div class="centered">
-<strong><span style="color:green">factor which most strongly governs ecosystem structure and processes</span></strong>
+<strong><span style="color:green">Factor which most strongly governs ecosystem structure and processes</span></strong>
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/statefactors.jpg">
@@ -63,7 +63,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:75px; LEFT:350px; WIDTH:400px; HEIGHT:600px" SRC="images/politics.png">
 
-
 ## Earth's Energy Budget
 <hr>
 <br />
@@ -92,7 +91,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VYMjSule0Bw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Earth's Energy Budget: balance
+## Earth's Energy Budget: Balance
 <hr>
 
 * <strong>Earth normally close to radiative balance</strong> (emission = absorbtion)
@@ -102,19 +101,19 @@ knitr::opts_chunk$set(echo = FALSE)
 * <strong>Atmospheric heating</strong>
   + <span style="color:green">longwave absorption by active gases</span>
   + absorption of some solar radiation
-  + *latent heat flux*: evaporation/transpiration of surface water & cloud making
-  + *sensible heat flux*: upward transfer of surface heat to air
+  + *latent heat flux*: 
+  + *sensible heat flux*: 
   
 <br />
   
 * <strong><span style="color:green">Recent large increases in active atmospheric gases</span></strong>
   + fossil fuels, industry and agriculture
-  + atmosphere traps more longwave = <strong>↑ greenhouse effect</strong>
+  + atmosphere traps more longwave = <strong>enhances greenhouse effect</strong>
   
-* affects radiative balance (.2-.3%)
-  + absorbed by oceans
+* disrupts radiative balance (.2-.3%)
+  + excess energy absorbed by oceans
 
-## Earth's Energy Budget: atmosphere absorption
+## Earth's Energy Budget: Atmosphere Absorption
 <hr>
 <br />
 
@@ -130,7 +129,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 <br />
 
-* <strong>These gases have long mean residence times</strong>
+* <strong>Most gases have long mean residence times</strong>
   + constant around the world
   + N<sub>2</sub> = 13 mil years and O<sub>2</sub> = 10,000
   + CO<sub>2</sub> = 5 years (?Good or Bad?)
@@ -143,7 +142,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 
-## Why clouds are cool!
+## Why clouds are cool...
 <hr>
 <br />
 
@@ -202,7 +201,7 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i2mec3vgeaI?start=6" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Landforms effect on climate
+## Landform effect on climate
 <hr>
 <br />
 
@@ -218,7 +217,7 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 * <strong>Mountains</strong>
   + rain shadow
   + topography & micro-climate
-  + aspect -Ski Resorts-
+  + aspect -?Ski Resorts?-
 </div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:500px; HEIGHT:400px" SRC="images/rainshadow.jpg">
@@ -228,7 +227,7 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 <br />
 
 * <strong>Variable albedo</strong>
-  + bare soil < grasslands < forests
+  + bare soil > grasslands > forests
   + issues with land use change
   
   <br />
