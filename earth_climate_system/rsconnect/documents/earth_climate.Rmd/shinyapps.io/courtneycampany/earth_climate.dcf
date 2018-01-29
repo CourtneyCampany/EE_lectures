@@ -1,0 +1,12 @@
+name: earth_climate
+title: earth_climate
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 265401
+bundleId: 1198004
+url: https://courtneycampany.shinyapps.io/earth_climate/
+when: 1517248603.9518
+asMultiple: FALSE
+asStatic: FALSE
