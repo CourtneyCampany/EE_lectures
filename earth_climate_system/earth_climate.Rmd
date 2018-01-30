@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Climate: Hot Topic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXrYvd-LBu0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Human's are *modifiying* Earth's climate
+## We are *modifiying* Earth's climate
 <hr>
 <br />
 
@@ -127,12 +127,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: right; width: 50%;">
 <br />
-<br />
 
 * <strong>Most gases have long mean residence times</strong>
   + constant around the world
-  + N<sub>2</sub> = 13 mil years and O<sub>2</sub> = 10,000
+  + N<sub>2</sub> = 13 mil and O<sub>2</sub> = 10,000 years
   + CO<sub>2</sub> = 5 years (?Good or Bad?)
+  + methane = 8 years
 
 <br />
 <br />
@@ -179,7 +179,7 @@ knitr::opts_chunk$set(echo = FALSE)
   + O and N atoms absorb short wavelengths
 </div>
 
-## Atmosphere: plantery boundary layer
+## Atmosphere: planetary boundary layer
 <hr>
 <br />
 
@@ -206,13 +206,14 @@ https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004077/4077_pblh-1920-MASTER_ipod
 <br />
 
 <div style="float: left; width: 50%;">
-<br />
 
 * <strong>Land</strong>
   + heating of ocean vs land
   + land and sea breezes
   + dirunal and seasonal
+  
 <br />
+<br /> 
 
 * <strong>Mountains</strong>
   + rain shadow
