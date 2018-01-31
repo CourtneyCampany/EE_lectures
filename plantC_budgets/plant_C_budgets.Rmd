@@ -18,31 +18,99 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 
+* **carbon “metabolism” of Earth’s vegetation** They show 
+  + plants convert carbon dioxide into sugar molecules for food.
+  + this process also provide the oxygen we need to breathe 
+  + plants provide the energy and air required by most life forms on Earth.
+  
+* <strong><span style="color:green">Net Primary Productivity</span></strong> 
+  + how much CO<sub>2</sub> vegetation takes in during photosynthesis 
+  + minus how much CO<sub>2</sub> the plants release through respiration 
+  
+* **Respiration** 
+  + metabolic process of using sugars and starches for energy 
+  + construction and maintenance respiration (in plants)
+
 ## 'System Science' - mass balance
 <hr>
 <br />
 
+## The hunt for the world’s missing carbon
+
+Researchers are racing to determine whether forests will continue to act as a brake on climate change by soaking up more carbon.
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:375px; WIDTH:700px; HEIGHT:500px" SRC="images/missingC.jpg">
+
+## NPP: Large scales
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:375px; WIDTH:700px; HEIGHT:500px" SRC="images/npp_earth.jpg">
+
+## NPP: Large scales)
+<hr>
+<br />
+
+https://nelson.wisc.edu/sage/data-and-models/atlas/maps/npp/preview3.html
+
+## NPP: Large scales
+<hr>
+<br />
+
+<video width="320" height="240" autoplay>
+  <source src="images/npp_video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+
+## NPP: Biomes
+<hr>
+<br />
+
+* In mid-latitudes, NPP is tied to seasonal change 
+* boreal forests have high productivity in June and July, then decline 
+* Tropical forests have year-round high productivity 
+
+* Due mainly to which state factor?
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:375px; WIDTH:700px; HEIGHT:500px" SRC="images/npp_biomes.png">
+
 ## Plant respiration
 <hr>
 <br />
+
+* Photosynthesis uses carbon dioxide and produces oxygen
+* Respiration uses oxygen and produces carbon dioxide. 
+
+* Plants respire all the time, whether it is dark or light. 
+* They photosynthesise only when they are in the light.
+
++ Photosynthesis usually results in a net glucose gain
+  + accounting for respiration
+  + increase in plant biomass
 
 ## Temperature sensitivity of respiration
 <hr>
 <br />
 
 
-## NPP (large scale)
-<hr>
-<br />
+
 
 
 ## Controls over NPP
 <hr>
 <br />
 
+## NPP: Who is in charge?
+<hr>
+<br />
+
 ## Are terrestrial plants source or sink limited?
 <hr>
 <br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:375px; WIDTH:700px; HEIGHT:500px" SRC="images/sinksource.jpg">
+
 
 ## To grow or to store?
 <hr>
