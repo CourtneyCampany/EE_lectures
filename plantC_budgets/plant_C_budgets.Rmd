@@ -1,5 +1,5 @@
 ---
-title: "Plant C budgets"
+title: "Plant Carbon budgets"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -13,45 +13,51 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
 ## Plant Carbon Budgets / NPP
 <hr>
 <br />
 
-* **carbon “metabolism” of Earth’s vegetation** They show 
-  + plants convert carbon dioxide into sugar molecules for food.
+* **Carbon “metabolism” of Earth’s vegetation**
+  + plants convert CO<sub>2</sub> into sugar molecules for food.
   + this process also provide the oxygen we need to breathe 
   + plants provide the energy and air required by most life forms on Earth.
-  
+ 
+ <br />
+ 
 * <strong><span style="color:green">Net Primary Productivity</span></strong> 
   + how much CO<sub>2</sub> vegetation takes in during photosynthesis 
-  + minus how much CO<sub>2</sub> the plants release through respiration 
-  
+  + minus CO<sub>2</sub> the plants release through respiration 
+
+<br />
+
 * **Respiration** 
   + metabolic process of using sugars and starches for energy 
   + construction and maintenance respiration (in plants)
+  
+<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:500px; HEIGHT:450px" SRC="images/treecarbon.jpg">
 
-## 'System Science' - mass balance
+## 'System Science' - Carbon mass balance
 <hr>
 <br />
 
-## The hunt for the world’s missing carbon
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/treeallocation.jpg">
 
-Researchers are racing to determine whether forests will continue to act as a brake on climate change by soaking up more carbon.
+## Hunt for the world’s missing carbon
+<hr>
+<div class="centered">
+<strong><span style="color:green"
+Researchers are racing to determine whether forests will continue to act as a brake on climate change by soaking up more carbon.</span></strong>
+</div>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:375px; WIDTH:700px; HEIGHT:500px" SRC="images/missingC.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/missingC.jpg">
 
 ## NPP: Large scales
 <hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:375px; WIDTH:700px; HEIGHT:500px" SRC="images/npp_earth.jpg">
-
-## NPP: Large scales)
-<hr>
-<br />
-
+<div class="centered"><strong>
 https://nelson.wisc.edu/sage/data-and-models/atlas/maps/npp/preview3.html
+</strong></div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/npp_earth.jpg">
 
 ## NPP: Large scales
 <hr>
@@ -62,40 +68,122 @@ https://nelson.wisc.edu/sage/data-and-models/atlas/maps/npp/preview3.html
 Your browser does not support the video tag.
 </video>
 
+## NPP: Biomes
+<hr>
+<br />
+<br />
+<div style="float: left; width: 40%;">
+
+* In mid-latitudes, NPP is seasonal
+
+<br />
+
+* Boreal forests have high productivity in June and July, then decline 
+
+<br />
+
+* Tropical forests have year-round high productivity 
+
+<br />
+<br />
+
+* Due mainly to which state factor?
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:450px" SRC="images/npp_temperate.jpg">
 
 ## NPP: Biomes
 <hr>
 <br />
 
-* In mid-latitudes, NPP is tied to seasonal change 
-* boreal forests have high productivity in June and July, then decline 
-* Tropical forests have year-round high productivity 
-
-* Due mainly to which state factor?
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:375px; WIDTH:700px; HEIGHT:500px" SRC="images/npp_biomes.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/npp_biomes.png">
 
 ## Plant respiration
 <hr>
 <br />
 
-* Photosynthesis uses carbon dioxide and produces oxygen
-* Respiration uses oxygen and produces carbon dioxide. 
+<div style="float: right; width: 50%;">
 
-* Plants respire all the time, whether it is dark or light. 
-* They photosynthesise only when they are in the light.
+* **Photosynthesis uses CO<sub>2</sub> and produces O<sub>2</sub>**
 
-+ Photosynthesis usually results in a net glucose gain
+<br />
+
+* **Respiration uses O<sub>2</sub> and produces CO<sub>2</sub>**  
+
+<br />
+
+* **Plants respire all the time, whether it is dark or light** 
+  + Only photosynthesize in light.
+
+<br />
+
+* **Photosynthesis usually results in a net glucose gain**
   + accounting for respiration
   + increase in plant biomass
+  </div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:375x; HEIGHT:500px" SRC="images/tree_wires.jpg">
+
+
+## Temperature sensitivity of respiration
+<hr>
+<br />
+<div class="centered">
+Response of dark respiration rate to temperature in
+leaves of Quercus rubrum (Qr), Quercus prinus (Qp) and Acer
+rubrum (Ar) from Turnbll et al 2002.
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:225px; WIDTH:650px; HEIGHT:400px" SRC="images/resp_temp.png">
 
 ## Temperature sensitivity of respiration
 <hr>
 <br />
 
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/temp_resp2.jpg">
 
+## Respiration: Construction costs (Poorter 1994)
+<hr>
+<br />
 
+<div class="centered">
+<strong><span style="color:green">
+~20% of energy invested in growth is lost as respiration</span></strong>
+</div>
 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/consturct.png">
+
+## Respiration: Maintenance and Ion uptake
+<hr>
+<br />
+
+<div style="float: left; width: 45%;">
+
+* <strong><span style="color:green">Maintenance</span></strong>
+  + provides ATP for upkeep and repair of live tissues
+
+<br />
+
+* **Up to 50% of total plant respiratipon**
+
+<br />
+
+* **Likely to increase when stress occurs (drought, etc.)**
+  + Affects the balance between growth and respiration
+
+</div>
+
+<div style="float: right; width: 40%;">
+
+* <strong><span style="color:green">Ion transport</span></strong>
+  + energetically expensive
+
+<br />
+
+* Root growth and nutrient absorption
+  + e.g. NH3 and NH4 uptake
+
+</div>
 
 ## Controls over NPP
 <hr>

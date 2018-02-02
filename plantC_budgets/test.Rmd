@@ -1,5 +1,5 @@
 ---
-title: "Earth's Climate System"
+title: "Plant Carbon budgets"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -13,11 +13,16 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## NPP (large scale)
+## Controls over NPP
 <hr>
 <br />
 
-<video width="320" height="240" autoplay>
-  <source src="npp_video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+## NPP: Who is in charge?
+<hr>
+<br />
+
+## Are terrestrial plants source or sink limited?
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:375px; WIDTH:700px; HEIGHT:500px" SRC="images/sinksource.jpg">
