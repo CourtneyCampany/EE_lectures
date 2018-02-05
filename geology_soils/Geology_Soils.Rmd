@@ -14,13 +14,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-## Soils: The underlying state factor
+## Soils: Underlying state factor
 <hr>
 <br />
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/state.png">
 
-## Soils: The underlying state factor
+## Soils: Underlying state factor
 <hr>
 <br />
 
@@ -38,11 +38,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * <strong>Soils rule the world</strong>
   + mediate many biogeochemical cycles
-  + although small by %, is the biologically excited layer of earth's crust
-  + responsive to: biota, climate, geology and atmospheric chemistry
+  + biologically excited layer of earth's crust (small by %)
+  + <strong><span style="color:green">responsive to: biota, climate, geology and atmospheric chemistry</span></strong>
   + large volumes for storage
 </div>
-
 
 ## Soils: Hot Topic History
 <hr>
@@ -55,8 +54,8 @@ knitr::opts_chunk$set(echo = FALSE)
 * <strong>Lake Dojran (Macedonia/Greece) lake sediment isotopes</strong>
   + soil development changes require longer-term climate shifts
   + shortlived (<1,000 yrs) climatic shifts can impact soil erosion
-  + Unprecedented erosion associated with development of agriculture
-  + early signs of a negative feedback between civilization and environment
+  + Unprecedented erosion with development of agriculture
+  + negative feedback between early civilization and environment
   
 <br />
 <br />
@@ -70,8 +69,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 <div class="centered">
-<strong><span style="color:green">'Lost within a moment's time': 20 dead in California mudslide </span></strong>
-</div>
+<strong><span style="color:green">'Lost within a moment's time': 20 dead in California mudslide </span></strong></div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/calisoils.jpg">
 
@@ -105,14 +103,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/soil-formation.jpg">
 
-## Parent material: The Rock Cycle
+## Parent material: Rock Cycle
 <hr>
 <br />
 <br />
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/rockcycle.png">
 
-<div style="float: right; width: 40%;">
+<div style="float: right; width: 45%;">
 
 * <strong>Plate tectonics</strong>
   + uplift
@@ -128,7 +126,7 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 
 
-## Soils formation: other state factors
+## Soils formation: Other state factors
 <hr>
 <br />
 
@@ -159,19 +157,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:195px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/croperosion.png">
 
-## Soil loss: short term
+## Soil loss: Short term
 <hr>
 <br />
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/Soil-erosion.jpg">
 
-## Soil loss: long term
+## Soil loss: Long term
 <hr>
 <br />
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/erosionrates1.jpg">
 
-## Soil loss: agriculture
+## Soil loss: Agriculture
 <hr>
 <br />
 
@@ -195,7 +193,6 @@ knitr::opts_chunk$set(echo = FALSE)
 * <strong>Inside</strong>
   + dead organic matter
 
-
 ## Development of soil profiles: Transformations
 <hr>
 <br />
@@ -215,12 +212,18 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: right; width: 40%;">
 
 * <strong>Weathering</strong>
-  + physical processes:
+  + <strong><span style="color:green">physical processes:</span></strong>
   + weather, fire, freeze-thaw, wetting-drying
-  + chemical processes:
+  + <strong><span style="color:green">chemical processes:</span></strong>
   + organic acids from roots and microbes
   + source determines properites
 </div>
+
+## Development of soil profiles: Rhizospehere
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:550px; HEIGHT:550px" SRC="images/rhizo.jpg">
 
 ## Development of soil profiles: Transfers/Losses
 <hr>
@@ -229,8 +232,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 <br />
 <br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:500px; HEIGHT:500px" SRC="images/leaching.jpg">
+<br />
 
 <div style="float: right; width: 40%;">
 
@@ -240,6 +242,8 @@ knitr::opts_chunk$set(echo = FALSE)
   + buffered by exchange capacity of soil
   + ions with single charge lost easily
 </div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:500px; HEIGHT:500px" SRC="images/leaching.jpg">
 
 ## Soil Horizons
 <hr>
@@ -295,22 +299,22 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 
->- What is soil texture?
+* **What is soil texture?**
 
 <br />
 <br />
 
->- What are the 3 main soil particles
->- Order them from large to small
+* **What are the 3 main soil particles**
+  + Order them from large to small
 
 <br />
 
->- Dont forgot about rocks and gravel (large volumes)
+* **Dont forgot about rocks and gravel (large volumes)**
 
 <br />
 <br />
 
->- What is 'Bulk Density' & why is it important
+* **What is 'Bulk Density' & why is it important**
 
 ## Soils: Physical Properties
 <hr>
@@ -321,22 +325,21 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Soils: Structure
 <hr>
 <br />
-
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:250px" SRC="images/soilaggregates.jpg">
 
 * <strong>Soil aggregates</strong>
-<br />
   + soil particles glued together in different sizes
   + >3mm - 0.001mm
   + mostly clay and loam
-  + iron and aluminum oxides , silica & cations
-  + organic matter: exudates by roots/bacteria/fungi
-  + earthworm poop
   
+* <strong>Soil glue</strong>
+  + Fe and Al oxides, silica & cations
+  + exudates by roots/bacteria/fungi
+  + earthworm poop
+
 * <strong>Pores</strong>
-<br />
   + spaces between particles
-  + wet/dry clay
+  + wet/dry
   + earthworm travel
 
 ## Soils & Water
@@ -363,7 +366,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * <strong>Water holding capacity</strong>
   + difference between soil types?
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/spac.jpg">
+<IMG STYLE="position:absolute; TOP:185px; LEFT:550px; WIDTH:550px; HEIGHT:450px" SRC="images/spac.jpg">
 
 ## Soil Types & Water Renention
 <hr>
@@ -377,7 +380,8 @@ knitr::opts_chunk$set(echo = FALSE)
 * <strong>Composition</strong>
   + dead tissues
   + age of components varies
-  + new/partially decomposed : charcoal
+  + new/partially decomposed
+  + charcoal
   
 <br />
 
@@ -394,7 +398,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:500px; HEIGHT:300px" SRC="images/som-map.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:500px; HEIGHT:300px" SRC="images/som-map.jpg">
 
 ## Soil: organic matter carbon
 <hr>
@@ -411,7 +415,7 @@ knitr::opts_chunk$set(echo = FALSE)
 >- <strong>Storage:</strong> 
 
 >-  Soil C sequestration happens when CO<sub>2</sub> is removed from the atmosphere and stored in the soil C pool. 
->-  Primarily mediated by plants through photosynthesis, with carbon stored in the form of SOC.
+>-  Primarily mediated by plants through photosynthesis, with C stored in the form of SOC.
 >-  age of C in organic soil layers varies (boreal, temperate and tropics) - 200-1200 yrs (Trumbore 2000)
 
 ## Soil Carbon
@@ -422,10 +426,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Soils: Future
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:550px; HEIGHT:550px" SRC="images/soil_improvement.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/soil_improvement.jpg">
 
 ## 
-<br />
 <br />
 <br />
 <br />
