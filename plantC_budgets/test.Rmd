@@ -13,16 +13,4 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Controls over NPP
-<hr>
-<br />
 
-## NPP: Who is in charge?
-<hr>
-<br />
-
-## Are terrestrial plants source or sink limited?
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:375px; WIDTH:700px; HEIGHT:500px" SRC="images/sinksource.jpg">

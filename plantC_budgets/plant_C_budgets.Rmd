@@ -96,7 +96,7 @@ Your browser does not support the video tag.
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/npp_biomes.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/npp_biomes.png">
 
 ## Plant respiration
 <hr>
@@ -188,47 +188,156 @@ rubrum (Ar) from Turnbll et al 2002.
 ## Controls over NPP
 <hr>
 <br />
+<br />
+<br />
+<br />
+
+* <strong>NPP = GPP - respiration <span style="color:green">is too simple</span></strong>
+
+<br />
+
+* <strong>Does photosynthesis <span style="color:green">"PUSH"</span>growth?</strong>
+
+<br />
+
+* <strong>Does growth <span style="color:green">"PULL"</span>photosynthesis?</strong>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/npp_diagram.png">
 
 ## NPP: Who is in charge?
 <hr>
 <br />
 
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/sourcesink_grape.jpg">
+
 ## Are terrestrial plants source or sink limited?
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:375px; WIDTH:700px; HEIGHT:500px" SRC="images/sinksource.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:325px" SRC="images/sinksource.jpg">
 
-
-## To grow or to store?
+## NPP: Who is in charge?
 <hr>
 <br />
 
+<div class="centered"><strong><span style="color:green">
+Plants 'sense' nutrient supply and adjust growth</span></strong></div>
 
-## Enviromental controls of NPP
+<IMG STYLE="position:absolute; TOP:275px; LEFT:150px; WIDTH:800px; HEIGHT:325px" SRC="images/campany.png">
+
+## NPP: To grow or to store?
+<hr>
+
+<div class="centered"><strong><span style="color:green">
+Carbohydrate pools in plant tissues</span></strong></div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/sap.jpg">
+
+## Environmental controls of NPP: Climate
 <hr>
 <br />
 
-## Temperature sensitivity 
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/npp_climate.png">
+
+## Environmental controls of NPP: Climate?
+<hr>
+
+<div class="centered"><strong><span style="color:green">
+Not everyone agrees!</span></strong></div>
+
+<div class="centered"><strong>
+https://www.nature.com/articles/nature13470
+</strong></div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:175px; WIDTH:800px; HEIGHT:400px" SRC="images/npp_noclimate.png">
+
+## Environmental controls of NPP: Biota
 <hr>
 <br />
 
-## Thermal optimums
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/npp_biomes.png">
+
+
+## Allocation of NPP
+<hr>
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:450px; HEIGHT:450px" SRC="images/tree.jpg">
+
+<div style="float: right; width: 45%;">
+
+* **Plant biomass allocation**
+  + dynamic or static?
+
+<br />
+
+* **Ecosystem patterns**
+  + tundra, grasslands, shrublands
+  + forests
+</div>
+
+## Allocation of NPP
 <hr>
 <br />
 
-## NPP and climate
+<IMG STYLE="position:absolute; TOP:225px; LEFT:125px; WIDTH:850px; HEIGHT:400px" SRC="images/allocation.jpg">
+
+## Leibig's Law
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:325px; WIDTH:400px; HEIGHT:500px" SRC="images/liebig.jpg">
+
+## Allocation: dynamic or static?
 <hr>
 <br />
 
-## C cycling : allocation
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/allocation_new.jpg">
+
+## Liebig's law: other mechanisms?
 <hr>
 <br />
 
-## Allocation theory's
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/mycorr.png">
+
+## Allocation: root exudation
 <hr>
 <br />
 
-## Turnover and NPP
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/roothair.png">
+
+## NPP: Allocation and ontogeny
 <hr>
 <br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/ontogeny.png">
+
+## NPP: Senescence and turnover
+<hr>
+<br />
+<br />
+
+* **Senescense**
+  + programmed death 
+  + costs exceed gain
+  + tissue longevity
+  + resorption
+
+<br />
+
+* **Tissue turnover**
+  + mortailty of tissues
+  + reduce costs - "shedding"
+  + distubance
+  
+<IMG STYLE="position:absolute; TOP:250px; LEFT:425px; WIDTH:400px; HEIGHT:300px" SRC="images/leafcolor.jpg">
+
+## Mass balance of NPP is HARD!!!!
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/treecbalance.png">
+
