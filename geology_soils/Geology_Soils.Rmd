@@ -31,7 +31,7 @@ knitr::opts_chunk$set(echo = FALSE)
   + plant rooting zone
   + medium for decomposers
   + home for animals
-  + filtration for aquatic systems
+  + water filtration
   
 <br />
 <br />
@@ -216,7 +216,6 @@ knitr::opts_chunk$set(echo = FALSE)
   + weather, fire, freeze-thaw, wetting-drying
   + <strong><span style="color:green">chemical processes:</span></strong>
   + organic acids from roots and microbes
-  + source determines properites
 </div>
 
 ## Development of soil profiles: Rhizospehere
@@ -246,7 +245,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:500px; HEIGHT:500px" SRC="images/leaching.jpg">
 
 ## Soil Horizons
-<hr>
+<hr> 
 <br />
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/soil-formation2.jpg">
@@ -380,8 +379,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * <strong>Composition</strong>
   + dead tissues
   + age of components varies
-  + new/partially decomposed
-  + charcoal
+  + new/partially decomposed 
   
 <br />
 
