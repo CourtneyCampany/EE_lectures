@@ -1,0 +1,15 @@
+---
+title: "Energy & Water balance"
+runtime: shiny
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## VPD: The gist on mist
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/vpd.jpg">
+

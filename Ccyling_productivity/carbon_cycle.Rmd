@@ -19,6 +19,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/usa_carbon.png">
 
+## Global Ecosystem Carbon: IPCC
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/globalgpp.jpg">
+
 ## Carbon inputs to ecosystems
 <hr>
 <br />
@@ -41,12 +47,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 *  Dead biomass holds ~1,200 gigatons of C
 </div>
-
-## Carbon Cycle: Terrestrial
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/drawitout.png">
 
 ##
 <IMG STYLE="position:absolute; TOP:25px; LEFT:175px; WIDTH:750px; HEIGHT:600px" SRC="images/terrestrial_carbon.jpg">
@@ -164,7 +164,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 * **Carbon gain from forest floor to top of canopy**
-  + total leaf area is key
+  + <strong><span style="color:green">total leaf area is key<strong><span style="color:green">
 </div>
 
 ## Photosynthesis: Review
@@ -177,7 +177,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 <br />
-
+<div style="float: right; width: 40%;">
 * Light decreases exponentially through the canopy
 
 <br />
@@ -191,7 +191,8 @@ knitr::opts_chunk$set(echo = FALSE)
   + Diffuse vs direct light: 
   + Extinction coefficient: 
   + Light use efficiency: 
-  
+</div>
+
   <IMG STYLE="position:absolute; TOP:225px; LEFT:400px; WIDTH:650px; HEIGHT:400px" SRC="images/hemisphere.jpg">
 
 ## Terrestrial Photosynthesis: Water
@@ -220,11 +221,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:425px; LEFT:700px; WIDTH:375px; HEIGHT:250px" SRC="images/stomata.png">
 
-## VPD: The gist on mist
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:700px; HEIGHT:400px" SRC="images/vpd.jpg">
-
 ## VPD and stomatal behavior
 <hr>
 
@@ -233,10 +229,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Water use efficiency (WUE)
 <hr>
 <br />
+<br />
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:25px; WIDTH:600px; HEIGHT:500px" SRC="images/wue3.jpg">
 
-<div style="float: right; width: 45%;">
+<div style="float: right; width: 40%;">
 
 * **Stomatal conductance has slightly different effects on the rates of CO<sub>2</sub> entry and water loss**
   + water out/CO<sub>2</sub> in:  both experience stomatal/boundary layer resistances
@@ -280,31 +277,35 @@ knitr::opts_chunk$set(echo = FALSE)
 ## WUE relevant on ecosystem scales
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:950px; HEIGHT:525px" SRC="images/gpp_wue.png">
-
-## Photosynthetic up/down regulation
+<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:900px; HEIGHT:500px" SRC="images/gpp_wue.png">
 
 ## Terrestrial photosynthesis: Leaves
 <hr>
-<br />
 
 <div class="centered"><strong><span style="color:green">The greater the surface area of leaves, the less light will penetrate the canopy and reach the ground. The vertical reduction, or attenuation, of light through a stand of plants can be estimated using Beer's law, which describes the attenuation of light through a homogeneous medium.</span></strong></div>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/light_extinctions.jpg">
+<IMG STYLE="position:absolute; TOP:325px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/light_exticntion.jpg">
 
 ## Leaf Area Index: LAI
 <hr>
 <br />
+<br />
+<br />
+
+<div style="float: left; width: 45%;">
 
 * **Projected leaf area per unit ground area**
 
-  + 1) LAI determines how much area for light abosoprtion/C uptake
+  + determines how much area for light abosoprtion/C uptake
 
-  + 2) LAI determines light extinction through canopy
+  + determines light extinction through canopy
 
-* LAI is the basis of many remote sensing methods
+<br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/lai_vis.png">
+* **LAI is the basis of many remote sensing methods**
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/lai_vis.png">
 
 ## LAI: from space
 <hr>
