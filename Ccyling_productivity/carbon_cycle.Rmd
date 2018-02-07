@@ -307,64 +307,45 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/lai_vis.png">
 
-## LAI: from space
+## LAI: NASA
 <hr>
 <br />
-
+<div class="centered">
 https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
+</strong></div>
 
 ## Regulators of LAI
 <hr>
 <br />
 
-* Highly seasonal (obvisously)
+<div style="float: right; width: 45%;">
+* **Crop species can have large LAI**
+  + cotton peaks at ~5
+</div> 
+
+<div style="float: left; width: 45%;">
+* **Highly seasonal (obvisously)**
 
 <br />
 
-* Variability within ecosystems
+* **Variability within ecosystems**
   + species and climate driven
   + stand dynamics (1-8)
 
 <br />
 
-* Leaf angles
-  + Eucalpytus 
-
-<br />
-
-* Leaf types
+* **Leaf types**
   + leaf size
   + broadleaf vs conifers
   
 <br />
-* Crop species can have large LAI
-  + cotton peaks at ~5
+
+* **Leaf orientation**
+  + *Eucalpytus* 
+</div>  
+  <IMG STYLE="position:absolute; TOP:375px; LEFT:500px; WIDTH:500px; HEIGHT:200px" SRC="images/stand_light.jpg">
   
-  <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/stand_light.jpg">
   
-  ## Photosynthetic up/down regulation
-<hr>
-<br />
-<br />
-
-<div style="float: left; width: 45%;">
-
-* **Plants adjust photosynthetic mechansims**
- 
- <br />
- 
-* **Active process in newly produced cells**
-  + increase investment in light harvesting in low light
-  + increase carbon fixing capacity in high light
- 
- <br />
- 
-* **Plants can also acclimate processes when environment changes**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/topt2.png">
-
 ## Leaf photosynthetic Capacity
 <hr>
 <br />
@@ -388,7 +369,8 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
   + Wright 2004: Leaf Economic Spectrum
   
 <IMG STYLE="position:absolute; TOP:175px; LEFT:600px; WIDTH:450px; HEIGHT:275px" SRC="images/leaf.png">  
-  
+
+
 ## Terrestrial photosynthesis: Capacity
 <hr>
 <br />
@@ -396,32 +378,71 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/capacity_nitro.png">
 
 
+## Photosynthetic up/down regulation
+<hr>
+<br />
+<br />
+
+<div style="float: left; width: 45%;">
+
+* **Plants adjust photosynthetic mechansims**
+ 
+ <br />
+ 
+* **Active process in newly produced cells**
+  + increase investment in light harvesting in low light
+  + increase carbon fixing capacity in high light
+ 
+ <br />
+ 
+* **Plants can also acclimate processes when environment changes**
+  + thermal optimums (Topt)
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/topt2.png">
+
+## Thermal optima (large scale)
+<hr>
+<br />
+<br />
+<br />
+
+* **Temperature**
+  + C fixing enzymes sensitive to low temps
+  + extreme temperatures limit C absorption
+
+<br />
+
+* **Thermal ranges**
+  + ecosystem specific
+  + Topt can be acclimated if needed
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/topt.png">
 
 ## Nitrogen distribution and Photosynthetic capacity
 <hr>
 <br />
-
-* **Theoritically** nitrogen should be distributed more to sun leaves
+<br />
+<br />
+<div style="float: left; width: 50%;">
+* **Theoritically** N should be distributed more to sun leaves
   + matching light availability
   + photosynthetic capacity highest in full sun leaves
-  
+
+<br />
+
 * **Optimality theory of canopy N distributions**
   + Trees and forest stands
   + Basis of a lot of models for GPP
+</div>
+  
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/nitroan.png">
   
 ## Nitrogen distribution: not so fast!
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/Ncanopy2.png">
-
-## Water use efficiency (WUE)
-<hr>
-<br />
-
-* carbon gain per unit of water lost
-* different meanings for crops vs non-crops
-* different temporal scales 
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/canopyN2.png">
 
 ## Temperature effects on C uptake (large scale)
 <hr>
@@ -442,41 +463,66 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 <hr>
 <br />
 
-* Trees are smart!!!
+<div class="centered"><strong><span style="color:green">How smart are trees?</span></strong></div>
 
-* Will try maximize C gain for all leaves
+<br />
+<br />
 
-* Based on gradients of canopy light extinction 
+* **Maximizing C gain for all leaves**
+  + photosynthetic capacity through time
+
+<br />
+
+* **Reacting to gradients**
+  + light extinction
   + water use 
-  + distribution of nitrogen 
-  
-* The photosynthetic capacity of leaves differs within a canopy
+  + distribution of N 
 
-* Resource economics of C gain
+<br />
+
+* **Resource economics of C gain**
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/treebrain2.jpg">
 
 ## Environmental controls of GPP
 <hr>
 <br />
+<br />
+<br />
 
-* Photosynthesis can become CO2 limited at high elevations
+<div style="float: left; width: 45%;">
+* **CO<sub>2</sub> limitation of photosynthesis at high elevations**
 
-* Pollution
+<br />
+
+* **Temperature extremes damage photosynthetic machinery**
+
+<br />
+
+* **Pollution**
   + ozone causes serious leaf damage
   + pollution effects altered by local environment
-  
-<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/ozone.jpg">
+</div>
 
-## Progress in Estimating Terrestrial Photosynthesis
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/ozone.jpg">
 
-* Big leaf model
+## Progress in Modelling Terrestrial GPP
+<hr>
+<br />
 
-* Two big leaf model
+* **Big leaf model**
+
+<br />
+
+* **Two big leaf model**
   + some self-shading
 
-* Dynamic systems models
+<br />
+
+* **Dynamic systems models**
   + direct and diffuse light sources
   + gradients in nutrients and water
-  + light extinction coefficien
+  + light extinction coefficient
   + ability to alter photosynthetic capacity
   + inputs from belowground
   
@@ -487,7 +533,5 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/draw_forest.jpg">
 
-## Next time: NPP
-<hr>
-<br />
+
 
