@@ -164,7 +164,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 * **Carbon gain from forest floor to top of canopy**
-  + <strong><span style="color:green">total leaf area is key</span></strong></div>
+  + <strong><span style="color:green">Total leaf area is key</span></strong></div>
 
 ## Photosynthesis: Review
 <hr>
@@ -176,8 +176,8 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 <br />
 <br />
-<div style="float: right; width: 40%;">
-* Light decreases exponentially through the canopy
+<div style="float: left; width: 35%;">
+* **Light decreases exponentially through the canopy**
 
 <br />
 
@@ -208,7 +208,6 @@ knitr::opts_chunk$set(echo = FALSE)
 * **Water supply**
   + Outside plant:
   + Inside plant:
-  + Water use efficiency: 
   
 <br />
 
@@ -234,13 +233,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: right; width: 40%;">
 
-* **Stomatal conductance has slightly different effects on the rates of CO<sub>2</sub> entry and water loss**
-  + water out/CO<sub>2</sub> in:  both experience stomatal/boundary layer resistances
+* **The rates of CO<sub>2</sub> entry and water loss from stomata are slightly different**
+  + Water out/CO<sub>2</sub> in: both experience stomatal/boundary layer resistances
   + CO<sub>2</sub> also has internal cell resistances to diffusion
 
 <br />
 
-* **So...CO2 in is slightly slower than water out**
+* **So...CO<sub>2</sub> diffusing in is slightly slower than water out**
 
 </div>
 
@@ -276,7 +275,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## WUE relevant on ecosystem scales
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:900px; HEIGHT:500px" SRC="images/gpp_wue.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/gpp_wue.png">
 
 ## Terrestrial photosynthesis: Leaves
 <hr>
@@ -295,9 +294,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Projected leaf area per unit ground area**
 
-  + determines how much area for light abosoprtion/C uptake
+  + How much area for light absorption/C uptake
 
-  + determines light extinction through canopy
+  + Light extinction through canopy
 
 <br />
 
@@ -329,7 +328,7 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 
 * **Variability within ecosystems**
   + species and climate driven
-  + stand dynamics (1-8)
+  + stand dynamics (LAI: 1-8)
 
 <br />
 
@@ -354,8 +353,8 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 <br />
 
 * **Quality vs Quantity**
-  + number of leaves in a forest changes minimally over growing season
-  + age and quality of leaves varies tremendously
+  + # of leaves in a forest changes minimally over growing season
+  + Age and quality of leaves varies tremendously
 
 <br />
 
@@ -389,18 +388,18 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
  <br />
  
 * **Active process in newly produced cells**
-  + increase investment in light harvesting in low light
-  + increase carbon fixing capacity in high light
+  + Investment in light harvesting in low light
+  + Increase C fixing capacity in high light
  
  <br />
  
 * **Plants can also acclimate processes when environment changes**
-  + thermal optimums (Topt)
+  + Thermal optimums (Topt)
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/topt2.png">
 
-## Thermal optima (large scale)
+## Photosynthetic capacity (large scale)
 <hr>
 <br />
 <br />
@@ -408,12 +407,12 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 
 * **Temperature**
   + C fixing enzymes sensitive to low temps
-  + extreme temperatures limit C absorption
+  + Extreme temperatures limit C absorption
 
 <br />
 
 * **Thermal ranges**
-  + ecosystem specific
+  + Ecosystem specific
   + Topt can be acclimated if needed
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/topt.png">
@@ -424,9 +423,9 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 <br />
 <br />
 <div style="float: left; width: 50%;">
-* **Theoritically** N should be distributed more to sun leaves
-  + matching light availability
-  + photosynthetic capacity highest in full sun leaves
+* **Theoritically N should be distributed more to sun leaves**
+  + Matching light availability
+  + Photosynthetic capacity highest in full sun leaves
 
 <br />
 
@@ -443,21 +442,6 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/canopyN2.png">
 
-## Temperature effects on C uptake (large scale)
-<hr>
-<br />
-
-* Temperature
-  + plant physiology has thermal optimums
-  + carbon fixing enzymes sensitive to low temps
-  + extreme temperatures limit C absorption
-  
-* Thermal ranges
-  + plant physiology has thermal optimums (Topt)
-  + Topt can be acclimated if environment shifts
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/topt.png">
-
 ## Canopy Processes and Gradients
 <hr>
 <br />
@@ -468,14 +452,14 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 <br />
 
 * **Maximizing C gain for all leaves**
-  + photosynthetic capacity through time
+  + Photosynthetic capacity through leaf lifespan
 
 <br />
 
 * **Reacting to gradients**
-  + light extinction
-  + water use 
-  + distribution of N 
+  + Light extinction
+  + Water use 
+  + Distribution of N 
 
 <br />
 
@@ -489,7 +473,7 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 <br />
 <br />
 
-<div style="float: left; width: 45%;">
+<div style="float: left; width: 50%;">
 * **CO<sub>2</sub> limitation of photosynthesis at high elevations**
 
 <br />
@@ -499,11 +483,11 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 <br />
 
 * **Pollution**
-  + ozone causes serious leaf damage
-  + pollution effects altered by local environment
+  + Ozone causes serious leaf damage
+  + Pollution effects altered by local environment
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/ozone.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/ozone.jpg">
 
 ## Progress in Modelling Terrestrial GPP
 <hr>
@@ -519,11 +503,11 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 <br />
 
 * **Dynamic systems models**
-  + direct and diffuse light sources
-  + gradients in nutrients and water
-  + light extinction coefficient
-  + ability to alter photosynthetic capacity
-  + inputs from belowground
+  + Direct and diffuse light sources
+  + Gradients in nutrients and water
+  + Light extinction coefficient
+  + Dynamic photosynthetic capacity
+  + Belowground inputs
   
 <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/gpp_wrong.png">
 
