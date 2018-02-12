@@ -25,6 +25,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/globalgpp.jpg">
 
+##
+<IMG STYLE="position:absolute; TOP:25px; LEFT:175px; WIDTH:750px; HEIGHT:650px" SRC="images/carbon_cycle_wiki.png">
+
 ## Carbon inputs to ecosystems
 <hr>
 <br />
@@ -49,10 +52,7 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 
 ##
-<IMG STYLE="position:absolute; TOP:25px; LEFT:175px; WIDTH:750px; HEIGHT:600px" SRC="images/terrestrial_carbon.jpg">
-
-##
-<IMG STYLE="position:absolute; TOP:25px; LEFT:175px; WIDTH:750px; HEIGHT:650px" SRC="images/carbon_cycle_wiki.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:175px; WIDTH:700px; HEIGHT:600px" SRC="images/terrestrial_carbon.jpg">
 
 ## Gross Primary Production (GPP)
 <hr>
@@ -62,7 +62,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 <div style="float: left; width: 45%;">
->- sum of net photosynthesis by all tissue at a given scale
+>- Sum of net photosynthesis by all tissue at a given scale
 
 <br />
 
@@ -150,11 +150,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:5opx; WIDTH:450px; HEIGHT:450px" SRC="images/leaves.jpg">
 
-<div style="float: right; width: 45%;">
+<div style="float: right; width: 50%;">
 <br />
 
 * **Leaves remain in fixed postition**
-  + subject to vertical canopy gradients
+  + Subject to vertical canopy gradients
   + VPD driven drying
 
 <br />
@@ -164,8 +164,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 * **Carbon gain from forest floor to top of canopy**
-  + <strong><span style="color:green">total leaf area is key<strong><span style="color:green">
-</div>
+  + <strong><span style="color:green">total leaf area is key</span></strong></div>
 
 ## Photosynthesis: Review
 <hr>
