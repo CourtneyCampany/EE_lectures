@@ -52,10 +52,10 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 
 ##
-<IMG STYLE="position:absolute; TOP:50px; LEFT:175px; WIDTH:700px; HEIGHT:600px" SRC="images/terrestrial_carbon.jpg">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/terrestrial_carbon.jpg">
 
 ## Gross Primary Production (GPP)
-<hr>
+<hr> 
 <br />
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/gpp_usa.jpg">
@@ -109,7 +109,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 * **Eddy Flux towers**
-  + exchange rates of  gases over ecosystems
+  + exchange rates of gases over ecosystems
   + vertical turbulent fluxes within atmospheric boundary layers
   + statistical method
   + http://ameriflux.lbl.gov/
@@ -135,7 +135,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: left; width: 60%;">
 * **Lots of disagreement**
-  + no direct measure
+  + No direct measure
   
 </div>
 
@@ -164,13 +164,16 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 * **Carbon gain from forest floor to top of canopy**
-  + <strong><span style="color:green">Total leaf area is key</span></strong></div>
+
+<br />
+
+* <strong><span style="color:green">Total leaf area is key</span></strong></div>
 
 ## Photosynthesis: Review
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/photosyn.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/photosyn.jpg">
 
 ## Terrestrial Photosynthesis: Light
 <hr>
@@ -275,7 +278,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## WUE relevant on ecosystem scales
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/gpp_wue.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/gpp_wue.png">
 
 ## Terrestrial photosynthesis: Leaves
 <hr>
@@ -303,7 +306,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * **LAI is the basis of many remote sensing methods**
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/lai_vis.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/lai_vis.png">
 
 ## LAI: NASA
 <hr>
@@ -341,7 +344,7 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 * **Leaf orientation**
   + *Eucalpytus* 
 </div>  
-  <IMG STYLE="position:absolute; TOP:375px; LEFT:500px; WIDTH:500px; HEIGHT:200px" SRC="images/stand_light.jpg">
+  <IMG STYLE="position:absolute; TOP:375px; LEFT:500px; WIDTH:450px; HEIGHT:200px" SRC="images/stand_light.jpg">
   
   
 ## Leaf photosynthetic Capacity
@@ -353,7 +356,7 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 <br />
 
 * **Quality vs Quantity**
-  + # of leaves in a forest changes minimally over growing season
+  + no. of leaves in a forest changes minimally over growing season
   + Age and quality of leaves varies tremendously
 
 <br />
@@ -489,7 +492,7 @@ https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD15A2_M_LAI&year=2016
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/ozone.jpg">
 
-## Progress in Modelling Terrestrial GPP
+## Progress in Estimating  Terrestrial GPP
 <hr>
 <br />
 
