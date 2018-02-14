@@ -31,10 +31,10 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 * **Respiration** 
-  + metabolic process of using sugars and starches for energy 
-  + construction and maintenance respiration (in plants)
+  + metabolic process of using sugars/starches for energy 
+  + construction and maintenance (in plants)
   
-<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:500px; HEIGHT:450px" SRC="images/treecarbon.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:450px; HEIGHT:400px" SRC="images/treecarbon.jpg">
 
 ## 'System Science' - Carbon mass balance
 <hr>
@@ -44,29 +44,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Hunt for the world’s missing carbon
 <hr>
-<div class="centered">
-<strong><span style="color:green"
-Researchers are racing to determine whether forests will continue to act as a brake on climate change by soaking up more carbon.</span></strong>
-</div>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/missingC.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:700px; HEIGHT:500px" SRC="images/missingC.jpg">
 
 ## NPP: Large scales
 <hr>
 <div class="centered"><strong>
-https://nelson.wisc.edu/sage/data-and-models/atlas/maps/npp/preview3.html
-</strong></div>
+https://nelson.wisc.edu/sage/data-and-models/atlas/maps.php?datasetid=37&includerelatedlinks=1&dataset=37</strong></div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/npp_earth.jpg">
-
-## NPP: Large scales
-<hr>
-<br />
-
-<video width="320" height="240" autoplay>
-  <source src="images/npp_video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/npp_earth.jpg">
 
 ## NPP: Biomes
 <hr>
@@ -74,31 +60,31 @@ Your browser does not support the video tag.
 <br />
 <div style="float: left; width: 40%;">
 
-* In mid-latitudes, NPP is seasonal
+* **In mid-latitudes, NPP is seasonal**
 
 <br />
 
-* Boreal forests have high productivity in June and July, then decline 
+* **Boreal forests have high productivity in June and July, then decline** 
 
 <br />
 
-* Tropical forests have year-round high productivity 
+* **Tropical forests have year-round high productivity**
 
 <br />
 <br />
 
-* Due mainly to which state factor?
+* <strong><span style="color:green">Due mainly to which state factor?</span></strong>
 </div>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:450px" SRC="images/npp_temperate.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:350px; HEIGHT:450px" SRC="images/npp_temperate.jpg">
 
 ## NPP: Biomes
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/npp_biomes.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/npp_biomes.png">
 
-## Plant respiration
+## Plant respiration: The basics
 <hr>
 <br />
 
@@ -112,8 +98,9 @@ Your browser does not support the video tag.
 
 <br />
 
-* **Plants respire all the time, whether it is dark or light** 
-  + Only photosynthesize in light.
+* **Plants always respire, whether it is dark or light** 
+  + Only photosynthesize in light
+  + R<sub>d</sub> = dark respiration
 
 <br />
 
@@ -156,12 +143,13 @@ rubrum (Ar) from Turnbll et al 2002.
 ## Respiration: Maintenance and Ion uptake
 <hr>
 <br />
+<br />
 
 <div style="float: left; width: 45%;">
 
 * <strong><span style="color:green">Maintenance</span></strong>
   + provides ATP for upkeep and repair of live tissues
-
+  + replace degraded proteins
 <br />
 
 * **Up to 50% of total plant respiratipon**
@@ -169,7 +157,7 @@ rubrum (Ar) from Turnbll et al 2002.
 <br />
 
 * **Likely to increase when stress occurs (drought, etc.)**
-  + Affects the balance between growth and respiration
+  + stress affects balance between growth and respiration
 
 </div>
 
@@ -183,6 +171,9 @@ rubrum (Ar) from Turnbll et al 2002.
 * Root growth and nutrient absorption
   + e.g. NH3 and NH4 uptake
 
+<br />
+
+* dependent on soil fertility
 </div>
 
 ## Controls over NPP
@@ -190,10 +181,10 @@ rubrum (Ar) from Turnbll et al 2002.
 <br />
 <br />
 <br />
-<br />
 
 * <strong>NPP = GPP - respiration <span style="color:green">is too simple</span></strong>
 
+<br />
 <br />
 
 * <strong>Does photosynthesis <span style="color:green">"PUSH"</span>growth?</strong>
@@ -233,6 +224,11 @@ Carbohydrate pools in plant tissues</span></strong></div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/sap.jpg">
 
+## Is your maple syrup fresh?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/maple.png">
+
 ## Environmental controls of NPP: Climate
 <hr>
 <br />
@@ -245,17 +241,13 @@ Carbohydrate pools in plant tissues</span></strong></div>
 <div class="centered"><strong><span style="color:green">
 Not everyone agrees!</span></strong></div>
 
-<div class="centered"><strong>
-https://www.nature.com/articles/nature13470
-</strong></div>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:175px; WIDTH:800px; HEIGHT:400px" SRC="images/npp_noclimate.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/michaletz.png">
 
 ## Environmental controls of NPP: Biota
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/npp_biomes.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/npp_biomes.png">
 
 
 ## Allocation of NPP
@@ -313,7 +305,7 @@ https://www.nature.com/articles/nature13470
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/ontogeny.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/ontogeny.png">
 
 ## NPP: Senescence and turnover
 <hr>
