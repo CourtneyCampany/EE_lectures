@@ -16,74 +16,151 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Water Cycle
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/water_cycle.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/water_cycle.png">
 
-
-## Solar energy creates the water cycle
-<hr>
-About 25 percent of incoming solar energy leaves the surface through evaporation. Liquid water molecules absorb incoming solar energy, and they change phase from liquid to gas. The heat energy that it took to evaporate the water is latent in the random motions of the water vapor molecules as they spread through the atmosphere. When the water vapor molecules condense back into rain, the latent heat is released to the surrounding atmosphere. Evaporation from tropical oceans and the subsequent release of latent heat are the primary drivers of the atmospheric heat engine 
-
-## Water Cycle is recycled 
-
-## Hot topic: Water cycle
+## Solar energy & water cycle interconnected
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/fossilwater1.png">
+<div class="centered"><strong><span style="color:orange">25% of incoming solar energy leaves the surface through evaporation</span></strong></div>
 
-## Hot topic: Water cycle
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div class="centered"><strong><span style="color:orange">Latent heat released once water vapor condenses</span></strong></div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/Solar-Energy.jpg">
+
+## Hot topic: Groundwater supports 40% of agriculture
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/fossilwater2.png">
+<IMG STYLE="position:absolute; TOP:150x; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/fossilwater2.png">
+
+## Hot topic: Fossilwater
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/fossilwater1.png">
 
 ## In the news: Megadrought
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ToY4eeWsdLc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+## Water vapor feedback loop
 
-## Water for peoples
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:300px; HEIGHT:300px" SRC="images/watervapor_globe.jpg">
 
-What percentage of ALL water on Earth do you think is readily available for humans to use?
-
-
-## Water for people
-
-Ice: glaciers, snow, and sea ice
-						
-Liquid: oceans, rivers, lakes, clouds, underground, ponds, swamps, inside of living things
-		
-Gas: water vapor in the air
+## Water vapor feedback
+<hr>
+<br />
+<br />
 
 
-## Groundwater
+<div style="float: left; width: 50%;">
+* **Water vapor most abundant greenhouse gas**
 
-* **Groundwater supports about 40% of the world's irrigated agriculture**
+<br />
 
+* **NASA satellite data confirms heat-trapping effect of water in the air** 
+  + critical component of climate change
+  + most vapor collects at tropical latitudes
 
-## Surface Energy Budget
+<br />
 
-The surface absorbs about 48% of incoming sunlight. 
-Three processes remove an equivalent amount of energy from the Earth’s surface: 
-evaporation (25%), convection (5%), and thermal infrared radiation, or heat (net 17%).
+* **Potent enough to 2x climate warming caused by increased CO<sub>2</sub>**
+</div> 
 
-## Direct vs Diffuse radiation
+<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:375px; HEIGHT:375x" SRC="images/watervapor_globe.jpg">
 
-## Net Radiation
+## Water vapor feedback loop
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/Radiationbalance.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500x" SRC="images/wv_feedback.gif">
 
-## Net radiation: Ecosystem
+
+## Surface energy budget
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/netradiation_forest.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/Radiationbalance.jpg">
 
-## Net radiation: Ecosystem
+## Net radiation absorbed: In vs Out
+<hr>
+<br />
+<br />
+<br />
+
+<div style="float: left; width: 45%;">
+
+* **Surface absorbs ~48% of incoming sunlight**
+
+<br />
+
+* **3 processes remove an equivalent amount of energy from the Earth’s surface**
+  + evaporation (25%)
+  + convection (5%)
+  + thermal infrared radiation, or heat (net 17%).
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:300px" SRC="images/newradiation.gif">
+
+## Radiation inputs: review
+<hr>
+<br />
+<br />
+
+<div style="float: right; width: 45%;">
+
+* **90% of shortwave on sunny days**
+
+<br />
+
+* **Diffuse = scattered particles**
+  + cloudy days
+  + high pollution
+  + dusk/dawn
+
+<br />
+
+* **Refleted**
+  + clouds
+  + landscape
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/direct_diffuse.jpeg">
+
+## Net radiation: Forest Ecosystem
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/netradiation_forest.png">
+
+## Net radiation: Modis
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/modis_radiation.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:700px; HEIGHT:350px" SRC="images/modis_radiation2.png">
+
+## Net radiation: Biomes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:165px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/modis_radiation.png">
 
 ## Radiation Partintioning
 
@@ -164,3 +241,18 @@ evaporation (25%), convection (5%), and thermal infrared radiation, or heat (net
 ## Evaporation from wet canopies
 
 ## Evapotranspiration from dry canopies
+
+## Water Cycle is recycled 
+
+## Water for peoples
+
+What percentage of ALL water on Earth do you think is readily available for humans to use?
+
+
+## Water for people
+
+Ice: glaciers, snow, and sea ice
+						
+Liquid: oceans, rivers, lakes, clouds, underground, ponds, swamps, inside of living things
+		
+Gas: water vapor in the air
