@@ -45,6 +45,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/Solar-Energy.jpg">
 
+## Water for Humans?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/waterpeople.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/water_sphere.jpg">
+
 ## Hot topic: Groundwater supports 40% of agriculture
 <hr>
 
@@ -162,97 +169,249 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:165px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/modis_radiation.png">
 
-## Radiation Partintioning
+## Radiation Partitioning
+<hr>
+<br />
+<div style="float: left; width: 50%;">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/sensible_latent.png">
+* **Energy transfered from surface**
+  + latent heat flux
+  + sensible heat flux
+  + Bowen ratio
 
-## Bowen Ratio
+<br />
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/bowen.jpg">
+* **Energy conducted into the soil**
+  + ground heat flux
+  
+<br />
+
+* **Energy stored inside ecosystem**
+  + photosynthetic chemical energy
+  + temperature flux of plants
+</div> 
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/sensible_latent.png">
 
 ## Ground Heat Flux
+<hr>
+<br />
 
-* **Energey conducted into the soil**
-  + generally balanced in most ecosystems
+* **Generally balanced in most ecosystems**
   + day/night soil heating
-  
+
+<br />
+
 * **Depends on soil properties**
   + bulk density
   + moisture content
-  
+
+<br />
+
 * **Largest in regions with permafrost**
   + thawing soils
   + soils refreezing
+  
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/snowpack.jpg">
 
-## Surface Budget
+## Surface Budget: Turbulence and Ecosystems...
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/sufrace_budget.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/surface_budget.jpg">
+
+## Bowen Ratios of Different Ecosystems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/bowen.jpg">
+
+## Evapotranspiration: Energetics of water movement
+<hr>
+<br />
+
+<div style="float: left; width: 50%;">
+
+* **Major role in linkage of water/energy budget**
+  + Surface evaporation + leaf transpiration
+
+<br />
+
+* **Water has high specific heat**
+  + 4x more energy to heat water than air
+  + Summer temperatures near bodies of water?
+
+<br />
+
+* **Large energy fluxes when water changes state**
+  + Evapotrans cools (leaves or other surfaces)
+  + Condensation warms atmosphere
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/evapotrans.png">
 
 ## Evapotranspiration
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/evapotrans.png">
-
-## Evapotranspiration
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/evapotrans_usa.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/evapotrans_usa.png">
 
 ## VPD: The gist on mist
 <hr>
+<br />
+<br />
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/vpd.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:500px; HEIGHT:300px" SRC="images/vpd.jpg">
 
+<div style="float: right; width: 45%;">
+  
+* **Vapor Pressure (VP):**
+  + partial pressure of H<sub>2</sub>0 molecules
 
-## Ecosystem Water Budgets
+<br />
 
-## Ecosystem Water Budgets
+* **Vapor Pressure Deficit:**
+  + Difference in VP btw air adjacent to surface and bulk atmosphere
+  
+<br />
+
+* **Driving force of evapotranspiration**
+  + Soil → Plant → Atmosphere
+
+</div>
+
+## Ecosystem Water Budgets: Big Bucket
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/waterflux_trees2.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/waterflux_trees.png">
 
-## Ecosystem Water Budgets
+## Terrestrial Water Bucket
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/waterflux_trees.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/waterflux_trees2.png">
 
 ## Water Inputs to Ecosystems
+<hr>
 
-## Ecosystem Water Movements
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c2-iquZziPU?rel=0&amp;start=52" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Ecosystem Water Movements: Canopy
+## Precipation Shifts?
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ipOcTpNl5rs?rel=0&amp;start=52" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Water Inputs: Snowpack
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:600px; HEIGHT:500px" SRC="images/snowpack2.png">
+
+## Water Inputs: Fog
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:300px; HEIGHT:500px" SRC="images/fog.jpg">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:400px; WIDTH:600px; HEIGHT:400px" SRC="images/fog2.png">
+
+## Water Movements within Ecosystems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:325px; WIDTH:400px; HEIGHT:550px" SRC="images/waterflux_trees3.jpg">
+
+## Canopy Interception (~10-20%)
+<hr>
+<br />
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:400px; HEIGHT:500px" SRC="images/interception.jpg">
+
+<div style="float: right; width: 45%;">
+
+* **Absorbed by leaves**
+
+<br />
+
+* **Throughfall:**
+
+<br />
+
+ * **Stemflow:**
+ 
+ <br />
+ 
+ * **Evaporation**
+
+</div>
+
+## Canopy Interception
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/roughbark.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/epiphytes.jpg">
+
+## Canopy Interception
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/interception2.jpg">
 
 ## Ecosystem Water Movements: Soil to Roots
+<hr>
 
-## Ecosystem Water Movements: Roots:STems
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/rootwater.jpg">
 
-## Ecosystem Water Movements: Leaves
+## Ecosystem Water Movements: Soil to Roots
+<hr>
 
-## Ecosystem Water Storage
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/root_water_uptake.png">
 
-## Ecosystem Water Storage: Changes
+## Ecosystem Water Movements: Soil to Roots
+<hr>
 
-## Runoff
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/root_water_uptake2.png">
 
-## Water Losses
+## Water Movements through Plants
+<hr>
 
-* Precip + Storage(delta) = E + R
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/spad_water.jpg">
 
-## Evaporation from wet canopies
+## Soil Refilling - Hydraullic Lift
+<hr>
 
-## Evapotranspiration from dry canopies
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/soilrefilling.png">
 
-## Water Cycle is recycled 
+## Water movement: Stems
+<hr>
+<br />
+<br />
+<br />
 
-## Water for peoples
+* **Root pressure**
+ 
+ <br />
+ 
+* **Transpiration pull**
+ 
+ <br />
+ 
+* **Capillary movement**
 
-What percentage of ALL water on Earth do you think is readily available for humans to use?
+<br />
+
+* **Xylem tissues, Sapwood area, Cavitation**
+ 
+ <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:350px" SRC="images/stemwater.jpg">
+ 
+## Xylem Cavitation
+<hr>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/uWL0EoZh09w?start=145" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Water movement: Leaves
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.gif">
+
+## Plant water movement: State Factors
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/soilrefilling.png">
 
 
-## Water for people
-
-Ice: glaciers, snow, and sea ice
-						
-Liquid: oceans, rivers, lakes, clouds, underground, ponds, swamps, inside of living things
-		
-Gas: water vapor in the air
