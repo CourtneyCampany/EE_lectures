@@ -32,7 +32,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Respiration** 
   + metabolic process of using sugars/starches for energy 
-  + construction and maintenance (in plants)
+  + construction, maintenance & ion uptake (in plants)
   
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:450px; HEIGHT:400px" SRC="images/treecarbon.jpg">
 
@@ -138,7 +138,7 @@ rubrum (Ar) from Turnbll et al 2002.
 ~20% of energy invested in growth is lost as respiration</span></strong>
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/consturct.png">
+<IMG STYLE="position:absolute; TOP:235px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/consturct.png">
 
 ## Respiration: Maintenance and Ion uptake
 <hr>
@@ -152,7 +152,7 @@ rubrum (Ar) from Turnbll et al 2002.
   + replace degraded proteins
 <br />
 
-* **Up to 50% of total plant respiratipon**
+* **Up to 50% of total plant respiration**
 
 <br />
 
@@ -233,7 +233,7 @@ Carbohydrate pools in plant tissues</span></strong></div>
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/npp_climate.png">
+<IMG STYLE="position:absolute; TOP:165px; LEFT:2250px; WIDTH:700px; HEIGHT:500px" SRC="images/npp_climate.png">
 
 ## Environmental controls of NPP: Climate?
 <hr>
@@ -258,7 +258,7 @@ Not everyone agrees!</span></strong></div>
 <br />
 <br />
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:450px; HEIGHT:450px" SRC="images/tree.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/tree.jpg">
 
 <div style="float: right; width: 45%;">
 
@@ -301,7 +301,7 @@ Not everyone agrees!</span></strong></div>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/roothair.png">
 
-## NPP: Allocation and ontogeny
+## NPP: Biomass partitioning and ontogeny
 <hr>
 <br />
 
@@ -327,7 +327,7 @@ Not everyone agrees!</span></strong></div>
   
 <IMG STYLE="position:absolute; TOP:250px; LEFT:425px; WIDTH:400px; HEIGHT:300px" SRC="images/leafcolor.jpg">
 
-## Mass balance of NPP is HARD!!!!
+## Mass balance of NPP is complex!!!!
 <hr>
 <br />
 
