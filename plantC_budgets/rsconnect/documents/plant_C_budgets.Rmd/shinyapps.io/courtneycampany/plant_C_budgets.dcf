@@ -1,0 +1,12 @@
+name: plant_C_budgets
+title: plant_C_budgets
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 285593
+bundleId: 1231626
+url: https://courtneycampany.shinyapps.io/plant_C_budgets/
+when: 1519136738.02366
+asMultiple: FALSE
+asStatic: FALSE

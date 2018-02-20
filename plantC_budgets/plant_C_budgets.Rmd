@@ -116,9 +116,8 @@ https://nelson.wisc.edu/sage/data-and-models/atlas/maps.php?datasetid=37&include
 <hr>
 <br />
 <div class="centered">
-Response of dark respiration rate to temperature in
-leaves of Quercus rubrum (Qr), Quercus prinus (Qp) and Acer
-rubrum (Ar) from Turnbll et al 2002.
+Response of R<sub>d</sub> to temperature in
+leaves of *Quercus rubrum* (Qr), *Quercus prinus* (Qp) and *Acer rubrum* (Ar) from Turnbll et al 2002.
 </div>
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:225px; WIDTH:650px; HEIGHT:400px" SRC="images/resp_temp.png">
@@ -168,7 +167,7 @@ rubrum (Ar) from Turnbll et al 2002.
 
 <br />
 
-* Root growth and nutrient absorption
+* root growth and nutrient absorption
   + e.g. NH3 and NH4 uptake
 
 <br />
@@ -233,7 +232,7 @@ Carbohydrate pools in plant tissues</span></strong></div>
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:165px; LEFT:2250px; WIDTH:700px; HEIGHT:500px" SRC="images/npp_climate.png">
+<IMG STYLE="position:absolute; TOP:165px; LEFT:225px; WIDTH:700px; HEIGHT:500px" SRC="images/npp_climate.png">
 
 ## Environmental controls of NPP: Climate?
 <hr>
@@ -268,7 +267,7 @@ Not everyone agrees!</span></strong></div>
 <br />
 
 * **Ecosystem patterns**
-  + tundra, grasslands, shrublands
+  + tundra, grasslands, shrub lands
   + forests
 </div>
 
@@ -321,9 +320,9 @@ Not everyone agrees!</span></strong></div>
 <br />
 
 * **Tissue turnover**
-  + mortailty of tissues
+  + mortality of tissues
   + reduce costs - "shedding"
-  + distubance
+  + disturbance
   
 <IMG STYLE="position:absolute; TOP:250px; LEFT:425px; WIDTH:400px; HEIGHT:300px" SRC="images/leafcolor.jpg">
 
