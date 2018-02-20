@@ -1,0 +1,152 @@
+---
+title: "Nutrient Cycling"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Nutrient required for plant use: Macro
+<hr>
+<br />
+
+## Nutrient required for plant use: Micro
+<hr>
+<br />
+
+## Nutrient limitation in plants
+<hr>
+<br />
+
+## Nutrient uptake by roots
+<hr>
+<br />
+
+* Diffusion
+* Mass flow
+* Root interception
+
+## Root length and growth
+<hr>
+<br />
+
+## Root absorption capacity
+<hr>
+<br />
+
+## Mycorrhizae
+<hr>
+<br />
+
+## Mycorrhizae: AM vs EM
+<hr>
+<br />
+
+## Nitrogen fixing plant
+<hr>
+<br />
+
+## Root caps and exudation
+<hr>
+<br />
+
+## Plant nutrient use: N & P 
+<hr>
+<br />
+
+## Nutrient Use Efficiency: NUE
+<hr>
+<br />
+
+## Nutrient Loss
+<hr>
+<br />
+
+* Senescence
+* Leaching
+  + througfall
+  + stemflow
+* Herbivory
+*Distrubance
+  + fire
+  
+## Nitrogen inputs to terrestrial ecosystems: fixation
+<hr>
+<br />
+
+## Nitrogen inputs to terrestrial ecosystems: deposition
+<hr>
+<br />
+
+* humans
+* climate
+  +wet
+  +dry
+  +cloud
+  
+
+## Nitrogen inputs to terrestrial ecosystems: fixation
+<hr>
+<br />
+
+*Organic
+*NO3
+*NH4
+
+## Ecosystem Nitrogen Cycling
+<hr>
+<br />
+
+
+## Decomposition
+<hr>
+<br />
+
+## Dissolved Organic Nitrogen
+<hr>
+<br />
+
+
+## Ammonia
+<hr>
+<br />
+
+* mineralization rates
+
+##Nitrate
+<hr>
+<br />
+
+* nitrification rate
+
+## Soil Nitrogen Pool
+<hr>
+<br />
+
+
+## Variability on N cycling
+<hr>
+<br />
+
+## Pathways of N loss
+<hr>
+<br />
+
+## N solution losses
+<hr>
+<br />
+
+## Phosphorus cycling
+<hr>
+<br />
+
+## Agriculture and NPK
+<hr>
+<br />
