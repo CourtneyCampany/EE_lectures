@@ -67,10 +67,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ToY4eeWsdLc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Water vapor feedback loop
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:300px; HEIGHT:300px" SRC="images/watervapor_globe.jpg">
-
 ## Water vapor feedback
 <hr>
 <br />
@@ -127,6 +123,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:525px; WIDTH:500px; HEIGHT:300px" SRC="images/newradiation.gif">
 
+## Net radiation: Modis
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:700px; HEIGHT:350px" SRC="images/modis_radiation2.png">
+
+## Net radiation: Biomes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:165px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/modis_radiation.png">
+
 ## Radiation inputs: review
 <hr>
 <br />
@@ -134,7 +140,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: right; width: 45%;">
 
-* **90% of shortwave on sunny days**
+* **Direct shortwave radiation**
+  + 90% on sunny days
 
 <br />
 
@@ -145,29 +152,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br />
 
-* **Refleted**
+* **Reflected**
   + clouds
   + landscape
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/direct_diffuse.jpeg">
-
-## Net radiation: Forest Ecosystem
-<hr>
-<br />
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/netradiation_forest.png">
-
-## Net radiation: Modis
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:700px; HEIGHT:350px" SRC="images/modis_radiation2.png">
-
-## Net radiation: Biomes
-<hr>
-
-<IMG STYLE="position:absolute; TOP:165px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/modis_radiation.png">
 
 ## Radiation Partitioning
 <hr>
@@ -183,7 +174,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Energy conducted into the soil**
   + ground heat flux
-  
+
 <br />
 
 * **Energy stored inside ecosystem**
@@ -192,6 +183,17 @@ knitr::opts_chunk$set(echo = FALSE)
 </div> 
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/sensible_latent.png">
+
+## Net radiation: Forest vs Desert Ecosystem
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/netradiation_forest.png">
+
+## Variability in Bowen Ratios
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/bowen.jpg">
 
 ## Ground Heat Flux
 <hr>
@@ -218,11 +220,6 @@ knitr::opts_chunk$set(echo = FALSE)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/surface_budget.jpg">
-
-## Bowen Ratios of Different Ecosystems
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/bowen.jpg">
 
 ## Evapotranspiration: Energetics of water movement
 <hr>
@@ -264,11 +261,11 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: right; width: 45%;">
   
 * **Vapor Pressure (VP):**
-  + partial pressure of H<sub>2</sub>0 molecules
+  + partial pressure of H<sub>2</sub>0 molecules in air
 
 <br />
 
-* **Vapor Pressure Deficit:**
+* **Vapor Pressure Deficit (VPD):**
   + Difference in VP btw air adjacent to surface and bulk atmosphere
   
 <br />
@@ -363,7 +360,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/root_water_uptake.png">
 
-## Ecosystem Water Movements: Soil to Roots
+## Rhizosphere and Deep Roots
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/root_water_uptake2.png">
@@ -412,6 +409,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Plant water movement: State Factors
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/soilrefilling.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plantwater_state.png">
 
 
