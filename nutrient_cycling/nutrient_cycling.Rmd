@@ -1,5 +1,5 @@
 ---
-title: "Nutrient Cycling"
+title: "Ecosystem Nutrient Cycling"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -13,43 +13,247 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Nutrient required for plant use: Macro
+## Essential Nutrients required for plant use
 <hr>
 <br />
 
-## Nutrient required for plant use: Micro
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/nutrients.jpg">
+
+## Macro vs Micro- nutrients
 <hr>
 <br />
+
+* **Macronutrients required in largest amounts**
+  + commonly limit plant growth
+
+<br />
+
+* **Micronutrients are required, but in small amounts
+
+<br />
+
+* **Beneficial nutrients enhance growth under specific conditions**
+  + Ferns required aluminum
+  + nitrogen-fixing plants need cobalt
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:400px" SRC="images/liebigs.png">
+
+## Ecosystem Nutrient Balance
+<hr>
+<br />
+<br />
+
+* **Supply that is availabile in environment**
+
+<br />
+
+* **Requirements of vegetation for growth**
+
+<br />
+
+* **Convergence of nutrient ratios in plants**
+  + thresholds for limitation
+
+<br />
+
+* **Factors that control nutrient cycling**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/np_ratio.png">
 
 ## Nutrient limitation in plants
 <hr>
 <br />
 
-## Nutrient uptake by roots
+<div style="float: left; width: 45%;">
+
+* **Many regions on Earth where vegetation struggles to reach optimum productivity**
+  + sparse nutrients, such as N or P
+  
+  <br />
+
+* **Global vegetation productivity -25% compared to a completely fertile Earth**
+
+<br />
+
+* **How do we define plant nutrient limitation?**
+
+<br />
+
+* **Do all plants/ecosystems response similarily to ↑ nutrients?**
+</div>
+
+<IMG STYLE="position:absolute; TOP:165px; LEFT:575px; WIDTH:450px; HEIGHT:250px" SRC="images/calcium.png">
+
+<IMG STYLE="position:absolute; TOP:425px; LEFT:575px; WIDTH:450px; HEIGHT:250px" SRC="images/np_add.png">
+
+## Nutrient limitation in plants
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/limitation_globe.jpg">
+
+## Root access to nutrients: Diffusion
 <hr>
 <br />
 
-* Diffusion
-* Mass flow
-* Root interception
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/root_uptake2.png">
 
-## Root length and growth
+<div style="float: right; width: 45%;">
+
+* **Soil mositure dependent**
+  + length of bulk soil to root
+  
+  <br />
+  
+* **Soil particle size**
+  + ions diffuse through water films on particles
+  + smaller size = direct diffusion path to root
+  
+  <br />  
+  
+* <strong><span style="color:green">Mass Flow</span></strong>
+  + movement of nutrients in flowing soil water
+  + augments diffusion
+  + nutrients in solution: Calcium
+  + macronutrients mostly by diffusion
+  
+</div>
+
+## Diffusion: Cation exchange capacity
+<hr>
+<br />
+<br />
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:600px; HEIGHT:300px" SRC="images/root_uptake3.png">
+
+<div style="float: right; width: 35%;">
+
+* **Pool of available nutrients**
+
+<br />
+
+* **Volume of soil to exploit**
+
+<br />
+
+* **Buffering Capacity:**
+
+</div>
+
+## Root length
 <hr>
 <br />
 
-## Root absorption capacity
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/root_hairs.jpg">
+
+<div style="float: right; width: 45%;">
+
+* **Root length impacts absorption**
+  + influences NPP
+
+<br />
+
+* **Total volume of soil exploited**
+  + soil fertility
+  + competition?
+  + elongation rate
+ 
+ <br />
+ 
+* **Length is more important than root mass**
+  + Fine vs Coarse roots
+  + SRL:
+
+</div>
+
+## Fine roots: Biomes
 <hr>
 <br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:550px; HEIGHT:400px" SRC="images/root_diameter_biomes.jpg">
+
+## Root growth
+<hr>
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:250px; HEIGHT:400px" SRC="images/roothairs.jpg">
+
+<div style="float: right; width: 65%;">
+
+* **Root growth is not random**
+  + profuse branching at nutrient microsites
+  + root hairs
+ 
+ <br />
+ 
+* **Root length is greatest near surface**
+  + organic horizons
+  + nutrients inputs/cycling
+ 
+ <br />
+ 
+* **Economics of growth**
+
+</div>
+
+## Mycorrhizal smybiosis with plant roots
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mycorr.jpg">
+
+## Mycorrhizae: Ecto vs Endo
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:400px; HEIGHT:450px" SRC="images/mycorr2.jpg">
+
+<div style="float: right; width: 45%;">
+
+* **Ecto-**
+  + mainly trees
+  + temperate & high latitudes
+  + utlilize mantle/sheath around root
+  + Hartig net
+  + roots increase branching
+  + STABLE
+  
+  <br />
+
+* **Endo-**
+  + 300,000 plant species
+  + develop under P limitation
+  + growh through cell walls 
+  + form arbsucles (exchange sites)
+  + BALANCED PARASITISM
+ </div> 
 
 ## Mycorrhizae
 <hr>
 <br />
-
-## Mycorrhizae: AM vs EM
-<hr>
 <br />
 
-## Nitrogen fixing plant
+<div style="float: left; width: 45%;">
+
+* **Extrension of roots systems into bulk soil**
+  + carbon source for fungus
+  + nutrients passed to plants
+  + <strong><span style="color:green">adds 1-15m per 1cm of root</span></strong>
+
+<br />
+<br />
+<br />
+
+* **Most plants associate with mycorrhizae**
+  + 80% angiosperms
+  + all gymnosperms
+  + many ferns
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:440px; HEIGHT:450px" SRC="images/mycorr3.png">
+
+## Nitrogen fixing plants
 <hr>
 <br />
 

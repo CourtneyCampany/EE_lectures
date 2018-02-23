@@ -1,5 +1,5 @@
 ---
-title: "Energy & Water Balance"
+title: "Nutrient Cycling"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -9,3 +9,31 @@ output:
 runtime: shiny
 ---
 
+
+## Nitrogen fixing plants
+<hr>
+<br />
+
+## Root caps and exudation
+<hr>
+<br />
+
+## Plant nutrient use: N & P 
+<hr>
+<br />
+
+## Nutrient Use Efficiency: NUE
+<hr>
+<br />
+
+## Nutrient Loss
+<hr>
+<br />
+
+* Senescence
+* Leaching
+  + througfall
+  + stemflow
+* Herbivory
+*Distrubance
+  + fire
