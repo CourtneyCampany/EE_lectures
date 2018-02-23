@@ -256,57 +256,245 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Nitrogen fixing plants
 <hr>
 <br />
+<br />
+<br />
 
-## Root caps and exudation
+<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/Nitrogen-Fixing.jpg">
+
+* **Symbiosis with N-fixing bacteria**
+  + similar trade as mycorrhizae
+
+<br />
+
+* **N instead fixed from atmosphere**
+  + energentically expensive
+
+<br />
+
+* **Common to high light / low N sites**
+
+
+## Root absorption properties
 <hr>
 <br />
 
-## Plant nutrient use: N & P 
+* **Active transport**
+  + energy dependent of ions
+  + concentration gradients
+  + at root surface from soil solution
+  + 30-50% of root C budget for absorption
+  
+  <br />
+  
+* **Plant preferences for different forms**
+  + N = nitrate, ammonium or amino acids
+  + adaptation to ecosystem 
+  + most plants take up some nitrate
+  
+  <IMG STYLE="position:absolute; TOP:225px; LEFT:475px; WIDTH:500px; HEIGHT:300px" SRC="images/nforms.png">
+
+
+## Root exudation and caps
 <hr>
 <br />
+
+<div style="float: right; width: 40%;">
+
+* **Passive loss out of root**
+  + leaky faucet
+  + ions, sugars & metabolites
+  
+<br />
+
+* **Root death**
+  + sloughing of root caps
+  + mucilaginous
+ 
+ <br />
+ 
+* **Large C inputs to rhizosphere**
+  + stimulate bacterial growth
+  + promotes N mineralization
+  + plants and microbes still compete
+  
+</div>
+  
+  <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:500px; HEIGHT:400px" SRC="images/rootcaps.jpg">
+
+## Plant nutrient use: Co-limitation of N & P 
+<hr>
+<br />
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/nplimits.png">
+
+<div style="float: right; width: 40%;">
+
+* **NPP responds to additions of both**
+  + adjust allocation to capture
+  + adjust physiology to minimize loss
+
+<br />
+
+* **Symbiosis dependent**
+
+<br />
+
+* **State factors...**
+
+</div>
 
 ## Nutrient Use Efficiency: NUE
 <hr>
-<br />
 
-## Nutrient Loss
+<div class="centered">
+<strong><span style="color:green">Greatest when productivity is nutrient limited</span></strong>
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/nue.png">
+
+## Plant Nutrient Budgets: Loss
 <hr>
 <br />
 
-* Senescence
-* Leaching
-  + througfall
-  + stemflow
-* Herbivory
-*Distrubance
-  + fire
+
+<div style="float: left; width: 45%;">
+
+* **Senescence**
+  + major loss pool
+  + ecosystem dependent (Evergreens & soil fertility)
+  + resorption of nutrients into phloem (% = ???)
+  + occurs in roots?????
   
-## Nitrogen inputs to terrestrial ecosystems: fixation
-<hr>
 <br />
 
-## Nitrogen inputs to terrestrial ecosystems: deposition
-<hr>
-<br />
+* **Leaching**
+  + rain dissolves nutrients on tissue surfaces
+  + througfall & stemflow
+  + Ca & K commonly lost (solubility)
+  + % = ????
 
-* humans
-* climate
-  +wet
-  +dry
-  +cloud
+</div>
+
+<div style="float: right; width: 45%;">
+
+* **Herbivory**
+  + preferentially feed on rich tissues
+  + precedes resorption
+  + generally small impact on ecosystem
+  + nutrients returend as frass
   
+<br />
+<br />
 
-## Nitrogen inputs to terrestrial ecosystems: fixation
+* **Distrubance**
+  + fire, wind & disease
+  + large pulse losses of nutrients
+  + % loss depends on intensity
+  
+  </div>
+  
+  
+## Ecosystem Nutrient Cycling
 <hr>
 <br />
 
-*Organic
-*NO3
-*NH4
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/nutrient_cycle2.png">
+
+
+## Ecosystem Nutrient Cycling
+<hr>
+<br />
+<br />
+
+* **Entry of nutrients into system**
+  + biological fixation
+  + weathering
+  + deposition
+
+<br />
+
+* **Internal transfer**
+  + plants, microbes, consumers & environment
+  + decomposition
+ 
+ <br />
+ 
+* **Loss**
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:475px; WIDTH:500px; HEIGHT:500px" SRC="images/nutrient_cycle1.png">
+
 
 ## Ecosystem Nitrogen Cycling
 <hr>
 <br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/Nitrogen-cycle2.png">
+  
+## Nitrogen inputs to terrestrial ecosystems: Fixation
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/nitro_bacteria.png">
+
+## Nitrogen inputs to terrestrial ecosystems: Fixation
+<hr>
+<br />
+<br />
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:475px; WIDTH:600px; HEIGHT:400px" SRC="images/Nitrogen-Fixing.jpg">
+
+<div style="float: left; width: 45%;">
+
+* **Energetically expensive**
+  + can be highly advantagous
+
+<br />
+
+* **N fixers limited by other resources**
+  + colimitation of P
+  + limited once canopies closed (light)
+  
+<br />
+
+* **These factors reduce the competitive advantageof N fixers**
+  + N absorption becomes cheaper
+ 
+ </div>   
+
+## Nitrogen inputs to terrestrial ecosystems: Deposition
+<hr>
+<br />
+
+* **Humans**
+  + fertilzers
+  + animal husbandry
+  + fossil fules
+  + released as NH3 & NOx
+ 
+ <br /> 
+  
+* **Wet depoistion through precipitation**
+
+ <br /> 
+ 
+* **Dry deposition through dust / aerosols**
+
+ <br /> 
+ 
+* **Cloud through droplets by fog**
+  
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/artichaze.jpg">
+
+## Nitrogen inputs to terrestrial ecosystems: Deposition
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/ndepos.png">
+
+  
+##
+<IMG STYLE="position:absolute; TOP:25px; LEFT:225px; WIDTH:650px; HEIGHT:650px" SRC="images/internalcycle.png">
 
 
 ## Decomposition

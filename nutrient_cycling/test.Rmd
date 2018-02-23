@@ -10,30 +10,69 @@ runtime: shiny
 ---
 
 
-## Nitrogen fixing plants
+## Decomposition
 <hr>
 <br />
 
-## Root caps and exudation
+## Decomposition: Fragmentation
 <hr>
 <br />
 
-## Plant nutrient use: N & P 
+## Decomposition: Leaching
 <hr>
 <br />
 
-## Nutrient Use Efficiency: NUE
+## Decomposition rate: litter quality
 <hr>
 <br />
 
-## Nutrient Loss
+
+## Decomposition rate: climate
 <hr>
 <br />
 
-* Senescence
-* Leaching
-  + througfall
-  + stemflow
-* Herbivory
-*Distrubance
-  + fire
+## Decomposition: Dissolved Organic Nitrogen
+<hr>
+<br />
+
+
+## Immobilzation & Mineralization of N by microbes
+
+## Ammonia
+<hr>
+<br />
+
+* mineralization rates
+
+##Nitrate
+<hr>
+<br />
+
+* nitrification rate
+
+## Soil Nitrogen Pool
+<hr>
+<br />
+
+
+## Variability on N cycling
+<hr>
+<br />
+
+## Pathways of N loss
+<hr>
+<br />
+
+## N solution losses
+<hr>
+<br />
+
+## Phosphorus cycling
+<hr>
+<br />
+
+## Agriculture and NPK
+<hr>
+<br />
+
+
