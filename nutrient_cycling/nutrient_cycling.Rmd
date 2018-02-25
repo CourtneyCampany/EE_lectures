@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br />
 
-* **Micronutrients are required, but in small amounts
+* **Micro-nutrients are required, but in small amounts
 
 <br />
 
@@ -114,7 +114,7 @@ knitr::opts_chunk$set(echo = FALSE)
   + movement of nutrients in flowing soil water
   + augments diffusion
   + nutrients in solution: Calcium
-  + macronutrients mostly by diffusion
+  + macro-nutrients mostly by diffusion
   
 </div>
 
@@ -183,7 +183,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: right; width: 65%;">
 
 * **Root growth is not random**
-  + profuse branching at nutrient microsites
+  + profuse branching at nutrient micro-sites
   + root hairs
  
  <br />
@@ -213,7 +213,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * **Ecto-**
   + mainly trees
   + temperate & high latitudes
-  + utlilize mantle/sheath around root
+  + utilize mantle/sheath around root
   + Hartig net
   + roots increase branching
   + STABLE
@@ -223,7 +223,7 @@ knitr::opts_chunk$set(echo = FALSE)
 * **Endo-**
   + 300,000 plant species
   + develop under P limitation
-  + growh through cell walls 
+  + grow through cell walls 
   + form arbsucles (exchange sites)
   + BALANCED PARASITISM
  </div> 
@@ -267,7 +267,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 * **N instead fixed from atmosphere**
-  + energentically expensive
+  + energetically expensive
 
 <br />
 
@@ -276,6 +276,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Root absorption properties
 <hr>
+<br />
 <br />
 
 * **Active transport**
@@ -287,7 +288,7 @@ knitr::opts_chunk$set(echo = FALSE)
   <br />
   
 * **Plant preferences for different forms**
-  + N = nitrate, ammonium or amino acids
+  + N = nitrate, ammonia or amino acids
   + adaptation to ecosystem 
   + most plants take up some nitrate
   
@@ -371,7 +372,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Leaching**
   + rain dissolves nutrients on tissue surfaces
-  + througfall & stemflow
+  + through fall & stem flow
   + Ca & K commonly lost (solubility)
   + % = ????
 
@@ -383,7 +384,7 @@ knitr::opts_chunk$set(echo = FALSE)
   + preferentially feed on rich tissues
   + precedes resorption
   + generally small impact on ecosystem
-  + nutrients returend as frass
+  + nutrients returned as frass
   
 <br />
 <br />
@@ -448,12 +449,12 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: left; width: 45%;">
 
 * **Energetically expensive**
-  + can be highly advantagous
+  + can be highly advantageous
 
 <br />
 
 * **N fixers limited by other resources**
-  + colimitation of P
+  + co-limitation of P
   + limited once canopies closed (light)
   
 <br />
@@ -468,9 +469,9 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 * **Humans**
-  + fertilzers
+  + fertilizers
   + animal husbandry
-  + fossil fules
+  + fossil fuels
   + released as NH3 & NOx
  
  <br /> 
@@ -496,49 +497,154 @@ knitr::opts_chunk$set(echo = FALSE)
 ##
 <IMG STYLE="position:absolute; TOP:25px; LEFT:225px; WIDTH:650px; HEIGHT:650px" SRC="images/internalcycle.png">
 
-
 ## Decomposition
 <hr>
 <br />
 
-## Dissolved Organic Nitrogen
+* **Physical & chemical breakdown of detritus**
+  + leaf litter is main input
+  + balance between NPP & decomp regulates nutrient cycling
+  + 99% of soil N
+  
+  <br />
+
+* **CO<sub>2</sub> released through breakdown processes**
+  + hetrotrophic respiration (microbes and animals)
+  + NPP and Soil respiration similar, if in steady state
+
+<br />
+
+* **Ecosystem consequences:**
+  + organic matter → inorganic matter
+  + SOM matter formed
+  
+<IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/leaf_decomp.jpg">
+
+## Decomposition: Leaching / Fragmentation / Alteration
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/decomp.png">
+
+## Decomposition rate: Litter Quality
 <hr>
 <br />
 
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/litter_quality.png">
 
-## Ammonia
+## Decomposition rate: Diversity
 <hr>
 <br />
 
-* mineralization rates
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/decomp_diversity.jpg">
 
-##Nitrate
+## Decomposition rate: Ecosystem
 <hr>
 <br />
 
-* nitrification rate
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/decomp_biomes.jpg">
 
+## Decomposition: Dissolved Organic Nitrogen (DON)
+<hr>
+<br />
+<br />
+
+<div style="float: left; width: 45%;">
+* **Major form of N relesed by microbes**
+  + some DON absorbed by plants / microbes
+  + microbes create &  absorb
+
+<br />
+
+* **Organic N must be converted to soluble formes for uptake**
+  + substrate dependent
+  + diversity of soil community
+  + organic N polymers to large to pass microbial membranes
+  + enzymes released by microbes cause breakdown
+
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:500px; HEIGHT:300px" SRC="images/don.jpeg">
+
+## Immobilzation & Mineralization of N
+<hr>
+<br />
+
+<div style="float: left; width: 45%;">
+
+* **Mineralization**
+  + Microbes C limited
+  + Use C skeleton from DON
+  + Release inorganic NH<sub>4</sub> into soil
+
+<br />
+
+* **Ammonia**
+  + available for uptake plant/mycorrhizae
+  + also converted to NO<sub>2</sub> → NO<sub>3</sub>
+  + **nitrification** → specific group of bacteria
+  + nitrification dependent on ecosystem:
+
+ </div> 
+ 
+<div style="float: right; width: 45%;">
+
+<br />
+<br />
+<br />
+<br />
+
+* **Immobilization**
+  + absorption / fixation of N my microbes
+  + removed from plant available pool
+  + balance between C - N limitation of microbes
+
+ </div> 
+ 
 ## Soil Nitrogen Pool
 <hr>
 <br />
-
-
-## Variability on N cycling
-<hr>
 <br />
+<br />
+<br />
+<br />
+
+<div style="float: left; width: 45%;">
+
+* **N availability determines fate**
+  + DON → NH<sub>4</sub> → NO<sub>3</sub>
+  + Shifts in mycorrhizal contribution
+ 
+ <br />
+ 
+* **When N availability ↓:**
+  + competition !!!
+
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:600px; HEIGHT:300px" SRC="images/soilNpool.png">
 
 ## Pathways of N loss
 <hr>
 <br />
 
-## N solution losses
+<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/nitro_loss.jpg">
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:625px; WIDTH:400px; HEIGHT:500px" SRC="images/nitrate_loss2.png">
+
+## Agriculture: N solution losses
 <hr>
-<br />
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:500px; HEIGHT:300px" SRC="images/nitrate_loss.jpg">
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:650px; WIDTH:300px; HEIGHT:200px" SRC="images/npk.jpg">
+
 
 ## Phosphorus cycling
 <hr>
-<br />
 
-## Agriculture and NPK
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/soilP2.jpg">
+
+
+## Phosphorus cycling
 <hr>
-<br />
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/soilP.png">

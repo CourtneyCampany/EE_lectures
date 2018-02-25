@@ -10,69 +10,7 @@ runtime: shiny
 ---
 
 
-## Decomposition
-<hr>
-<br />
-
-## Decomposition: Fragmentation
-<hr>
-<br />
-
-## Decomposition: Leaching
-<hr>
-<br />
-
-## Decomposition rate: litter quality
-<hr>
-<br />
 
 
-## Decomposition rate: climate
-<hr>
-<br />
-
-## Decomposition: Dissolved Organic Nitrogen
-<hr>
-<br />
-
-
-## Immobilzation & Mineralization of N by microbes
-
-## Ammonia
-<hr>
-<br />
-
-* mineralization rates
-
-##Nitrate
-<hr>
-<br />
-
-* nitrification rate
-
-## Soil Nitrogen Pool
-<hr>
-<br />
-
-
-## Variability on N cycling
-<hr>
-<br />
-
-## Pathways of N loss
-<hr>
-<br />
-
-## N solution losses
-<hr>
-<br />
-
-## Phosphorus cycling
-<hr>
-<br />
-
-## Agriculture and NPK
-<hr>
-<br />
 
 
