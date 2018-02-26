@@ -13,11 +13,11 @@ runtime: shiny
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Essential Nutrients required for plant use
+## Essential Nutrients required for plant growth
 <hr>
 <br />
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/nutrients.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/nutrients.jpg">
 
 ## Macro vs Micro- nutrients
 <hr>
@@ -28,12 +28,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br />
 
-* **Micro-nutrients are required, but in small amounts
+* **Micro-nutrients are required, but in small amounts**
 
 <br />
 
 * **Beneficial nutrients enhance growth under specific conditions**
-  + Ferns required aluminum
+  + ferns required aluminum
   + nitrogen-fixing plants need cobalt
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:300px; HEIGHT:400px" SRC="images/liebigs.png">
@@ -56,11 +56,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br />
 
-* **Factors that control nutrient cycling**
+* **Factors that control nutrient cycling?**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/np_ratio.png">
 
-## Nutrient limitation in plants
+## Nutrient limitation on ecosystem scale
 <hr>
 <br />
 
@@ -203,6 +203,31 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mycorr.jpg">
 
+## Mycorrhizae
+<hr>
+<br />
+<br />
+
+<div style="float: left; width: 45%;">
+
+* **Extrension of roots systems into bulk soil**
+  + carbon source for fungus
+  + nutrients passed to plants
+  + <strong><span style="color:green">adds 1-15m per 1cm of root</span></strong>
+
+<br />
+<br />
+<br />
+
+* **Most plants associate with mycorrhizae**
+  + 80% angiosperms
+  + all gymnosperms
+  + many ferns
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:440px; HEIGHT:450px" SRC="images/mycorr3.png">
+
 ## Mycorrhizae: Ecto vs Endo
 <hr>
 
@@ -228,30 +253,7 @@ knitr::opts_chunk$set(echo = FALSE)
   + BALANCED PARASITISM
  </div> 
 
-## Mycorrhizae
-<hr>
-<br />
-<br />
 
-<div style="float: left; width: 45%;">
-
-* **Extrension of roots systems into bulk soil**
-  + carbon source for fungus
-  + nutrients passed to plants
-  + <strong><span style="color:green">adds 1-15m per 1cm of root</span></strong>
-
-<br />
-<br />
-<br />
-
-* **Most plants associate with mycorrhizae**
-  + 80% angiosperms
-  + all gymnosperms
-  + many ferns
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:440px; HEIGHT:450px" SRC="images/mycorr3.png">
 
 ## Nitrogen fixing plants
 <hr>
@@ -409,6 +411,8 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 <br />
 
+<div style="float: left; width: 45%;">
+
 * **Entry of nutrients into system**
   + biological fixation
   + weathering
@@ -424,8 +428,9 @@ knitr::opts_chunk$set(echo = FALSE)
  
 * **Loss**
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:475px; WIDTH:500px; HEIGHT:500px" SRC="images/nutrient_cycle1.png">
+</div>
 
+<IMG STYLE="position:absolute; TOP:175px; LEFT:475px; WIDTH:500px; HEIGHT:500px" SRC="images/nutrient_cycle1.png">
 
 ## Ecosystem Nitrogen Cycling
 <hr>
@@ -493,6 +498,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/ndepos.png">
 
+## Nitrogen inputs: Clean air act (1970)
+<hr>
+<br />
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/epa-trends.jpg">
+
   
 ##
 <IMG STYLE="position:absolute; TOP:25px; LEFT:225px; WIDTH:650px; HEIGHT:650px" SRC="images/internalcycle.png">
@@ -510,7 +521,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **CO<sub>2</sub> released through breakdown processes**
   + hetrotrophic respiration (microbes and animals)
-  + NPP and Soil respiration similar, if in steady state
+  + NPP and soil respiration similar, if in steady state
 
 <br />
 
