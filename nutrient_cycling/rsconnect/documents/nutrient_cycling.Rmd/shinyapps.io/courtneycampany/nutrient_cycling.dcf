@@ -1,0 +1,12 @@
+name: nutrient_cycling
+title: nutrient_cycling
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 289250
+bundleId: 1242685
+url: https://courtneycampany.shinyapps.io/nutrient_cycling/
+when: 1519742773.38187
+asMultiple: FALSE
+asStatic: FALSE

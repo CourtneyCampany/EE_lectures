@@ -66,7 +66,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="float: left; width: 45%;">
 
-* **Many regions on Earth where vegetation struggles to reach optimum productivity**
+* **Most vegetation on Earth struggles to reach optimum productivity**
   + sparse nutrients, such as N or P
   
   <br />
@@ -79,7 +79,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br />
 
-* **Do all plants/ecosystems response similarily to ↑ nutrients?**
+* **How do ecosystems respond to Δ in nutrients?**
 </div>
 
 <IMG STYLE="position:absolute; TOP:165px; LEFT:575px; WIDTH:450px; HEIGHT:250px" SRC="images/calcium.png">
@@ -101,6 +101,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * **Soil mositure dependent**
   + length of bulk soil to root
+  + macro-nutrients mostly by diffusion
   
   <br />
   
@@ -113,15 +114,12 @@ knitr::opts_chunk$set(echo = FALSE)
 * <strong><span style="color:green">Mass Flow</span></strong>
   + movement of nutrients in flowing soil water
   + augments diffusion
-  + nutrients in solution: Calcium
-  + macro-nutrients mostly by diffusion
+  + micro-nutrients in solution: Calcium
   
 </div>
 
 ## Diffusion: Cation exchange capacity
 <hr>
-<br />
-<br />
 <br />
 <br />
 
@@ -130,6 +128,10 @@ knitr::opts_chunk$set(echo = FALSE)
 <div style="float: right; width: 35%;">
 
 * **Pool of available nutrients**
+
+<br />
+
+* **Soil texture**
 
 <br />
 
@@ -198,7 +200,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 
-## Mycorrhizal smybiosis with plant roots
+## Mycorrhizal symbiosis with plant roots
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/mycorr.jpg">
@@ -249,7 +251,7 @@ knitr::opts_chunk$set(echo = FALSE)
   + 300,000 plant species
   + develop under P limitation
   + grow through cell walls 
-  + form arbsucles (exchange sites)
+  + form arbscules (exchange sites)
   + BALANCED PARASITISM
  </div> 
 
@@ -282,7 +284,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 * **Active transport**
-  + energy dependent of ions
+  + ion channels
   + concentration gradients
   + at root surface from soil solution
   + 30-50% of root C budget for absorption
@@ -315,7 +317,7 @@ knitr::opts_chunk$set(echo = FALSE)
  
  <br />
  
-* **Large C inputs to rhizosphere**
+* **C inputs to rhizosphere**
   + stimulate bacterial growth
   + promotes N mineralization
   + plants and microbes still compete
@@ -411,7 +413,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 <br />
 
-<div style="float: left; width: 45%;">
+<div style="float: left; width: 40%;">
 
 * **Entry of nutrients into system**
   + biological fixation
@@ -430,7 +432,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:475px; WIDTH:500px; HEIGHT:500px" SRC="images/nutrient_cycle1.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/nutrient_cycle1.png">
 
 ## Ecosystem Nitrogen Cycling
 <hr>
@@ -515,12 +517,12 @@ knitr::opts_chunk$set(echo = FALSE)
 * **Physical & chemical breakdown of detritus**
   + leaf litter is main input
   + balance between NPP & decomp regulates nutrient cycling
-  + 99% of soil N
+  + 99% of N in soil
   
   <br />
 
 * **CO<sub>2</sub> released through breakdown processes**
-  + hetrotrophic respiration (microbes and animals)
+  + heterotrophic respiration (microbes and animals)
   + NPP and soil respiration similar, if in steady state
 
 <br />
@@ -560,7 +562,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <br />
 
 <div style="float: left; width: 45%;">
-* **Major form of N relesed by microbes**
+* **Major form of N released by microbes**
   + some DON absorbed by plants / microbes
   + microbes create &  absorb
 
