@@ -280,7 +280,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/waterflux_trees.png">
 
-## Terrestrial Water Bucket
+## Tree Water Bucket
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/waterflux_trees2.png">
@@ -406,7 +406,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/gs_vpd.gif">
 
-## Plant water movement: State Factors
+## Ecosystem water movement: State Factors
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/plantwater_state.png">
