@@ -287,7 +287,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Precipation Shifts?
 <hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ipOcTpNl5rs?rel=0&amp;start=52" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ipOcTpNl5rs?rel=0&amp;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Water Inputs: Snowpack
 <hr>
