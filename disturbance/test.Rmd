@@ -1,0 +1,78 @@
+---
+title: "Disturbance and Succession"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## 2^o^ Succession: Ecosystem Structure
+<hr>
+<br/>
+
+* **Starts on existing soils**
+    + nutrient pulse after distubrance
+    + less vegetation to uptake (mineralization)
+    
+* **Colonizers already present**
+
+## 2^o^ Succession: Seed & Seedling bank
+<hr>
+<br/>
+
+## 2^o^ Succession: Life history traits
+<hr>
+<br/>
+
+## 2^o^ Succession: Facilitation vs Competition
+<hr>
+<br/>
+
+## Disturbance: Water & Energy Exchange
+<hr>
+<br/>
+
+## Disturbance: Water & Energy Exchange
+<hr>
+<br/>
+
+## Succession & C balance
+<hr>
+<br/>
+
+## Succession & NPP
+<hr>
+<br/>
+
+## Succession & NEP
+<hr>
+<br/>
+
+## Nutrient Cycling: 1^o^ Succession
+<hr>
+<br/>
+
+## Nutrient Cycling: 2^o^ Succession
+<hr>
+<br/>
+
+## Nutrient Cycling: Human disturbances
+<hr>
+<br/>
+
+## Trophic Dynamics
+<hr>
+<br/>
+
+## Temporal Scaling
+<hr>
+<br/>
+
