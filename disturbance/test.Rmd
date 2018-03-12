@@ -17,32 +17,90 @@ knitr::opts_chunk$set(echo = FALSE)
 ## 2^o^ Succession: Ecosystem Structure
 <hr>
 <br/>
+<br/>
+<br/>
 
 * **Starts on existing soils**
     + nutrient pulse after distubrance
     + less vegetation to uptake (mineralization)
-    
+ 
+ <br/>
+ 
 * **Colonizers already present**
+    + Seed bank
+    + Seedling bank
+    + Nearby dispersal
 
-## 2^o^ Succession: Seed & Seedling bank
-<hr>
-<br/>
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/seedlingbank.jpg">
 
 ## 2^o^ Succession: Life history traits
 <hr>
+
+<div class="centered"><strong><span style="color:blue">
+Trait based framework to understand plant successional
+</span></strong></div>
+
+* **Seed size & Number:**
+
 <br/>
 
-## 2^o^ Succession: Facilitation vs Competition
+* **Potential growth rate:**
+
+<br/>
+
+* **Maximum Size:**
+
+<br/>
+
+* **Longevity:**
+
+
+## 2^o^ Succession: Facilitation vs Competition vs Tolerance
 <hr>
 <br/>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/comp_facil.jpg">
+
+## 
+<IMG STYLE="position:absolute; TOP:25px; LEFT:150px; WIDTH:800px; HEIGHT:800px" SRC="images/succession_model.jpg">
 
 ## Disturbance: Water & Energy Exchange
 <hr>
 <br/>
 
+* **Removing biomass reduces evapotranspiration**
+    + Runoff increases
+    
+    <br/>
+
+* **Effects of forest cutting and overgrazing****
+    + Mangement tool???
+
+<br/>
+
+* **Discharge reduced as succession progress**
+    + high N, photosynthesis & leaf area of early species
+    + root proliferation
+    + complex canopy development
+    + increases evapotranpspiration
+    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mudslide.jpg">
+
 ## Disturbance: Water & Energy Exchange
 <hr>
 <br/>
+
+
+* **Energy Budget dominated by surface temperatures**
+    + high emission of longwave radiation 
+    + sensible heat high
+    
+1. Low albedo of recently distubed sites
+
+2. Low leaf area, hydraullic conductance and root mass
+    + decreases energy dissipatd by transpiration
+    
+3. Smooth surfaces decreases turbulence
 
 ## Succession & C balance
 <hr>
