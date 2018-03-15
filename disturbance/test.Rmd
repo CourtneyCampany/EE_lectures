@@ -31,7 +31,7 @@ knitr::opts_chunk$set(echo = FALSE)
     + Seedling bank
     + Nearby dispersal
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/seedlingbank.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/seedlingbank.jpg">
 
 ## 2^o^ Succession: Life history traits
 <hr>
@@ -39,6 +39,9 @@ knitr::opts_chunk$set(echo = FALSE)
 <div class="centered"><strong><span style="color:blue">
 Trait based framework to understand plant successional
 </span></strong></div>
+
+<br/>
+<br/>
 
 * **Seed size & Number:**
 
@@ -59,21 +62,21 @@ Trait based framework to understand plant successional
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/comp_facil.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:750px; HEIGHT:400px" SRC="images/comp_facil.jpg">
 
 ## 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:150px; WIDTH:800px; HEIGHT:800px" SRC="images/succession_model.jpg">
+<IMG STYLE="position:absolute; TOP:25px; LEFT:225px; WIDTH:650px; HEIGHT:650px" SRC="images/succession_model.jpg">
 
 ## Disturbance: Water & Energy Exchange
 <hr>
 <br/>
-
+<div style="float: left; width: 45%;">
 * **Removing biomass reduces evapotranspiration**
     + Runoff increases
     
     <br/>
 
-* **Effects of forest cutting and overgrazing****
+* **Effects of forest cutting and overgrazing**
     + Mangement tool???
 
 <br/>
@@ -83,54 +86,103 @@ Trait based framework to understand plant successional
     + root proliferation
     + complex canopy development
     + increases evapotranpspiration
-    
+ </div>   
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mudslide.jpg">
 
 ## Disturbance: Water & Energy Exchange
 <hr>
 <br/>
 
+<div style="float: right; width: 40%;">
 
 * **Energy Budget dominated by surface temperatures**
     + high emission of longwave radiation 
     + sensible heat high
-    
-1. Low albedo of recently distubed sites
 
-2. Low leaf area, hydraullic conductance and root mass
-    + decreases energy dissipatd by transpiration
-    
-3. Smooth surfaces decreases turbulence
-
-## Succession & C balance
-<hr>
 <br/>
+
+**1. Low albedo of recently distubed sites**
+
+<br/>
+
+**2. Low leaf area, hydraullic conductance and root mass**
+    + decreases energy dissipatd by transpiration
+
+<br/>
+
+**3. Smooth surfaces decreases turbulence**
+</div>
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:500px; HEIGHT:350px" SRC="images/albedo.jpg">
 
 ## Succession & NPP
 <hr>
 <br/>
+<br/>
 
-## Succession & NEP
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/npp2.jpg">
+
+<div style="float: right; width: 50%;">
+
+* **NPP increases slowly @ first**
+    + heterotrophic respiration ~ 0
+    + shift w/ N fixers
+<br/>
+
+* **Trajectory of NPP is Ecosystem specific**
+    + forest = ↑ fast until max LAI
+    + nutrient & light limitation slow NPP
+    + heterotrophic respiration catches up (litter)
+ <br/>
+ 
+* **Biomass stabalizes @ late succession**
+    + NPP reduced & mortaility ↑
+    + heterotrophic respiration ↓
+  <br/>
+  
+* **Parent material limits NPP over long time scales**
+</div>
+
+## Succession & NPP
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/npp.png">
+
+## Nutrient Cycling: Succession
 <hr>
 <br/>
 
-## Nutrient Cycling: 1^o^ Succession
-<hr>
+<div style="float: left; width: 45%;">
+* **Initial accumulation of N in plants/soils**
+    + mostly atmospheric inputs
+    + N most limiting
+
 <br/>
+
+* **Litter accumulates with new N**
+    + N cycles closes
+    + plants & microbes effcient @ keeping nutrients
+
+<br/>
+
+* **Leaching eventually balances cycling**
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:400px; HEIGHT:500px" SRC="images/nutrient2.png">
 
 ## Nutrient Cycling: 2^o^ Succession
 <hr>
-<br/>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/nutrient.png">
 
 ## Nutrient Cycling: Human disturbances
 <hr>
-<br/>
 
-## Trophic Dynamics
-<hr>
-<br/>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/erosion.jpg">
 
-## Temporal Scaling
+## Trophic Dynamics: Animals
 <hr>
-<br/>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/grazers.jpg">
+
+## Trophic Dynamics: Plants
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/volatiles.jpg">
+
 
