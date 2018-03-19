@@ -50,7 +50,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Ecosystem Resilience
 <hr>
 
-<div class="centered"><strong><span style="color:blue">Constrains ecosystem responses to pertubations</span></strong></div>
+<div class="centered"><strong><span style="color:blue">Constrains ecosystem responses to perturbations</span></strong></div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:475px; HEIGHT:475px" SRC="images/resistance.png">
 
@@ -77,22 +77,21 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Limits to Resilience
 <hr>
 <br/>
+<br/>
+<br/>
 <div style="float: right; width: 45%;">
 
 * **When change exceeds resilence**
-    + invasives
-    + land use change
-    + pollution
-    + climate shifts
+    + Examples:
+    
+<br/>
+
+* **Adaptive range of a system can decrease/shrink**
+    + no longer buffer the ecosystem
   
 <br/>
   
 * **Directional shifts exceeds the adaptive range of the system**
-
-<br/>
-
-* **Adaptive range of a system can decrease**
-    + no longer buffer the ecosystem
 </div>
   
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:400px; HEIGHT:400x" SRC="images/invasives.jpg">  
@@ -123,22 +122,27 @@ https://above.nasa.gov/implementation_plan/framework.html
 <div style="float: left; width: 45%;">
 
 * <strong><span style="color:blue">Behavior of a ball on a surface</span></strong>
-    + Location = system state relaive to variable
+    + Location = system state relative to variable
 
 <br/>
 
 * **Resilience = tendency of system to remain in state**
     + despite fluctuations (a)
-    + size of depression (b)
+    + size of adaptive range (b)
   
 <br/>
 
 * **Events can push system into new state (c)**
-    + i.e. drought, insect attacks, etc.
+    + i.e. extreme drought, insect outbreaks, etc.
     
 </div>  
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:475px; HEIGHT:475px" SRC="images/regime.png">
+
+## Cheatgrass
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/cheatgrass.jpg">
 
 ## How do we plan for expected shifts
 <hr>
@@ -151,7 +155,8 @@ https://above.nasa.gov/implementation_plan/framework.html
 <br/>
 
 * **Migration Corridors**
-
+    + see Nick Haddad
+    
 <br/>
 
 * **Assisted migration**
@@ -160,29 +165,28 @@ https://above.nasa.gov/implementation_plan/framework.html
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:475px; HEIGHT:475px" SRC="images/assistedmigration1.jpg">
 
-## Assisted Migration?
+## Assisted Migration: The debate...
 <hr>
 <br/>
 <br/>
 
 <div style="float: right; width: 45%;">
 
-* **PULL migration**
-    + introducing species to fill the ‘gap’ of a missing keystone species
-    + maintaining an ecosystem may far outweigh the risks.
-  
-  <br/>
-
 * **PUSH migration**
     + saving species that likely become extinct without human intervention
     + removing individuals and creating new populations in a better habitat
     + risk of failure and damage to the receiving ecosystem
-  
+      
+  <br/>
+
+* **PULL migration**
+    + introducing species to fill the ‘gap’ of a missing keystone species
+    + maintaining an ecosystem may far outweigh the risks.
   </div>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:475px; HEIGHT:475px" SRC="images/assistedmigration2.png">
 
-## Restoration Ecology: The debate...
+## Restoration Ecology
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/restoration_ecology.jpg">
@@ -196,13 +200,13 @@ https://above.nasa.gov/implementation_plan/framework.html
 * **Discrete event in time that:**
     + Removes plant biomass
     + alters populations & communities
-    + alters structure of ecosytems 
+    + alters structure of ecosystems 
     + changes resources availability
-    + changes physical environemnt
+    + changes physical environment
 
 <br/>
 
-* **Major cause of long-tern fluctuations in ecoystem function**
+* **Major cause of long-term fluctuations in ecoystem function**
 
 <br/>
 
@@ -213,29 +217,24 @@ https://above.nasa.gov/implementation_plan/framework.html
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fire.jpg">
 
 
-##Impact of Distrubance: Type
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/disturbance2.jpg">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:225px; WIDTH:625px; HEIGHT:625px" SRC="images/forestdistrubances.jpg">
-
-##Human vs Natural Disturbance
+##Human vs Natural Disturbance Types
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:450px; HEIGHT:350px" SRC="images/humandisturb.jpg">
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/humandisturb2.jpg">
 
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:225px; WIDTH:625px; HEIGHT:625px" SRC="images/forestdistrubances.jpg">
+
+
 ##Landuse change
 <hr>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/humandisturb3.png">
 
-##Impact of Distrubance: Size / Intensity / Frequency 
+##Impact of Disturbance: Size / Intensity / Frequency 
 <hr>
 <br/>
 
@@ -253,7 +252,7 @@ https://above.nasa.gov/implementation_plan/framework.html
 <br/>
 
 * **Whats left after**
-    + islands of undistubred vegetation
+    + islands of undisturbed vegetation
     + seed banks
  
  <br/>
@@ -283,38 +282,16 @@ https://above.nasa.gov/implementation_plan/framework.html
 
 </div>
 
-## NPP and Disturbance
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:950px; HEIGHT:500px" SRC="images/disturbance3.png">
-
-
-## Succession in Ecosystmes
+## Severity vs Frequency
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:85px; WIDTH:900px; HEIGHT:550px" SRC="images/succession3.jpg">
-
-## Disturbance & Succession
-<hr>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/succession1c.jpg">
-
-## Basics: Primary Succession
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/succession1b.png">
-
-## Basics: Secondary Succession
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/succession2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/disturbance_trend.png">
 
 ## Disturbance Regimes
 <hr>
 
 * **Combined array of distrubance types over time**
-    + differing frequencies and severities
+    + differing frequencies and severity
 
 <br/>
 
@@ -324,22 +301,17 @@ https://above.nasa.gov/implementation_plan/framework.html
 
 <br/>
 
-* **Species adapty to regime**
+* **Species adapt to regime**
     + fire adapted plants
     + human interactions important
 
 <br/>
 
 * **Timing influences impact**
-    + fire/freeze during budbreak
-    + damns eliminate seasonal flooding
+    + fire/freeze during bud-break
+    + dams eliminate seasonal flooding
   
 <IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/beetle.gif">
-  
-## Severity vs Frequency
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/disturbance_trend.png">
   
 ## Disturbance Regimes
 <hr>
@@ -352,7 +324,7 @@ https://above.nasa.gov/implementation_plan/framework.html
 
 <div style="float: left; width: 45%;">
 
-* **Variable # of individuals will survive, grow & reproduce**
+* **Who will survive, grow & reproduce?**
     + dependent on type and severity
 
 <br/>
@@ -377,23 +349,27 @@ https://above.nasa.gov/implementation_plan/framework.html
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/exxon.png">
 
-## Succession
+## NPP and Disturbance
 <hr>
 <br/>
 
-<div style="float: left; width: 45%;">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:950px; HEIGHT:500px" SRC="images/disturbance3.png">
 
-* **Responsible for local variation**
-    + state factors = broad patterns
 
-</div>
+## Succession in Ecosystems
+<hr>
 
-<div style="float: right; width: 50%;">
-* **Disturbance determines succession patterns**
-    + spatial variability 
-</div>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:85px; WIDTH:900px; HEIGHT:550px" SRC="images/succession3.jpg">
 
-<IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:250px" SRC="images/succession1.png">
+## Disturbance & Succession
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/succession1c.jpg">
+
+## Basics: Primary Succession
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/succession1b.png">
 
 ## 1^o^ Succession: Ecosystem Structure
 <hr>
@@ -439,15 +415,10 @@ https://above.nasa.gov/implementation_plan/framework.html
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/crust.jpg">
 
-## Glacial Retreat Case Study
+## Basics: Secondary Succession
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/glacial1.jpg">
-
-## Glacial Retreat Case Study
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/glacial2.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/succession2.jpg">
 
 ## 2^o^ Succession: Ecosystem Structure
 <hr>
@@ -456,7 +427,7 @@ https://above.nasa.gov/implementation_plan/framework.html
 <br/>
 
 * **Starts on existing soils**
-    + nutrient pulse after distubrance
+    + nutrient pulse after disturbance
     + less vegetation to uptake (mineralization)
  
  <br/>
@@ -466,7 +437,7 @@ https://above.nasa.gov/implementation_plan/framework.html
     + Seedling bank
     + Nearby dispersal
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/seedlingbank.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/seedlingbank.jpg">
 
 ## 2^o^ Succession: Life history traits
 <hr>
@@ -493,14 +464,21 @@ Trait based framework to understand plant successional
 * **Longevity:**
 
 
-## 2^o^ Succession: Facilitation vs Competition vs Tolerance
+## Glacial Retreat Case Study
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/glacial1.jpg">
+
+## Facilitation vs Inhibition
 <hr>
 <br/>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:750px; HEIGHT:400px" SRC="images/comp_facil.jpg">
 
-## 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:225px; WIDTH:650px; HEIGHT:650px" SRC="images/succession_model.jpg">
+## Glacial Retreat Case Study
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/glacial2.png">
 
 ## Disturbance: Water & Energy Exchange
 <hr>
@@ -512,7 +490,7 @@ Trait based framework to understand plant successional
     <br/>
 
 * **Effects of forest cutting and overgrazing**
-    + Mangement tool???
+    + Management tool???
 
 <br/>
 
@@ -531,7 +509,7 @@ Trait based framework to understand plant successional
 <div style="float: right; width: 40%;">
 
 * **Energy Budget dominated by surface temperatures**
-    + high emission of longwave radiation 
+    + high emission of long-wave radiation 
     + sensible heat high
 
 <br/>
@@ -540,8 +518,8 @@ Trait based framework to understand plant successional
 
 <br/>
 
-**2. Low leaf area, hydraullic conductance and root mass**
-    + decreases energy dissipatd by transpiration
+**2. Low leaf area, hydraulic conductance and root mass decreases 
+energy dissipated by transpiration**
 
 <br/>
 
@@ -552,7 +530,6 @@ Trait based framework to understand plant successional
 ## Succession & NPP
 <hr>
 <br/>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/npp2.jpg">
 
@@ -561,25 +538,20 @@ Trait based framework to understand plant successional
 * **NPP increases slowly @ first**
     + heterotrophic respiration ~ 0
     + shift w/ N fixers
+    
 <br/>
 
 * **Trajectory of NPP is Ecosystem specific**
     + forest = ↑ fast until max LAI
     + nutrient & light limitation slow NPP
     + heterotrophic respiration catches up (litter)
- <br/>
+    
+<br/>
  
-* **Biomass stabalizes @ late succession**
-    + NPP reduced & mortaility ↑
+* **Biomass stabilizes @ late succession**
+    + NPP reduced & mortality ↑
     + heterotrophic respiration ↓
-  <br/>
-  
-* **Parent material limits NPP over long time scales**
 </div>
-
-## Succession & NPP
-<hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/npp.png">
 
 ## Nutrient Cycling: Succession
 <hr>
@@ -594,7 +566,7 @@ Trait based framework to understand plant successional
 
 * **Litter accumulates with new N**
     + N cycles closes
-    + plants & microbes effcient @ keeping nutrients
+    + plants & microbes efficient @ keeping nutrients
 
 <br/>
 
@@ -612,10 +584,6 @@ Trait based framework to understand plant successional
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/erosion.jpg">
 
-## Trophic Dynamics: Animals
+## Trophic Dynamics
 <hr>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/grazers.jpg">
-
-## Trophic Dynamics: Plants
-<hr>
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/volatiles.jpg">
