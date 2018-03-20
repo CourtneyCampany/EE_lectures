@@ -96,6 +96,11 @@ knitr::opts_chunk$set(echo = FALSE)
   
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:400px; HEIGHT:400x" SRC="images/invasives.jpg">  
 
+## Adaptive Range: Smit and Wandel 2006
+<hr>
+
+<IMG STYLE="position:absolute; TOP:215px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/coping.jpg">
+
 ## ABOVE: Climate Resilience in Artic & Boreal ecosystems
 <hr>
 <div class="centered">
@@ -108,11 +113,6 @@ https://above.nasa.gov/implementation_plan/framework.html
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/buildreslience.png"> 
-  
-## Adaptive Range: Smit and Wandel 2006
-<hr>
-
-<IMG STYLE="position:absolute; TOP:215px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/coping.jpg">
 
 ## Regime Shifts
 <hr>
@@ -133,7 +133,7 @@ https://above.nasa.gov/implementation_plan/framework.html
 <br/>
 
 * **Events can push system into new state (c)**
-    + i.e. extreme drought, insect outbreaks, etc.
+    + extreme drought, insect outbreaks, etc.
     
 </div>  
 
@@ -290,7 +290,7 @@ https://above.nasa.gov/implementation_plan/framework.html
 ## Disturbance Regimes
 <hr>
 
-* **Combined array of distrubance types over time**
+* **Combined array of distrubances over time**
     + differing frequencies and severity
 
 <br/>
@@ -385,7 +385,7 @@ https://above.nasa.gov/implementation_plan/framework.html
 
 <br/>
 
-* **Initial Species composition:**
+* **Initial composition:**
     + plants that handle stresses
     + low nutrients 
     + poor soil
@@ -429,7 +429,8 @@ https://above.nasa.gov/implementation_plan/framework.html
 * **Starts on existing soils**
     + nutrient pulse after disturbance
     + less vegetation to uptake (mineralization)
- 
+    + ash
+    
  <br/>
  
 * **Colonizers already present**
@@ -437,13 +438,13 @@ https://above.nasa.gov/implementation_plan/framework.html
     + Seedling bank
     + Nearby dispersal
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/seedlingbank.jpg">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:400px; HEIGHT:250px" SRC="images/seedlingbank.jpg">
 
 ## 2^o^ Succession: Life history traits
 <hr>
 
 <div class="centered"><strong><span style="color:blue">
-Trait based framework to understand plant successional
+Trait based framework to understand ecosystem succession
 </span></strong></div>
 
 <br/>
@@ -469,12 +470,6 @@ Trait based framework to understand plant successional
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/glacial1.jpg">
 
-## Facilitation vs Inhibition
-<hr>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:175px; WIDTH:750px; HEIGHT:400px" SRC="images/comp_facil.jpg">
-
 ## Glacial Retreat Case Study
 <hr>
 
@@ -494,7 +489,7 @@ Trait based framework to understand plant successional
 
 <br/>
 
-* **Discharge reduced as succession progress**
+* **Discharge reduced as succession progresses**
     + high N, photosynthesis & leaf area of early species
     + root proliferation
     + complex canopy development
@@ -541,7 +536,7 @@ energy dissipated by transpiration**
     
 <br/>
 
-* **Trajectory of NPP is Ecosystem specific**
+* **Trajectory of NPP is e cosystem specific**
     + forest = ↑ fast until max LAI
     + nutrient & light limitation slow NPP
     + heterotrophic respiration catches up (litter)
