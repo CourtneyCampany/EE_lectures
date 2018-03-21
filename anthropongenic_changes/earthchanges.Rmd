@@ -1,0 +1,190 @@
+---
+title: "Changes in the Earth System"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Focal Issue
+
+* **Human activites have dramatically altered elemental cycles**
+    + fossil fuels = CO2, NOx & S
+    + mining - C, N, P & S
+    + agriculture - C, N, P & S
+    
+* **Changes in biogeochemical cycles affect climate**
+    + global hydrological cycle
+    + feedbacks to biogeochem
+    
+* **Alter ecosystems @ all scales**
+
+## The other CO2 problem
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/oceanph.png">
+
+## Human Drivers
+
+* **Rising population**
+  + increased 10 fold since industrial revolution
+
+* **iniation of agriculture**
+
+* **Sedentary communities**
+
+## Human Drivers - agriculture
+
+* **agriculture started approximately 10,000 years ago**
+  + Holocene interglacial period
+  + stable climate period
+  + population increased 100-fold till industrial period
+  
+* **land cover changed ~ 50% surface**
+
+* **popultaion + consumption affects climate**
+    + dramatic since 1950
+  
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/agri.png">
+
+##
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/greataccel.png">
+
+## Historic climate shifts
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/medival.jpg">
+
+## Current warming
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/climatespiral.jpg">
+
+* **Unprecedented warming over last 1000 yrs**
+
+* **Could we push Earth System to new state?**
+
+## Regime Shifts---United Kingdom?
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/uk_temp.png">
+
+## Global water Cycle: What is vulnerable?
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/watercycle.jpg">
+
+## Evaporation (1)
+
+* **land = 15% global**
+    + although land = 30% surface
+    + evapotrans 50% on land as over ocean'
+    
+* **large regional variation**
+    + land & ocean
+    + related to climate
+    + related to plant needs and physiology
+    
+* **MRT in atmosphere = 10d**
+    
+## Precipitation (2)
+
+* **110,000 km^3 year**
+    + 40% from ocean
+    + 60% recycled from land
+    
+* **highly variable**
+    + regional
+    + seasonal
+    + affects plant water use
+    
+## Ground Water (3)
+
+* **Soil Moisture turns over ~ 2 months**
+    + high regional variation
+    
+* **Ground water turnsover ~ 200 years**
+    + likely not replenished from current climate
+    
+## Anthropogenic changes in water cycle
+
+## Consequences of changes in water cycle
+
+## Sea Ice
+
+(1) The sea ice observations further back in time are too uncertain. (2) There is a real acceleration in sea ice loss per degree of global warming. (3) A large internal variability fluctuation has caused the Arctic sea ice to melt more than expected from 2007 onwards.
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/seaice.png">
+
+## Are models running too hot?
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/hotmodels.jpg">
+
+1) Limited observations at certain spots
+2) Can models produce natural variability
+3) Radiatice forcings: Volcanoes of no?
+
+## Future eruptions
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/erupt.png">
+
+1) periods of cooling then accelerated warming
+2) no effect on long term trends
+
+## greenhouse gases by sector
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/greenhouse.png">
+
+## co2 by country
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/anthropogenic-co2-by-country.png">
+
+## Is 1.5C global target reachable?
+
+1) Definintion of pre-industrial:
+    + 1861-1880 (thermometers around)
+    + 1850 - 1900 (IPCC) - similar temps
+    + 1720 - 1800 is more 'literal' (Hawkins et al. 2017)
+    
+2) Tenths of a degree based on where you start
+
+3) "On the global average temperature, the IPCC reported an increase of 0.85 °C since 1880" - defines paris agreement
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/globalmeantemp.png">
+
+## Is 1.5C global target reachable?
+
+4) Definintion of global?
+
+In the Arctic, observations are sparse and down-weighted by this method because the boxes are small. HadCRUT4 therefore does not include most of the rapid Arctic warming. Other datasets, such as GISTEMP and indeed a filled-in version of HadCRUT4 by Cowtan & Way attempt to remedy this by effectively giving these sparse observations more weight 
+
+The definitions of “pre-industrial” and “global” (or assuming a linear trend in time) explain the difference between the 0.9 °C warming up to now that Millar et al and others take as starting point and the 1.1 to 1.2 °C that are reported elsewhere using different methods and reference periods.
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/globalmeantemp2.png">
+
+## Extremes - temp
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/heatwaves.png">
+
+heat wave simply as the highest daily average temperature of the year here. 
+Almost everywhere these heat waves are now warmer than a century ago. 
+In the rest of the world the increases are large, with the temperature of the hottest day of the year rising much faster than the global mean temperatures in most regions 
+
+## Extremes - temp
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/coldwaves.png">
+
+ cold waves heat up even faster than the hot extremes, up to a factor 5 times the global mean temperature
+ 
+  Further south, the cold air from the north is simply less cold, also due to the well-understood Arctic Amplification over the Arctic Ocean
+  
+  he strongest increases over land are in Siberia and Canada. Winter temperatures are very low there due to radiative cooling over snow under a clear sky, with strong vertical gradients in the lowest meters of the atmosphere. These stable boundary layers are sensitive to perturbations, probably also to the extra downward longwave radiation due to greenhouse warming
+ 
+## Extremes - precip
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/precipextremes.png">
+
+ighest daily precipitation of the year. This is relevant for local flooding
+
+highest daily rainfall of the year has increased at more stations than it has decreased. 
+
+The average increase is similar to the increase of the amount of water the atmosphere can hold at higher temperatures
+
+Drying trends also suppress extreme precipitation, such as in summer in the Mediterranean region.
