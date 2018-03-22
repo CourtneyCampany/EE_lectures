@@ -260,7 +260,7 @@ https://above.nasa.gov/implementation_plan/framework.html
 * **Intermediate Disturbance Hypothesis**
 </div>
 
-##Impact of Distrubance: Severity
+##Impact of Disturbance: Severity
 <hr>
 <br/>
 <br/>
@@ -536,7 +536,7 @@ energy dissipated by transpiration**
     
 <br/>
 
-* **Trajectory of NPP is e cosystem specific**
+* **Trajectory of NPP is ecosystem specific**
     + forest = ↑ fast until max LAI
     + nutrient & light limitation slow NPP
     + heterotrophic respiration catches up (litter)
