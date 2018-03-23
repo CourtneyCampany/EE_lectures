@@ -10,259 +10,318 @@ runtime: shiny
 ---
 
 ## Focal Issue
+<hr>
 <br/>
 
+<div style="float: left; width: 45%;">
+
 * **Human activites have dramatically altered elemental cycles**
-    + fossil fuels = CO2, NOx & S
+    + fossil fuels = CO<sub>2</sub>, NO<sub>x</sub> & S
     + mining - C, N, P & S
     + agriculture - C, N, P & S
  
 <br/>
 
-* **Changes in biogeochemical cycles affect climate**
+* **Changes in biogeo cycles affect climate**
     + global hydrological cycle
     + feedbacks to biogeochem
 
 <br/>
 
 * **Alter ecosystems @ all scales**
+</div>
+<IMG STYLE="position:absolute; TOP:190px; LEFT:575px; WIDTH:450px; HEIGHT:460px" SRC="images/biogeo.jpg">
 
-## Biogeochemical Cycles
+## Historical Human Drivers
+<hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/biogeo.png">
-
-## Human Drivers
-<br/>
-
-* **Rising population**
-    + increased 10 fold since industrial revolution
-
-<br/>
-
-* **iniation of agriculture**
+* **Agriculture started ~10,000 yrs ago**
+      + Holocene interglacial period
+      + stable climate period
+      + population increased 100-fold till industrial period
 
 <br/>
 
 * **Sedentary communities**
-
-## Human Drivers - agriculture
-<br/>
-
-* **agriculture started approximately 10,000 years ago**
-    + Holocene interglacial period
-    + stable climate period
-    + population increased 100-fold till industrial period
-  
-* **land cover changed ~ 50% surface**
+      + increased 10 fold since industrial revolution
+      + land cover changed ~ 50% surface**
 
 <br/>
 
 * **popultaion + consumption affects climate**
     + dramatic since 1950
-  
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/agri.png">
+    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/irpop.jpg">
+    
+## 
+<IMG STYLE="position:absolute; TOP:150px; LEFT:125px; WIDTH:850px; HEIGHT:400px" SRC="images/agri.jpg">
 
 ##
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/greataccel.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:275px; WIDTH:525px; HEIGHT:625px" SRC="images/greataccel.png">
 
-## Historic climate shifts
+## Historical climate shifts
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/medival.jpg">
+
+## Current Warming
+<hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/medival.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:450px" SRC="images/climatespiral.png">
 
-## Current warming
+<div style="float: right; width: 45%;">
 <br/>
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/climatespiral.jpg">
+<br/>
+<br/>
 
 * **Unprecedented warming over last 1000 yrs**
 
 <br/>
+<br/>
 
 * **Could we push Earth System to new state?**
+</div>
 
 ## Regime Shifts---United Kingdom?
-<br/>
+<hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/uk_temp.png">
+<IMG STYLE="position:absolute; TOP:255px; LEFT:125px; WIDTH:850px; HEIGHT:250px" SRC="images/uk_temp.png">
 
 ## Global water Cycle: What is vulnerable?
-<br/>
+<hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/watercycle.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/watercycle.jpg">
 
 ## Evaporation (1)
+<hr>
 <br/>
 
-* **land = 15% global**
+* **Global land flux = 15%**
     + although land = 30% surface
-    + evapotrans 50% on land as over ocean'
+    + land 50% of ocean
 
 <br/>
 
-* **large regional variation**
-    + land & ocean
+* **Large regional variation**
+    + both land & ocean
     + related to climate
     + related to plant needs and physiology
 
 <br/>
 
 * **MRT in atmosphere = 10d**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/oceanevap.jpg">
     
 ## Precipitation (2)
+<hr>
+<br/>
+<br/>
 <br/>
 
-* **110,000 km^3 year**
+* **110,000 km^3^ year**
     + 40% from ocean
     + 60% recycled from land
 
 <br/>
 
-* **highly variable**
+* **Highly variable**
     + regional
     + seasonal
     + affects plant water use
     
+<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:500px; HEIGHT:350px" SRC="images/precip.jpg">
+    
 ## Ground Water (3)
+<hr>
 <br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:70px; WIDTH:450px; HEIGHT:450px" SRC="images/groundwater.jpg">
+    
+<div style="float: right; width: 45%;">
 
 * **Soil Moisture turns over ~ 2 months**
     + high regional variation
+    
+<br/>
 <br/>
 
 * **Ground water turnsover ~ 200 years**
     + likely not replenished from current climate
+</div>    
     
-## Anthropogenic changes in water cycle
+    
+## Anthropogenic Changes in Water Cycle
+<hr>
 <br/>
-  
-* **Precipitation increases over land north of 30°N**
+<div style="float: left; width: 50%;">
+* **Precipitation**
     + wet getting wetter
     + dry getting drier
     + warming air holds more water
-
 <br/>
-
-* **Landuse changes affects surface energy budget**
+* **Landuse change affects surface energy budget**
     + quantity of energy absorbed
     + pathway of energy loss
     + Δ sensible/latent fluxes affect precipiatation
-    + may affect other regions (circulation)
-
+    + affects other regions (circulation)
 <br/>
-
 * **Soil moisture effects**
     + ↓ with ↓ precipitation
     + ↓ with ↑ evaporation
     + agriculture areas sensitive
+  </div>
+  
+<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:425px; HEIGHT:500px" SRC="images/landuse.jpg">
     
-## Consequences of changes in water cycle
+## Consequences of Changes in Water Cycle
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
 
 * **Societal**
-    + Humans dependent on small vulnerable pool of freshwater**
-    + Search for clean drinking water
+    + small vulnerable pool of freshwater
+    + search for clean drinking water
 
 <br/>
 
 * **Irrigate to offest impacts on soil moisture**
-    + draws from lakes, rivers & groundwater
-    + Irrigation increased 5x in 20th century
-    + Negatively impacts aquatic ecosystems
+    + draw from lakes, rivers & groundwater
+    + irrigation increased 5x in 20^th^ century
+    + negatively impacts aquatic ecosystems
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/irrigation2.jpg">
     
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/irrigation2.jpg">
-    
-## 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/irrigation.png">
+## Agricultural Water Availability: Mediterranean
+<hr>
 
-##
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/foodinsecurity.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/irrigation.png">
 
-## Global Carbon Cycle: What is vulnerable?
+## Food Insecurity
+<hr>
+<IMG STYLE="position:absolute; TOP:125px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/foodinsecurity.png">
+
+## Global Carbon Cycle: What is Vulnerable?
+<hr>
+<br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/carbon-cycle.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:525px; WIDTH:500px; HEIGHT:350px" SRC="images/carbon-cycle.jpg">
 
 * **Carbon is disrupted among 4 pools**
     + atmosphere
     + ocean
     + land 
     + sediments/rocks
-    
+
+<br/>
+
 * **Atmospheric C is most dynamics**
     + driven by metabolism of organims
     + ~5 year turnover
     + https://www.co2.earth/
     
-## Greenhouse CO2 emmissions by sector
+## Greenhouse CO<sub>2</sub> emmissions
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/greenhouse.png">
+
+
+## Greenhouse CO<sub>2</sub> Emmissions
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/anthropogenic-co2-by-country.png">
+
+## Changes in Atmospheric CO<sub>2</sub>: Temporal 
+<hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/greenhouse.png">
+<div class="centered">
+<strong><span style="color:green">
+Varied 10 fold in Earth's history</span></strong>
+</div>
 
-
-## Greenhouse CO2 Emmissions by  Country
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/anthropogenic-co2-by-country.png">
-
-## Changes in Atmospheric CO2: Temporal 
 <br/>
 
-* **Varied 10 fold in Earth's history**
+<div style="float: left; width: 45%;">
 
 * **Short term controls (sec - yr)**
     + Photosynthesis
     + Respiration
     + Human emmissions (15% of fluxes)
-    
+ 
+ <br/>
+ 
 * **Centurial contols**
     + NPP
     + SOM
     + Disturbance
-    
+ </div>
+ 
+<div style="float: right; width: 50%;">
+
 * **Long term controls**
     + uplift
     + weathering
     + ocean sedimentation
     + glacial cycles
-    
-## Recent Changes in Atmospheric CO2
+ </div>   
+  
+## Recent Changes in Atmospheric CO<sub>2</sub>
+<hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/icecore.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/icecore.png">
 
-## Marine Sinks for CO2
+## Marine Sinks for CO<sub>2</sub>
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/oceansink.png">
+
+## Marine Sinks for CO<sub>2</sub>
+<hr>
+<br/>
+<br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/oceansink.png">
-
-## Marine Sinks for CO2
-<br/>
-
-* **CO2 removed from atmosphere:**
+* **CO<sub>2</sub> removed from atmosphere:**
     + dissolution in seawater
     + photosyntheis
-    
+
+<br/>
+
 * **Dissolution produces acidity**
     + dissolves shells of invertebrates
     + reduces sink strength
     
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/ocean-acidification.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/ocean-acidification.jpg">
     
-## The other CO2 problem
+## The other CO<sub>2</sub> problem
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:800px; HEIGHT:550px" SRC="images/oceanph.png">
+    
+## Terrestrial Sinks for CO<sub>2</sub>
+<hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/oceanph.png">
-    
-## Terrestrial Sinks for CO2
-<br/>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:550px; HEIGHT:400px" SRC="images/sinks.jpg">
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/sinks.jpg">
+<div style="float: right; width: 35%;">
 
 * **Fire suppression**
 
 <br/>
 
-* **CO2 plant fertilization**
+* **CO<sub>2</sub> plant fertilization**
 
 <br/>
 
@@ -275,137 +334,204 @@ runtime: shiny
 <br/>
 
 * **Climate**
+</div>
+ 
+## USA: Net sink of source of CO<sub>2</sub>?
+<hr>
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/carbonusa.png">
 
-## USA: Net sink of source of CO2?
+<div style="float: left; width: 40%;">
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/carbonusa.png">
-
-* **At the continental scale, there has been a large and relatively consistent increase in forest carbon stocks over the last two decades**
-  + CO2 fertilization
-  + Forest managmenet 
+* **Consistent increase in forest C stocks over the last 2 decades**
+    + CO<sub>2</sub> fertilization
+    + forest managmenet 
 
 <br/>
 
 * **Emission still exceed ecosystem uptake by 3x**
+</div>
 
-## CO2 effects on climate
+## CO<sub>2</sub> effects on climate
+<hr>
+<br/>
 <br/>
 
 * **If emmisions stopped today:**
-    + 50% absorbed by land/water in 30yrs
+    + 50% absorbed by land/water in 30 yrs
     + 30% in atmosphere for centuries
     + 20% in atmospere for 1000 yrs
-    
+
+<br/>
+
 * **Future warming is inevitable**
     + sinks are weakening
     + deep sea sinks and weatering are slow
     
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/warming.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/warming.jpg">
 
-## Climate Extremes trend upward with warming
-
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/extreme.jpg">
+## Climate Extremes Trend Up with Warming
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/extreme.jpg">
 
 ## Extremes - Heat Waves
-<br/>
+<hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/heatwaves.png">
+<div class="centered"><span style="color:red">
+Almost everywhere these heat waves are now warmer than a century ago
+</span></div>
 
-heat wave simply as the highest daily average temperature of the year here. 
-Almost everywhere these heat waves are now warmer than a century ago. 
-In the rest of the world the increases are large, with the temperature of the hottest day of the year rising much faster than the global mean temperatures in most regions 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/heatwaves.png">
 
-## Extremes - temp
-<br/>
+## Extremes - Cold Waves
+<hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/coldwaves.png">
+<div class="centered"><span style="color:blue">
+Cold waves heat up faster than hot extremes, at 5x the global mean temperature</span></div>
 
- cold waves heat up even faster than the hot extremes, up to a factor 5 times the global mean temperature
- 
-  Further south, the cold air from the north is simply less cold, also due to the well-understood Arctic Amplification over the Arctic Ocean
-  
- The strongest increases over land are in Siberia and Canada. Winter temperatures are very low there due to radiative cooling over snow under a clear sky, with strong vertical gradients in the lowest meters of the atmosphere. These stable boundary layers are sensitive to perturbations, probably also to the extra downward longwave radiation due to greenhouse warming
- 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/coldwaves.png">
+
 ## Extremes - Precipitation
+<hr>
+
+<div class="centered"><span style="color:blue">
+Highest daily rainfall has increased at more stations than it has decreased, related to the increase in water the atmosphere can hold at higher temperatures
+</span></div>
+
 <br/>
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/precipextremes.png">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-ighest daily precipitation of the year. This is relevant for local flooding
+<div class="centered"><span style="color:red">
+Drying suppresses extreme precip, such as summer in the Mediterranean
+</span></div>
 
-highest daily rainfall of the year has increased at more stations than it has decreased. 
-
-The average increase is similar to the increase of the amount of water the atmosphere can hold at higher temperatures
-
-Drying trends also suppress extreme precipitation, such as in summer in the Mediterranean region.
+<IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/precipextremes.png">
 
 ## Extremes - Precipitation in the US
+<hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/downpours.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:450px" SRC="images/downpours.jpg">
+
 
 ## Warming and Sea Ice
+<hr>
+<br/>
+<br/>
+<br/>
+<div style="float: left; width: 45%;">
+
+* **Sea ice observations further back in time are too uncertain. **
+
 <br/>
 
-(1) The sea ice observations further back in time are too uncertain. (2) There is a real acceleration in sea ice loss per degree of global warming. (3) A large internal variability fluctuation has caused the Arctic sea ice to melt more than expected from 2007 onwards.
+* **Real acceleration in sea ice loss per degree of global warming**
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/seaice.png">
+<br/>
+
+* **Arctic sea ice has melted more than expected from 2007 onwards**
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/seaice.png">
 
 ## Warming and Sea Ice
+<hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/algaeseaice.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:325px" SRC="images/algaeseaice.jpg">
 
 ## Warming and Sea Ice
+<hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/ironco2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:300px; HEIGHT:400px" SRC="images/ironco2.jpg">
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/whale.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:450px; WIDTH:600px; HEIGHT:400px" SRC="images/whale.png">
 
-## Global Methane Budget
+## Methane
+<hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/methane.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/methane.png">
 
 ## Methane Sources
+<hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/methane2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/methane2.jpg">
 
 ## Methane Sources vs Sinks
+<hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/methane3.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/methane3.jpg">
 
-## Methane Sources vs Sinks (Notes)
+
+## Methane Sources: Artic
+<hr>
+<br/>
+<br/>
 <br/>
 
-* **natural sources of CH4**
-      + natural and constructed wetlands 
-      + 1/3 of annual emissions 
-
-* **Anthropogenic sources**
-    + rice paddies
-    + domesticated animals
-    + landfills
-    + fossil fuel acquisition
-    + burning
-
- As high latitudes heat up in a generally warming climate, permafrost and accumulated ice thaw at accelerated rates (IPCC, 2007). This has caused the area of thermokarst lakes to increase, by at least double in the last 35 years (Walter et al., 2006). Advances in measurements in high latitude lakes show that most CH4 is released in rapid ebullition,
-
-## Global Nitrogen Cycle: What is vulnerable?
+* **High latitudes heat up**
+    + warming climate
+    
 <br/>
+
+* **Permafrost and accumulated ice thaw**
+    + Now at accelerated rates
+
+<br/>
+
+* **CH<sub>4</sub> rapidly released**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:500px; WIDTH:500px; HEIGHT:400px" SRC="images/methane4.jpg">
+
+## Global Nitrogen Cycle: What is Vulnerable?
+<hr>
+<br/>
+<br/>
+<div style="float: left; width: 45%;">
 
 * **Atmospheric pool is most important**
     + 78% of atmosphere
-    + soils + plant pools are miniscule in comparison
-    
+    + soils + plant pools miniscule in comparison
+
+<br/>
+
 * **Fixation used to balance with outputs**
     + denitrification and burial
-    
-* **N cycled through plants and oceans greater than fixation**
 
-## Anthropogenic Changes in N Cycle
+<br/>
+
+* **N cycled through plants and oceans greater than fixation**
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/ncycle.png">
+
+## Anthropogenic Changes in Nitrogen Cycle
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 * **Humans increase N inputs**
@@ -413,82 +539,220 @@ Drying trends also suppress extreme precipitation, such as in summer in the Medi
     + nitrogen fixing cops
     + fossil fuel combustion
     
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/fert.jpg">    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/fert.png">    
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/nfix.jpg">  
+## Nitrogen Fixation
+<hr>
+<br/>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/nfix.png">  
 
 ## Haber-Bosch
+<hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/haber.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/haber.jpg">
 
 ## Nitrogen Deposition
-<br/>
+<hr>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/ndepot.jpg">
-
-##Nitrogen and agriculture
-<br/>
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/nagri.jpg">
+<IMG STYLE="position:absolute; TOP:165px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/ndepot.png">
 
 ##Nitrogen and agriculture
-<br/>
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/nsoil.jpg">
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/nagri.jpg">
+
+##Nitrogen and agriculture
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:275px; WIDTH:500px; HEIGHT:400px" SRC="images/nsoil.jpg">
 
 ## N transfer to aquatic ecosystems
-<br/>
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/nwater.jpg">
+<hr>
+<IMG STYLE="position:absolute; TOP:165px; LEFT:250px; WIDTH:550px; HEIGHT:550px" SRC="images/nwater.jpg">
 
 ## N transfer to aquatic ecosystems
-<br/>
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/eutro.jpg">
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/eutro.png">
 
 ## Global Phosphorus Cycle: What is vulnerable?
+<hr>
 <br/>
+
+* **P had tiny gaseous component**
+    + unlike C & N
+
+<br/>
+
+* **No biotic pathway brings P in ecoysystems**
+    + available from organic forms
+    + tied up in biomass
+    + leaching losses low
+
+<br/>
+
+* **Stored in sediment**
+    + marine & freshwater
+    + no accessable to biota
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/phosphrus.jpg">
 
 ## Phosphorus Pools and Fluxes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/p-budget.jpg">
 
 ## Anthropogenic Changes in P Cycle
-
-## The global Sulfur Cycle
+<hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/sulfur.png">
+* **Humans have enhanced the mobility of P**
+    + mining acclerates weathering
+ 
+<br/>
+ 
+* **Landuse change increase P losses**
+    + errosion from overgrazing 
+    + wind & water
+    + P transfer to ocean + 50-300%
 
-## Are models running too hot?
+<br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/hotmodels.jpg">
+* **Humans have altered natural cycling**
+    + fertilizers 33% of natural cycle
+    + 550 Tg new P from 1850-2000
 
-1) Limited observations at certain spots
-2) Can models produce natural variability
-3) Radiatice forcings: Volcanoes of no?
+<IMG STYLE="position:absolute; TOP:210px; LEFT:510px; WIDTH:500px; HEIGHT:400px" SRC="images/p-pollution.png">
 
-## Future eruptions
+## Sulfur Cycle: What is vulnerable?
+<hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/erupt.png">
+* **S is rock derived**
+    + cycled by hydrologic transport
+    + emitted as sulfur gas
+    + volcanic eruptions
 
-1) periods of cooling then accelerated warming
-2) no effect on long term trends
+<br/>
+
+* **Marine emmissions dominant**
+    + 100x land
+    + sea spray & trace gases
+    
+<br/>
+
+* **Stored in rocks & sediment**
+    + some in seawater
+    
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:450px" SRC="images/sulfur.png">
+    
+## Aerosols
+<hr>
+<br/>
+
+<div class="centered"><span style="color:red">
+https://svs.gsfc.nasa.gov/30641
+</span></div>
+
+## Anthropogenic Changes in S Cycle
+<hr>
+<br/>
+
+* **Humans increase S cycling by 50$**
+    + fossil fuels and ore refining
+    + dust from farming
+    + erosion from landuse change
+ 
+<br/>
+ 
+* **Anthropogenic S deposited on land**
+    + accumulates in in soil/biota
+    + discharfed to ocean
+
+<br/>
+
+* **Sulfur Dioxide from volcanoes cools**
+    + can human additions cool?
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:550px; HEIGHT:450px" SRC="images/sulfurcooling.png">
 
 ## Is 1.5C global target reachable?
+<hr>
 
-1) Definintion of pre-industrial:
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/globalmeantemp.png">
+
+## Is 1.5C global target reachable?
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/globalmeantemp2.png">
+
+## Is 1.5C global target reachable?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Definintion of global?**
+    + observations in artic are sparse and down-weighted 
+    + some models do no include most of the rapid Arctic warming. 
+    + other models over over weight sparse artic data
+
+</div>
+
+<div style="float: right; width: 45%;">
+
+* **Definintion of pre-industrial?**
     + 1861-1880 (thermometers around)
     + 1850 - 1900 (IPCC) - similar temps
     + 1720 - 1800 is more 'literal' (Hawkins et al. 2017)
+ 
+ <br/>
+ 
+* **Tenths of a °C based on where you start**
+
+<br/>
+
+* **IPCC reported an increase of 0.85 °C since 1880**
+    + defines paris agreement
+
+</div>
+
+## Are models running too hot?
+<hr>
+ <br/>
+  <br/>
+   <br/>
+    <br/>
+    <br/>
+    <br/>
     
-2) Tenths of a degree based on where you start
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:450px; HEIGHT:450px" SRC="images/hotmodels.jpg">
 
-3) "On the global average temperature, the IPCC reported an increase of 0.85 °C since 1880" - defines paris agreement
+<div style="float: left; width: 45%;">
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/globalmeantemp.png">
+1) **Limited observations at certain spots**
+2) **Can models produce natural variability**
+3) **Radiatice forcings: Volcanoes of no?**
+</div>
 
-## Is 1.5C global target reachable?
+## Future eruptions
+<hr>
+ <br/>
+  <br/>
+   <br/>
+    <br/>
+    <br/>
+    <br/>
+    
+<IMG STYLE="position:absolute;TOP:200px; LEFT:525px; WIDTH:450px; HEIGHT:450px" SRC="images/erupt.png">
 
-4) Definintion of global?
+<div style="float: left; width: 45%;">
+1) **Periods of cooling then accelerated warming**
+2) **No effect on long term trends**
+</div>
 
-In the Arctic, observations are sparse and down-weighted by this method because the boxes are small. HadCRUT4 therefore does not include most of the rapid Arctic warming. Other datasets, such as GISTEMP and indeed a filled-in version of HadCRUT4 by Cowtan & Way attempt to remedy this by effectively giving these sparse observations more weight 
+## 
 
-The definitions of “pre-industrial” and “global” (or assuming a linear trend in time) explain the difference between the 0.9 °C warming up to now that Millar et al and others take as starting point and the 1.1 to 1.2 °C that are reported elsewhere using different methods and reference periods.
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/climatepeople.jpg">
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/globalmeantemp2.png">
+## 
 
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/eba_framework.jpg">
