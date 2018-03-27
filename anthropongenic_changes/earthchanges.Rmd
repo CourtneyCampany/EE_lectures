@@ -94,7 +94,7 @@ Could we push Earth System to new state?</span></strong>
 
 <IMG STYLE="position:absolute; TOP:255px; LEFT:125px; WIDTH:850px; HEIGHT:250px" SRC="images/uk_temp.png">
 
-## Global water Cycle: What is Vulnerable?
+## Global Water Cycle: What is Vulnerable?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/watercycle.jpg">
@@ -561,7 +561,7 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
     
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/fert.png">    
 
-## Nitrogen Fixation 2x in last century 
+## Nitrogen Fixation 2x in Last Century 
 <hr>
 <br/>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/nfix.png">  
@@ -626,7 +626,7 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 <br/>
  
 * **Landuse change increase P losses**
-    + errosion from overgrazing 
+    + erosion from overgrazing 
     + wind & water
     + P transfer to ocean + 50-300%
 
@@ -638,7 +638,7 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:510px; WIDTH:500px; HEIGHT:400px" SRC="images/p-pollution.png">
 
-## Sulfur Cycle: What is vulnerable?
+## Sulfur Cycle: What is Vulnerable?
 <hr>
 <br/>
 
@@ -668,7 +668,7 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 * **Humans increase S cycling by 50%**
     + fossil fuels and ore refining
     + dust from farming
-    + erosion from landuse change
+    + erosion from land-use change
  
 <br/>
  
@@ -709,9 +709,9 @@ https://svs.gsfc.nasa.gov/30641
 <div style="float: left; width: 45%;">
 
 * **Definintion of <span style="color:blue">global</span>?**
-    + observations in artic are sparse and down-weighted 
+    + observations in arctic are sparse and down-weighted 
     + some models do no include most of the rapid Arctic warming. 
-    + other models over over weight sparse artic data
+    + other models over over weight sparse arctic data
 
 </div>
 
@@ -729,7 +729,7 @@ https://svs.gsfc.nasa.gov/30641
 <br/>
 
 * **IPCC reported an increase of 0.85 °C since 1880**
-    + defines paris agreement
+    + defines Paris agreement
 
 </div>
 

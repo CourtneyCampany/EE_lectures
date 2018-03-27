@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 309459
-bundleId: 1290276
+bundleId: 1290617
 url: https://courtneycampany.shinyapps.io/earthchanges/
-when: 1522158340.99357
+when: 1522169458.07946
 asMultiple: FALSE
 asStatic: FALSE
