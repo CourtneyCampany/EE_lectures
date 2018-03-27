@@ -30,13 +30,13 @@ runtime: shiny
 
 * **Alter ecosystems @ all scales**
 </div>
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:4750px; HEIGHT:475px" SRC="images/biogeo.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/biogeo.jpg">
 
 ## Historical Human Drivers
 <hr>
 <br/>
 
-<div style="float: right; width: 45%;">
+<div style="float: left; width: 45%;">
 * **Agriculture started ~10,000 yrs ago**
       + Holocene inter-glacial period
       + stable climate period
@@ -64,7 +64,7 @@ runtime: shiny
 ## Historical Climate Shifts
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/medival.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:650px; HEIGHT:500px" SRC="images/medival.jpg">
 
 ## Current Warming
 <hr>
@@ -78,7 +78,8 @@ runtime: shiny
 <br/>
 <br/>
 
-* **Unprecedented warming over last 1000 yrs**
+* **Unprecedented recent warming**
+      + within last 1000 year period
 
 <br/>
 <br/>
@@ -88,7 +89,7 @@ Could we push Earth System to new state?</span></strong>
 
 </div>
 
-## Regime Shifts---United Kingdom?
+## Regime Shifts - United Kingdom?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:255px; LEFT:125px; WIDTH:850px; HEIGHT:250px" SRC="images/uk_temp.png">
@@ -122,8 +123,6 @@ Could we push Earth System to new state?</span></strong>
 ## Precipitation (2)
 <hr>
 <br/>
-<br/>
-<br/>
 
 * **110,000 km^3^ year**
     + 40% from ocean
@@ -136,10 +135,12 @@ Could we push Earth System to new state?</span></strong>
     + seasonal
     + affects plant water use
     
+<br/>
+
 * **Land-use change**
     + shift to sensible heat in tropics
     
-<IMG STYLE="position:absolute; TOP:250px; LEFT:500px; WIDTH:500px; HEIGHT:350px" SRC="images/precip.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:500px; WIDTH:500px; HEIGHT:350px" SRC="images/precip.jpg">
     
 ## Ground Water (3)
 <hr>
@@ -155,7 +156,7 @@ Could we push Earth System to new state?</span></strong>
 
 <br/>
 
-* **Summer soil moisture reduced in interior of continents**
+* **Soil moisture reduced in interior of continents during summer**
     + important areas of agriculture
     
 <br/>
@@ -177,7 +178,7 @@ Could we push Earth System to new state?</span></strong>
 * **Landuse change affects surface energy budget**
     + quantity of energy absorbed
     + pathway of energy loss
-    + Δ sensible/latent fluxes affect precipiatation
+    + Δ sensible/latent fluxes affect precipitation
     + affects other regions (circulation)
 <br/>
 * **Soil moisture effects**
@@ -289,7 +290,7 @@ Varied 10 fold in Earth's history</span></strong>
     + glacial cycles
  </div>   
   
-## Recent Changes in Atmospheric CO<sub>2</sub>
+## Recent Changes in Greenhouse Gases
 <hr>
 <br/>
 
@@ -306,9 +307,11 @@ Varied 10 fold in Earth's history</span></strong>
 <br/>
 <br/>
 
+<div style="float: left; width: 45%;">
+
 * **CO<sub>2</sub> removed from atmosphere:**
     + dissolution in seawater
-    + photosyntheis
+    + photosynthetic organisms
     + https://ocean-climate.org/?p=3896&lang=en
 
 <br/>
@@ -316,7 +319,7 @@ Varied 10 fold in Earth's history</span></strong>
 * **Dissolution produces acidity**
     + dissolves shells of invertebrates
     + reduces sink strength
-    
+ </div>     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/ocean-acidification.jpg">
     
 ## The Other CO<sub>2</sub> Problem
@@ -328,7 +331,7 @@ Varied 10 fold in Earth's history</span></strong>
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:500px; HEIGHT:450px" SRC="images/sinks.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:450px; HEIGHT:450px" SRC="images/sinks.jpg">
 
 <div style="float: right; width: 35%;">
 
@@ -362,19 +365,19 @@ Varied 10 fold in Earth's history</span></strong>
 
 * **Consistent increase in forest C stocks over the last 2 decades**
     + CO<sub>2</sub> fertilization
-    + forest managmenet 
+    + forest managment 
 
 <br/>
 
 * **Emissions exceed ecosystem uptake by 3x**
 </div>
 
-## CO<sub>2</sub> effects on climate
+## CO<sub>2</sub> Effects on Climate
 <hr>
 <br/>
 <br/>
 
-* **If emmisions stopped today:**
+* **If emisions stopped today:**
     + 50% absorbed by land/water in 30 yrs
     + 30% in atmosphere for centuries
     + 20% in atmospere for 1000 yrs
@@ -383,7 +386,7 @@ Varied 10 fold in Earth's history</span></strong>
 
 * **Future warming is inevitable**
     + sinks are weakening
-    + deep sea sinks and weatering are slow
+    + deep sea sinks and weathering are slow
     
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/warming.jpg">
 
@@ -484,13 +487,13 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/methane.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/methane.png">
 
 ## Methane Sources
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:600px; HEIGHT:450px" SRC="images/methane2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:600px; HEIGHT:450px" SRC="images/methane2.jpg">
 
 ## Methane Sources vs Sinks
 <hr>
@@ -552,8 +555,8 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 <br/> 
 
 * **Humans increase N inputs**
-    + fertilizater production
-    + nitrogen fixing cops
+    + fertilizer use & production
+    + nitrogen fixing crops
     + fossil fuel combustion
     
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/fert.png">    
@@ -579,9 +582,9 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 
 ##Nitrogen Leaching and Agriculture
 <hr>
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:500px; HEIGHT:350px" SRC="images/nsoil.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:400px; HEIGHT:250px" SRC="images/nsoil.jpg">
 
-<IMG STYLE="position:absolute; TOP:165px; LEFT:250px; WIDTH:550px; HEIGHT:550px" SRC="images/nwater.jpg">
+<IMG STYLE="position:absolute; TOP:165px; LEFT:525px; WIDTH:550px; HEIGHT:550px" SRC="images/nwater.jpg">
 
 ## 
 <IMG STYLE="position:absolute; TOP:75px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/eutro.png">
@@ -604,7 +607,7 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 
 * **Stored in sediment**
     + marine & freshwater
-    + no accessable to biota
+    + not accessible to biota
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/phosphrus.jpg">
 
@@ -618,7 +621,7 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 <br/>
 
 * **Humans have enhanced the mobility of P**
-    + mining acclerates weathering
+    + mining accelerates weathering
  
 <br/>
  
@@ -646,7 +649,7 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 
 <br/>
 
-* **Marine emmissions dominant**
+* **Marine emissions dominant**
     + 100x land
     + sea spray & trace gases
     
@@ -671,7 +674,7 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
  
 * **Anthropogenic S deposited on land**
     + accumulates in in soil/biota
-    + discharfed to ocean
+    + discharged to ocean
 
 <br/>
 

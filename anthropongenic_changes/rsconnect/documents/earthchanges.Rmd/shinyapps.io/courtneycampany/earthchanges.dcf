@@ -1,0 +1,12 @@
+name: earthchanges
+title: earthchanges
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 309459
+bundleId: 1290276
+url: https://courtneycampany.shinyapps.io/earthchanges/
+when: 1522158340.99357
+asMultiple: FALSE
+asStatic: FALSE
