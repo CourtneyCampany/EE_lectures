@@ -38,7 +38,7 @@ runtime: shiny
 
 <div style="float: right; width: 45%;">
 * **Agriculture started ~10,000 yrs ago**
-      + Holocene interglacial period
+      + Holocene inter-glacial period
       + stable climate period
       + population increased 100x till industrial period
 
@@ -61,7 +61,7 @@ runtime: shiny
 ##
 <IMG STYLE="position:absolute; TOP:50px; LEFT:275px; WIDTH:525px; HEIGHT:625px" SRC="images/greataccel.png">
 
-## Historical climate shifts
+## Historical Climate Shifts
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/medival.jpg">
@@ -93,7 +93,7 @@ Could we push Earth System to new state?</span></strong>
 
 <IMG STYLE="position:absolute; TOP:255px; LEFT:125px; WIDTH:850px; HEIGHT:250px" SRC="images/uk_temp.png">
 
-## Global water Cycle: What is vulnerable?
+## Global water Cycle: What is Vulnerable?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/watercycle.jpg">
@@ -160,7 +160,7 @@ Could we push Earth System to new state?</span></strong>
     
 <br/>
 
-* **Ground water turn sover ~ 200 years**
+* **Ground water turns over ~ 200 years**
     + likely not replenished from current climate
 </div>    
     
@@ -240,13 +240,13 @@ irrigation increased 5x in 20^th^ century</span></strong>
     + ~5 year turnover
     + https://www.co2.earth/
     
-## Greenhouse CO<sub>2</sub> emmissions
+## Greenhouse CO<sub>2</sub> Emissions
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/greenhouse.png">
 
 
-## Greenhouse CO<sub>2</sub> Emmissions
+## Greenhouse CO<sub>2</sub> Emissions
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/anthropogenic-co2-by-country.png">
@@ -319,7 +319,7 @@ Varied 10 fold in Earth's history</span></strong>
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/ocean-acidification.jpg">
     
-## The other CO<sub>2</sub> problem
+## The Other CO<sub>2</sub> Problem
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:800px; HEIGHT:550px" SRC="images/oceanph.png">
@@ -351,7 +351,7 @@ Varied 10 fold in Earth's history</span></strong>
 * **Climate**
 </div>
  
-## USA: Net sink of source of CO<sub>2</sub>?
+## USA: Net Sink of Source of CO<sub>2</sub>?
 <hr>
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:450px; HEIGHT:350px" SRC="images/carbonusa.png">
 
@@ -366,7 +366,7 @@ Varied 10 fold in Earth's history</span></strong>
 
 <br/>
 
-* **Emission still exceed ecosystem uptake by 3x**
+* **Emissions exceed ecosystem uptake by 3x**
 </div>
 
 ## CO<sub>2</sub> effects on climate
@@ -439,7 +439,7 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:225px; WIDTH:600px; HEIGHT:400px" SRC="images/precipextremes.png">
 
-## Extremes - Precipitation in the US
+## Extremes - Precipitation in the USA
 <hr>
 <br/>
 
@@ -472,7 +472,7 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:325px" SRC="images/algaeseaice.jpg">
 
-## Should we Fertilize the Ocean?
+## Should We Fertilize the Ocean?
 <hr>
 <br/>
 
@@ -568,7 +568,7 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/haber.jpg">
 
-##Nitrogen and agriculture - NO<sub>x</sub>
+##Nitrogen and Agriculture - NO<sub>x</sub>
 <hr>
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/nagri.jpg">
 
@@ -577,7 +577,7 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 
 <IMG STYLE="position:absolute; TOP:165px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/ndepot.png">
 
-##Nitrogen leaching and agriculture
+##Nitrogen Leaching and Agriculture
 <hr>
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:500px; HEIGHT:350px" SRC="images/nsoil.jpg">
 
@@ -586,11 +586,11 @@ Drying suppresses extreme precip, such as summer in the Mediterranean
 ## 
 <IMG STYLE="position:absolute; TOP:75px; LEFT:200px; WIDTH:700px; HEIGHT:550px" SRC="images/eutro.png">
 
-## Global Phosphorus Cycle: What is vulnerable?
+## Global Phosphorus Cycle: What is Vulnerable?
 <hr>
 <br/>
 
-* **P had tiny gaseous component**
+* **P has tiny gaseous component**
     + unlike C & N
 
 <br/>
@@ -689,16 +689,16 @@ https://svs.gsfc.nasa.gov/30641
 </span></div>
 
 
-## Is 1.5C global target reachable?
+## Is 1.5C Global Target Reachable?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/globalmeantemp.png">
 
-## Is 1.5C global target reachable?
+## Is 1.5C Global Target Reachable?
 <hr>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/globalmeantemp2.png">
 
-## Is 1.5C global target reachable?
+## Is 1.5C Global Target Reachable?
 <hr>
 <br/>
 <br/>
@@ -730,7 +730,7 @@ https://svs.gsfc.nasa.gov/30641
 
 </div>
 
-## Are models running too hot?
+## Are Models Running Too Hot?
 <hr>
  <br/>
   <br/>
@@ -748,7 +748,7 @@ https://svs.gsfc.nasa.gov/30641
 3) **Radiative forcings: Volcanoes of no?**
 </div>
 
-## Future eruptions
+## Future Eruptions
 <hr>
  <br/>
   <br/>
