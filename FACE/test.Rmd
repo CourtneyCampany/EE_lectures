@@ -1,0 +1,83 @@
+---
+title: "FACE"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Climate change: Just Plant More Trees
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/co2hypo2.jpg">
+
+## Brookhaven FACE Program
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/co2hypo2.jpg">
+
+* **terrestrial biosphere is not just a passive respondent to rising [CO<sub>2</sub>]**
+      + fundamental role in determining the rate of global change.**
+      + Photosynthesis removes CO<sub>2</sub> from the atmosphere and respiration by plants and heterotrophs add it back.
+      
+<br/>
+
+* **Plants respond to rising [CO<sub>2</sub>] through increased photosynthesis and reduced transpiration**
+      + this is what greenhouse experiments say
+      
+* **FACE was developed as a means to grow plants in the field at a controlled elevation of [CO<sub>2</sub>] under fully open-air conditions** 
+      + provide better estimate of how plants and ecosystems will respond in a future high CO<sub>2</sub> world
+
+## What is FACE?
+<hr>
+<br/>
+
+<div class="centered"><strong><span style="color:green">
+Free-air CO<sub>2</sub> enrichment experiments</span></strong></div>
+
+* **circular plots surrounded by a ring of pipes that release ambient or enriched CO<sub>2</sub>**
+      + vertical intervals through plant canopy. 
+
+* **Wind direction, wind velocity, and [CO<sub>2</sub>] are measured at the center of each plot**
+      + computer-controlled system to adjusts CO<sub>2</sub> flow rate to maintain targe
+      + Pipes on the upwind side of the plots release CO<sub>2</sub>, 
+      
+ * **This design has been utilized with some variations and technical developments in numerous large-scale experiments**
+    + up to 30m diameter plots
+    + vegetation up to 25 meters
+      
+<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/design.jpg">
+
+## Brookhaven National Lab: FACE Specs
+
+* **Circular systems with computer feedback control designed to allow open-air exposures to CO<sub>2</sub>, sulfur dioxide, nitrogen oxides, and ozone**
+    + unifrom exposures of gases to large field plots
+
+* **Liquid CO<sub>2</sub> is piped from the storage tank to heat exchangers which vaporize the CO2 as needed**
+       + CO<sub>2</sub> is typically obtained as a by-product from the manufacture of agricultural fertilizer 
+
+* **Gaseous CO<sub>2</sub> is channeled through pipes and pressure regulators to the FACE plot**
+    + 24 to 32 vertical standing vent pipes for emitting CO<sub>2</sub> 
+    
+<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/liquid.jpg">
+
+## Advantages of FACE
+<hr>
+<br/
+
+* **Investigation of undisturbed ecosystems**
+      + natural interactions with light, temperature, wind, precipitation, pathogens and insects
+      + applicable to natural and agriculture systems
+      
+* **Integrated measurements of plant and ecosystem processes simultaneously**
+    + large plot sizes
+    + avoids problems with edge effects
+    + plants studied throughout life cycle, 
+    + trees have enough space to develop to canopy closure
+    
+<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/tech.png">
