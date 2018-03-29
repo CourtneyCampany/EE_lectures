@@ -9,107 +9,28 @@ output:
 runtime: shiny
 ---
 
-## Climate Change: Just Plant More Trees
+## BIOCON
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/co2hypo2.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/biocon.jpg">
 
-## Brookhaven FACE Program
+east central Minnesota, USA about 50 km north of Minneapolis/St. Paul (Lat. 45N, Long. 93W). The site is located on a glacial outwash sandplain and production is nitrogen limited. The experiment was set up in a secondary successional old field after the existing vegetation was cleared. Plots were planted in 1997. BioCON consists of 371 2-meter x 2-meter plots, arranged into 6 circular areas or “rings” (20 meter diameter), each containing 61, 62, or 63 plots (plot maps). Sixteen species of herbaceous perennial prairie species, native or naturalized to the Cedar Creek area, were planted in the experiment
+
+manipulated biodiversity, nitrogen, CO2 and water
+
+half experiencing rain removal via portable rain shelters
+
+2012 we began warming treatments using soil rod and infrared lamp technology
+
+half of the plots receive a nitrogen addition of 4g/m2/year (this amount approximately doubles current rates of N deposition at the site). 
+
+CO2 enriched air is applied to 3 of the 6 rings; ring 1 (61 plots), ring 3 (62 plots), and ring 5 (61 plots) receive air with a CO2 concentration of 560 ppm
+
+
+## Aspen FACE
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:650px; WIDTH:375px; HEIGHT:500px" SRC="images/co2hypo.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/aspenface.jpg">
 
-<div style="float: left; width: 55%;">
-
-* **Terrestrial biosphere responds to rising [CO<sub>2</sub>]**
-      + fundamental role in rate of global change
-      + Photosynthesis removes CO<sub>2</sub> from the atmosphere
-      + Respiration by plants and heterotrophs add it back.
-      
-<br/>
-
-* **Plants respond to rising [CO<sub>2</sub>] through ↑ photosynthesis and ↓ transpiration**
-      + what greenhouse experiments tell us
-
-<br/>
-      
-* **Techonology to grow plants in the field at a controlled [CO<sub>2</sub>] under open-air conditions** 
-      + better estimate of plant and ecosystem response to a high CO<sub>2</sub> world
-      
-</div>
-
-## Free-air CO<sub>2</sub> enrichment experiments (FACE)
-<hr>
-<br/>
-
-<div style="float: right; width: 55%;">
-
-* **Circular plots surrounded by a ring of pipes**
-      + release ambient or enriched CO<sub>2</sub>
-      + @ vertical intervals through plant canopy. 
-
-<br/>
-
-* **Wind direction/velocity and [CO<sub>2</sub>] are measured at the center of each plot**
-      + computers adjust CO<sub>2</sub> flow rate to maintain target
-      + Pipes on the upwind side of the plots release CO<sub>2</sub>
-
-<br/>
-      
- * **Utilized with some variationss in numerous large-scale experiments**
-    + up to 30m diameter plots
-    + vegetation up to 25 meters
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:65px; WIDTH:400px; HEIGHT:500px" SRC="images/design.png">
-
-## Brookhaven National Lab: FACE Specs
-<hr>
-<br/>
-
-<div style="float: right; width: 50%;">
-
-* **Circular systems designed to allow open-air exposures to CO<sub>2</sub>, sulfur dioxide, nitrogen oxides, and ozone**
-    + uniform exposures of gases to large field plots
-    
-<br/>
-
-* **Liquid CO<sub>2</sub> is piped from storage tanks to heat exchangers to vaporize the CO2**
-       + CO<sub>2</sub> is typically obtained as a by-product fertilizer manufacturing 
-       
-<br/>
-
-* **Gaseous CO<sub>2</sub> is channeled through pipes by pressure regulators to each FACE plot**
-    + 24 to 32 vertical standing vent pipes for emitting CO<sub>2</sub> 
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/liquid.jpg">
-
-##
-<IMG STYLE="position:absolute; TOP:75px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/tech.png">
-
-## Advantages of FACE
-<hr>
-<br/>
-
-<div style="float: left; width: 45%;">
-
-* **Investigation of undisturbed ecosystems**
-      + natural light, temperature, wind & precipitation
-      + natural interactions with pathogens and insects
-      + applicable to natural and agriculture systems
-
-<br/>
-
-* **Integrated measurements of plant and ecosystem processes simultaneously**
-    + avoids problems with edge effects
-    + plants studied throughout life cycle, 
-    + trees have enough space to develop to canopy closure
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/grasslandface.jpg">

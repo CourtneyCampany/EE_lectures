@@ -110,135 +110,199 @@ runtime: shiny
     + plants studied throughout life cycle, 
     + trees have enough space to develop to canopy closure
 
+<br/>
+
+* **Additional treatments**
+    + Ozone
+    + Nitrogen
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/grasslandface.jpg">
     
 ## What is typically measured?
+<hr>
+<br/>
+<br/>
+<br/>
 
-* **NPP**
-  + annual growth increments of plants
-  + yield (agriculture)
-  
+* **Growth enhancement**
+    + NPP 
+    + yield (agriculture)
+    + LAI
+
+<br/>
+
 * **Soil Processes**
-  + soil respiration
+    + soil respiration
+    + nutrient cycling
 
-* **Nutrient Cycling**
-  
-* **Leaf-level physioloy**
+<IMG STYLE="position:absolute; TOP:250px; LEFT:350px; WIDTH:300px; HEIGHT:300px" SRC="images/npp.png">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/npp.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:675px; WIDTH:300px; HEIGHT:300px" SRC="images/soil_respiration.jpg">
+
+## What is Typically Measured: Canopy Access
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:525px; HEIGHT:400px" SRC="images/access2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/access.jpg">
+
+
+## What is Typically Measured: Harvests
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/aspenface_pit.jpg">
     
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/aspenface.png">    
+
 ## Where are FACE experiments
 <hr>
 <br/>
 
 https://facedata.ornl.gov/global_face.html
 
-## Forest-Atmosphere Carbon Transfer and Storage (FACTS-I): DUKE FACE
-<hr>
-<br/>
-
-* ** 4 elevated CO2 plots (+ 200ppm) and four plots that provide ambient CO2 control.
-
-* **halved with a barrier inserted in the soil in 1998 to conduct, together with five additional plot pairs, CO2 × soil nutrient enrichment experiments.**
-
-loblolly pine plantation located in the Duke Forest near Chapel Hill, NC
-13-year-old loblolly pines, among the world's fastest growing tree species, at their peak growing age. 
-
-1996-1998 to 2008
 
 ## DUKE FACE
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/duke1.jpg">
+<div style="float: right; width: 50%;">
 
-## Swiss FACE
+* **Loblolly pine plantation @ Duke Forest**
+      + 13-year-old loblolly pines
+      + among the fastest growing tree species at peak growing age.
+      + ran from 1996-1998 to 2008
+
+<br/>
+
+* **4 elevated CO<sub>2</sub> plots (+ 200ppm)** 
+      + 4 ambient CO<sub>2</sub> controls.
+
+<br/>
+
+* **CO2 × soil N enrichment from 1998**
+      + plots halved with a soil barrier
+
+</div> 
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:450px; HEIGHT:350px" SRC="images/duke3.jpg">
+
+## DUKE FACE
 <hr>
 <br/>
 
-## Aspen FACE
-<hr>
-<br/>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/duke1.jpg">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/aspenface.jpg">
-
-
-## SOY FACE
-<hr>
-<br/>
-
-SoyFACE was designed to discover the effects of atmospheric change on the agronomy and productivity of Midwestern crops as well as to find solutions that will lead to crops better adapted to this future.
-
-O3 is released up‐wind to 
-achieve set‐point target 
-
-What yield and quality changes will result with rising CO2, temperature, drought stress and ozone?
-What genotypes and genes may be exploited to increase yield and maintain quality under the changed atmospheric conditions?
-What system changes will increase yields and maintain quality under the changed atmosphere?
-Will soil quality be degraded, and how can this be alleviated?
-Will rates of soil carbon deposition be increased, and what value might this have in terms of carbon credits?
-How will changes in CO2, temperature, drought stress and ozone impact insect and pathogens?
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/soy1.jpg">
-
-## SOY FACE: Key Findings
-<hr>
-<br/>
-
-Smaller than expected increases in integrated photosynthesis and biomass for plants
-grown at elevated CO2 a
-A combination of low stomatal limitation, potentially higher respiration, and
-similar photosynthetic acclimation are likely responsible for the muted
-synergistic responses to combined increases in CO2 and temperature
-
- When grown in chronic O3, photosynthetic 
-rates decreased as [O3] increased
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/soy2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/duke2.jpg">
 
 ## Nevada Desert FACE Facility (NDFF)
 <hr>
-<br/>
 
-* ** April 1997 and continued to provide elevated atmospheric CO2 to undisturbed Mojave Desert plots for ten years, through June 2007**
+<div style="float: left; width: 55%;">
+
+* **Undisturbed Mojave Desert plots**
+      + 1997-2007
+  
+<br/>
 
 * **9 study plots, each 23 m in diameter**
-    + 3 FACE rings at elevated CO2 concentration (550 PPM),
-    + 3 FACE rings at ambient CO2 concentration 
-    
-* **vegetation that is dominated by Ambrosia dumosa (bursage), a small drought-deciduous shrub, and Larrea tridentata(creosotebush)**
-    + Up to 75 annual species may occur depending on rainfall, 
-    + including the exotic annual grass Bromus madritensis ssp. rubens (red brome). 
+      + 3 elevated CO<sub>2</sub> concentration (550 PPM)
+      + 6 ambient plots
 
-* **Soils at the site have a well-developed biological crust composed of bacteria, algae, mosses and lichens**
+<br/>
+
+* **Up to 75 annual species may occur depending on rainfall **
+      + including exotic annual grass: red brome
+
+<br/>
+
+* **Soils at the site have a well-developed biological crust**
+      + bacteria, algae, mosses and lichens
+</div> 
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/desert1.jpg">
 
 ## Nevada Desert FACE Facility (NDFF)
 <hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/desert2.jpg">
+
+## Oak Ridge FACE
+<hr>
+<br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/desert1.jpg">
+* **Sweetgum plantation @ Oak Ridge National Lab**
+    + east Tennessee in the Cumberland Platuea
+    + plantation establsihed 1988
+    + 1998-2009.
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/desert2.jpg">
+<br/>
 
-## BIOCON
+* **Five 25-m diameter plots in the forest**
+    + two elevated CO<sub>2</sub> plots (528-560 ppm)
+    + three ambient CO<sub>2</sub> plots
+    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/ornl2.gif">
+
+## Oak Ridge FACE
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ornl.png">
+
+## SoyFACE: U.Illinois
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/biocon.jpg">
+* **32-ha farm with 20m plots**
+    + elevated CO<sub>2</sub> plots
+    + elevated O<sub>3</sub> plots
+    + warming subplots (+3.5°C)
 
-east central Minnesota, USA about 50 km north of Minneapolis/St. Paul (Lat. 45N, Long. 93W). The site is located on a glacial outwash sandplain and production is nitrogen limited. The experiment was set up in a secondary successional old field after the existing vegetation was cleared. Plots were planted in 1997. BioCON consists of 371 2-meter x 2-meter plots, arranged into 6 circular areas or “rings” (20 meter diameter), each containing 61, 62, or 63 plots (plot maps). Sixteen species of herbaceous perennial prairie species, native or naturalized to the Cedar Creek area, were planted in the experiment
+<br/>
+<br/>
 
-manipulated biodiversity, nitrogen, CO2 and water
+* **Research questions:**
+<br/>
+1. What yield and quality changes will result with rising CO<sub>2</sub>, temperature, drought stress and ozone?
+2. What genotypes and genes may be exploited to increase yield and maintain quality under future conditions?
+3. Will soil quality be degraded, and how can this be alleviated?
+4. Will rates of soil carbon deposition be increased, and what value might this have in terms of carbon credits?
+5. How will changes in CO<sub>2</sub>, temperature, drought stress and ozone impact insect and pathogens?
 
-half experiencing rain removal via portable rain shelters
+<IMG STYLE="position:absolute; TOP:175px; LEFT:600px; WIDTH:275px; HEIGHT:275px" SRC="images/soy1.jpg">
 
-2012 we began warming treatments using soil rod and infrared lamp technology
+## SoyFACE
+<hr>
+<br/>
 
-half of the plots receive a nitrogen addition of 4g/m2/year (this amount approximately doubles current rates of N deposition at the site). 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/soy2.jpg">
 
-CO2 enriched air is applied to 3 of the 6 rings; ring 1 (61 plots), ring 3 (62 plots), and ring 5 (61 plots) receive air with a CO2 concentration of 560 ppm
+## Swiss FACE: Grasslands
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Response of grassland ecosystems to elevated CO<sub>2</sub>**
+      + community composition shifts
+      + nitrogen fixers vs microbes in the rhizospere
+
+<br/>
+
+* **Response by functional type** 
+      + C3, C4, legumes, etc
+      + annual vs perennials
+</div> 
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/swiss.jpg">
+
+
 
 ## BIOCON :Findings
 <hr>
@@ -252,33 +316,14 @@ elevated CO2 had modest effects on species richness
 
 ameliorated diversity loss due to N enrichment that occurs under ambient CO2
 
-## Oak Ridge
+
+## Oak Ridge - Key Findings
 <hr>
 <br/>
 
 1. To understand how the eastern deciduous forest will be affected by CO<sub>2</sub> enrichment of the atmosphere.
 
 2. what are the feedbacks from the forest to the atmosphere
-
-* **CO<sub>2</sub> treatment started in April 1998 prior to leaf out**
-    + ran through September, 2009. 
-
-* **Sweetgum (Liquidambar styraciflua) plantation located on the Oak Ridge National Environmental Research Park. 
-    + East Tennessee in the Cumberland Platuea
-    
-* **Five 25-m diameter plots in the forest**
-    + two elevated CO<sub>2</sub> plots (528-560 ppm)
-    + three unchanged CO<sub>2</sub> plots (384-405 ppmv)
-
-## Oak Ridge
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ornl.png">
-
-
-## Oak Ridge - Key Findings
-<hr>
-<br/>
 
 * **Fine-root production was stimulated by elevated CO_2_**
     + resulting in more C added to the soil system.
@@ -294,6 +339,26 @@ ameliorated diversity loss due to N enrichment that occurs under ambient CO2
 <IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/dukeresults1.gif">
 <IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/dukeresults2.gif">
 <IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/dukeresults3.gif">
+
+## SOY FACE: Key Findings
+<hr>
+<br/>
+
+Smaller than expected increases in integrated photosynthesis and biomass for plants
+grown at elevated CO2 a
+A combination of low stomatal limitation, potentially higher respiration, and
+similar photosynthetic acclimation are likely responsible for the muted
+synergistic responses to combined increases in CO2 and temperature
+
+ When grown in chronic O3, photosynthetic 
+rates decreased as [O3] increased
+
+Soybeans less nutrious
+  + decreased Fe, Zn 
+  
+  + warming offestses CO2 increases in npp
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/soy2.jpg">
     
 ## Synthetic Results from FACE
 
