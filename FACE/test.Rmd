@@ -1,5 +1,5 @@
 ---
-title: "FACE"
+title: "Free-air CO<sub>2</sub> enrichment"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: 
   ioslides_presentation:
@@ -9,75 +9,107 @@ output:
 runtime: shiny
 ---
 
-## Climate change: Just Plant More Trees
+## Climate Change: Just Plant More Trees
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/co2hypo2.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/co2hypo2.jpg">
 
 ## Brookhaven FACE Program
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/co2hypo2.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:650px; WIDTH:375px; HEIGHT:500px" SRC="images/co2hypo.jpg">
 
-* **terrestrial biosphere is not just a passive respondent to rising [CO<sub>2</sub>]**
-      + fundamental role in determining the rate of global change.**
-      + Photosynthesis removes CO<sub>2</sub> from the atmosphere and respiration by plants and heterotrophs add it back.
+<div style="float: left; width: 55%;">
+
+* **Terrestrial biosphere responds to rising [CO<sub>2</sub>]**
+      + fundamental role in rate of global change
+      + Photosynthesis removes CO<sub>2</sub> from the atmosphere
+      + Respiration by plants and heterotrophs add it back.
       
 <br/>
 
-* **Plants respond to rising [CO<sub>2</sub>] through increased photosynthesis and reduced transpiration**
-      + this is what greenhouse experiments say
-      
-* **FACE was developed as a means to grow plants in the field at a controlled elevation of [CO<sub>2</sub>] under fully open-air conditions** 
-      + provide better estimate of how plants and ecosystems will respond in a future high CO<sub>2</sub> world
+* **Plants respond to rising [CO<sub>2</sub>] through ↑ photosynthesis and ↓ transpiration**
+      + what greenhouse experiments tell us
 
-## What is FACE?
+<br/>
+      
+* **Techonology to grow plants in the field at a controlled [CO<sub>2</sub>] under open-air conditions** 
+      + better estimate of plant and ecosystem response to a high CO<sub>2</sub> world
+      
+</div>
+
+## Free-air CO<sub>2</sub> enrichment experiments (FACE)
 <hr>
 <br/>
 
-<div class="centered"><strong><span style="color:green">
-Free-air CO<sub>2</sub> enrichment experiments</span></strong></div>
+<div style="float: right; width: 55%;">
 
-* **circular plots surrounded by a ring of pipes that release ambient or enriched CO<sub>2</sub>**
-      + vertical intervals through plant canopy. 
+* **Circular plots surrounded by a ring of pipes**
+      + release ambient or enriched CO<sub>2</sub>
+      + @ vertical intervals through plant canopy. 
 
-* **Wind direction, wind velocity, and [CO<sub>2</sub>] are measured at the center of each plot**
-      + computer-controlled system to adjusts CO<sub>2</sub> flow rate to maintain targe
-      + Pipes on the upwind side of the plots release CO<sub>2</sub>, 
+<br/>
+
+* **Wind direction/velocity and [CO<sub>2</sub>] are measured at the center of each plot**
+      + computers adjust CO<sub>2</sub> flow rate to maintain target
+      + Pipes on the upwind side of the plots release CO<sub>2</sub>
+
+<br/>
       
- * **This design has been utilized with some variations and technical developments in numerous large-scale experiments**
+ * **Utilized with some variationss in numerous large-scale experiments**
     + up to 30m diameter plots
     + vegetation up to 25 meters
-      
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/design.jpg">
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:65px; WIDTH:400px; HEIGHT:500px" SRC="images/design.png">
 
 ## Brookhaven National Lab: FACE Specs
+<hr>
+<br/>
 
-* **Circular systems with computer feedback control designed to allow open-air exposures to CO<sub>2</sub>, sulfur dioxide, nitrogen oxides, and ozone**
-    + unifrom exposures of gases to large field plots
+<div style="float: right; width: 50%;">
 
-* **Liquid CO<sub>2</sub> is piped from the storage tank to heat exchangers which vaporize the CO2 as needed**
-       + CO<sub>2</sub> is typically obtained as a by-product from the manufacture of agricultural fertilizer 
-
-* **Gaseous CO<sub>2</sub> is channeled through pipes and pressure regulators to the FACE plot**
-    + 24 to 32 vertical standing vent pipes for emitting CO<sub>2</sub> 
+* **Circular systems designed to allow open-air exposures to CO<sub>2</sub>, sulfur dioxide, nitrogen oxides, and ozone**
+    + uniform exposures of gases to large field plots
     
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/liquid.jpg">
+<br/>
+
+* **Liquid CO<sub>2</sub> is piped from storage tanks to heat exchangers to vaporize the CO2**
+       + CO<sub>2</sub> is typically obtained as a by-product fertilizer manufacturing 
+       
+<br/>
+
+* **Gaseous CO<sub>2</sub> is channeled through pipes by pressure regulators to each FACE plot**
+    + 24 to 32 vertical standing vent pipes for emitting CO<sub>2</sub> 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/liquid.jpg">
+
+##
+<IMG STYLE="position:absolute; TOP:75px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/tech.png">
 
 ## Advantages of FACE
 <hr>
-<br/
+<br/>
+
+<div style="float: left; width: 45%;">
 
 * **Investigation of undisturbed ecosystems**
-      + natural interactions with light, temperature, wind, precipitation, pathogens and insects
+      + natural light, temperature, wind & precipitation
+      + natural interactions with pathogens and insects
       + applicable to natural and agriculture systems
-      
+
+<br/>
+
 * **Integrated measurements of plant and ecosystem processes simultaneously**
-    + large plot sizes
     + avoids problems with edge effects
     + plants studied throughout life cycle, 
     + trees have enough space to develop to canopy closure
-    
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/tech.png">
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/grasslandface.jpg">
