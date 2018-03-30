@@ -177,12 +177,12 @@ https://facedata.ornl.gov/global_face.html
 
 <br/>
 
-* **4 elevated CO<sub>2</sub> plots (+ 200ppm)** 
+* **4 eCO<sub>2</sub> plots (+ 200ppm)** 
       + 4 ambient CO<sub>2</sub> controls.
 
 <br/>
 
-* **CO2 × soil N enrichment from 1998**
+* **eCO<sub>2</sub> × soil N enrichment from 1998**
       + plots halved with a soil barrier
 
 </div> 
@@ -208,8 +208,8 @@ https://facedata.ornl.gov/global_face.html
 <br/>
 
 * **9 study plots, each 23 m in diameter**
-      + 3 elevated CO<sub>2</sub> concentration (550 PPM)
-      + 6 ambient plots
+      + 3 eCO<sub>2</sub> plots (550 PPM)
+      + 6 aCO<sub>2</sub> plots
 
 <br/>
 
@@ -235,15 +235,15 @@ https://facedata.ornl.gov/global_face.html
 <br/>
 
 * **Sweetgum plantation @ Oak Ridge National Lab**
-    + east Tennessee in the Cumberland Platuea
+    + east Tennessee in Cumberland Platuea
     + plantation establsihed 1988
     + 1998-2009.
 
 <br/>
 
 * **Five 25-m diameter plots in the forest**
-    + two elevated CO<sub>2</sub> plots (528-560 ppm)
-    + three ambient CO<sub>2</sub> plots
+    + two eCO<sub>2</sub> plots (528-560 ppm)
+    + three aCO<sub>2</sub> plots
     
 <IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/ornl2.gif">
 
@@ -252,12 +252,39 @@ https://facedata.ornl.gov/global_face.html
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ornl.png">
 
+## Aspen FACE: Wisconsin, USA
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Twelve 30m rings with split-plots**
+    +  1/2 of ring Aspen monoculture
+    +  1/4 of ring Aspen-Maple
+    +  1/4 of ring Aspen-Birch
+    + site planted from seedlings
+
+<br/>
+
+* **Manipulated  CO<sub>2</sub>  &  O<sub>3</sub>**
+    + single and interaction treatments
+    + Aspen monoculture planted with O<sub>3</sub> sensitive genotypes
+
+<br/>
+
+* **Fumigating from 2001 - 2009**
+    + coppiced and fumigated from 2010-2011
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:400" SRC="images/aspenface.jpg">
+
 ## SoyFACE: U.Illinois
 <hr>
 <br/>
 
 * **32-ha farm with 20m plots**
-    + elevated CO<sub>2</sub> plots
+    + eCO<sub>2</sub> plots
     + elevated O<sub>3</sub> plots
     + warming subplots (+3.5°C)
 
@@ -270,7 +297,7 @@ https://facedata.ornl.gov/global_face.html
 2. What genotypes and genes may be exploited to increase yield and maintain quality under future conditions?
 3. Will soil quality be degraded, and how can this be alleviated?
 4. Will rates of soil carbon deposition be increased, and what value might this have in terms of carbon credits?
-5. How will changes in CO<sub>2</sub>, temperature, drought stress and ozone impact insect and pathogens?
+5. How will eCO<sub>2</sub>, temperature, drought stress and ozone impact insect and pathogens?
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:600px; WIDTH:275px; HEIGHT:275px" SRC="images/soy1.jpg">
 
@@ -289,7 +316,7 @@ https://facedata.ornl.gov/global_face.html
 
 <div style="float: left; width: 55%;">
 
-* **Response of grassland ecosystems to elevated CO<sub>2</sub>**
+* **Response of grassland ecosystems to eCO<sub>2</sub>**
       + community composition shifts
       + nitrogen fixers vs microbes in the rhizospere
 
@@ -302,181 +329,356 @@ https://facedata.ornl.gov/global_face.html
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/swiss.jpg">
 
-
-
-## BIOCON :Findings
+## BIOCON: Minnesota, USA
 <hr>
+
+<div style="float: left; width: 60%;">
+
+* **Secondary successional old field after vegetation cleared**
+      + glacial outwash sandplain 
+      + nitrogen limited site
+
 <br/>
 
-Elevated CO2 Reduces Losses of Plant Diversity Caused by Nitrogen Deposition
+* **371 plots (2x2m) arranged in six 20m rings**
+      + earh ring has 61, 62, or 63 plots
+      + 16 species of herbaceous perennial prairie species
 
-enriched N has a consistent negative effect on species richness because its effects on productivity, soil solution N, soil moisture, and root C:N ratio all individually suppress species richness
+<br/>
 
-elevated CO2 had modest effects on species richness
-
-ameliorated diversity loss due to N enrichment that occurs under ambient CO2
-
+* **biodiversity, N, CO<sub>2</sub> and H<sub>2</sub>0 manipulated**
+      + elevated CO<sub>2</sub> in 3 rings (560 ppm)
+      + subplot rain removal via portable rain shelters
+      + warming with soil rod and infrared lamp technology
+      + 1/2 of plots receive N addition @ 2x deposition
+</div>
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/biocon.jpg">
 
 ## Oak Ridge - Key Findings
 <hr>
 <br/>
+<br/>
 
-1. To understand how the eastern deciduous forest will be affected by CO<sub>2</sub> enrichment of the atmosphere.
+<div style="float: left; width: 55%;">
 
-2. what are the feedbacks from the forest to the atmosphere
-
-* **Fine-root production was stimulated by elevated CO_2_**
+* **Fine-root production was stimulated by eCO<sub>2</sub>**
     + resulting in more C added to the soil system.
+
+<br/>
+
+* **Enhancement of NPP not sustained via N cycle feedbacks**
+    + N availability declined faster under eCO<sub>2</sub>
+    + lower soil microbial biomass under eCO<sub>2</sub>
     
-* **Initial enhancement of NPP was not sustained because of feedbacks through the N cycle**
-    + stable isotope analysis indicated that N availability declined faster in elevated CO2 plots
-    
-* **Carbon storage in the soil increased in CO2-enriched plots*,**
+<br/>
+
+* **Carbon storage in the soil ↑ in elevated CO<sub>2</sub>**
     + including in protected forms
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:615px; WIDTH:400px; HEIGHT:300px" SRC="images/nppornl.gif">
     
 ## DUKE - Key findings
+<hr>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/dukeresults1.gif">
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/dukeresults2.gif">
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/dukeresults3.gif">
+<div style="float: left; width: 55%;">
+
+* **Photosynthesis by canopy foliage ↑ up to 50 %**
+    + Litterfall ↑ in eCO<sub>2</sub> and litter layer ↑
+
+<br/>
+
+* **Minimal change in the SOM from eCO<sub>2</sub>**
+
+<br/>
+
+* **Stimulation of NPP by eCO<sub>2</sub> persisted** 
+    + biomass + 27% in eCO<sub>2</sub> plots
+    + evidence of N limitation started
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:615px; WIDTH:400px; HEIGHT:300px" SRC="images/dukeresults2.gif">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:350px; WIDTH:400px; HEIGHT:550px" SRC="images/dukeresults3.gif">
+
+##
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:300px; WIDTH:500px; HEIGHT:700px" SRC="images/moreroots.gif">
+
+## BIOCON :Findings
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **eCO<sub>2</sub> had modest effects on species richness**
+
+<br/>
+
+* **Diversity loss due to N enrichment under aCO<sub>2</sub>**
+    + diversity suppresed by N effects on productivity, soil solution N, soil moisture & root C:N
+
+<br/>
+
+* **eCO<sub>2</sub> amlieorated this diversity loss**
+    + interaction treatments
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:650px; WIDTH300px; HEIGHT:500px" SRC="images/biocon2.gif">
 
 ## SOY FACE: Key Findings
 <hr>
 <br/>
 
-Smaller than expected increases in integrated photosynthesis and biomass for plants
-grown at elevated CO2 a
-A combination of low stomatal limitation, potentially higher respiration, and
-similar photosynthetic acclimation are likely responsible for the muted
-synergistic responses to combined increases in CO2 and temperature
+<div style="float: left; width: 55%;">
 
- When grown in chronic O3, photosynthetic 
-rates decreased as [O3] increased
+* **Smaller than expected ↑ in photosynthesis/biomass for soybeans at eCO<sub>2</sub>**
+    + warming also offset biomass increases via eCO<sub>2</sub>
 
-Soybeans less nutrious
-  + decreased Fe, Zn 
-  
-  + warming offestses CO2 increases in npp
+<br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/soy2.jpg">
-    
-## Synthetic Results from FACE
+* **Low stomatal limitation, ↑ respiration & photosynthetic acclimation muted response to eCO<sub>2</sub> & temperature**
 
-1. Exposure to elevated [CO2] resulted in a 31% increase in the light‐saturated leaf photosynthetic rate (Asat) and a 28% increase in the diurnal photosynthetic carbon assimilation (A′) when averaged across all FACE experiments and species
-    
-2. Stomatal conductance (gs) was reduced by 20% with growth at elevated [CO2] when averaged for 40 species grown at all 12 FACE experiments
+<br/>
 
-3. Growth under stressful conditions (low N and drought) exacerbated the decrease in gs
+* **O<sub>3</sub> fumigation reduced photosynthesis**
 
-4. instantaneous transpiration efficiency of plants grown under elevated [CO2] was stimulated by ≈ 50%
+<br/>
+
+* **Overall, soybeans were less nutritous**
+      + decreased Fe & Zn 
+</div> 
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:610px; WIDTH:400px; HEIGHT:300px" SRC="images/soy2.jpg">
+
+## Synthesis Results from FACE
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **eCO<sub>2</sub> ↑ leaf photosynthesis by 31% across sites and species**
+
+<br/>
+
+* **Stomatal conductance ↓ by 20% with growth at eCO<sub>2</sub> across 40 species**
+    + low N and drought exacerbated the ↓ in g<sub>s</sub>
+
+<br/>
+
+* **Plant water use efficiency ↑ under eCO<sub>2</sub> ~50%**
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:400" SRC="images/synthesis.gif">
+
 
 ## Synthesis Results from FACE
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/synthesis2.gif">
+<div style="float: left; width: 55%;">
 
- Trees showed the greatest response in photosynthesis to elevated [CO2], followed by fertilized C3 crops and C3 grasses
- 
-## Synthesis Results from FACE
-<hr>
+* **Growth and aboveground biomass ↑ with eCO<sub>2</sub>**
+      + ~20% enhancement
+      + response varied between species, growing seasons and experimental conditions 
+      + trees > crops > grasses
+      
 <br/>
 
-Growth and above‐ground biomass production generally increased with exposure to elevated [CO2]; however, the magnitude of the response varied between species, growing seasons and experimental conditions. 
-  + Above‐ground dry matter production increased 20% on average for 29 C3 species grown in six different FACE experiments
-  + trees > legumes > grasses
+* **Allocation to wood and structure ↑ woody plants under eCO<sub>2</sub>**
+      + taller plants
+      + larger stem diameter
+      + increased branching and leaf #
+      
+<br/>
   
-  Trees grown under nutrient limitation had a nonsignificant 14% stimulation in above‐ground biomass
+* **Nutrient limitation muted the aboveground enhancement**
+</div>
 
-Elevated [CO2] resulted in taller plants with larger stem diameter, increased branching and leaf numbe5
- 
- <IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/synthesis3.gif">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:400" SRC="images/synthesis3.gif">
 
-## Crops
- Our results showed greater allocation to wood and structure in woody plants and a 28% increase in above‐ground dry matter production for trees grown under elevated [CO2] (Fig. 8). growth v. photosynthesis
- 
- Crop yield increased on average by only 17% (Fig. 7), considerably lower than previous estimates 
- nly cotton, a woody crop, showed a significant yield enhancement with growth at elevated [CO2]
- 
-Under wet conditions, there was no increase in yield with elevated [CO2], and under dry conditions there was a 28% increase in yield (Appendix 2). Low N fertilization also eliminated any yield response to elevated [CO2] 
- 
- <IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/synthesis4.gif">
+## FACE: Crops
+<hr>
+<br/>
+<br/>
 
-## Ecological Lessons from FACE experiments
+
+<div style="float: left; width: 55%;">
+
+* **Crop yield ↑ by only ~ 17%**
+    + lower than previous estimates 
+
+<br/>
+
+* **Cotton, a woody crop, showed most yield enhancement in eCO<sub>2</sub>**
+
+<br/>
+
+* **Site conditions modulated eCO<sub>2</sub> response**
+    + no yield increase in wet conditions
+    + 28% increase in dry conditions
+    + Low N fertilization  eliminated any yield response
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:400" SRC="images/synthesis4.gif">
+
+## Ecological Lessons from FACE Experiments
 <hr>
 <br/>
 
-The element of time is of the highest importance in any consideration of C cycling.
-  + life stage, functioanl type, mature forests
-  + how long to reach equilibrium?
-  
-* ** Different partitioning patterns to the fate of the extra C taken up by CO2-enriched plants has been shown in these experiments**
-    + The distribution of the C has critical implications for the interactions with other resources and MRT of that C in the ecosystem
+* **Time =  is highest importance in consideration of C cycling**
+    + life stage, functioanl type, canopy closure
+    + how long to reach equilibrium?
 
-The partitioning of plant-derived C among SOM pools is a primary determinant of the fate of C in the ecosystem
-    +  exudation, litter fragmentation, bioturbation, priming, microaggregation, and microbial interactions are necessary for reliable predictions of long-term responses of ecosystems to eCO2.
+<br/>
+
+* **Different C allocation patterns of extra C taken up**
+    + allocation of plant C among SOM pools determines ecosystem C fate
+    + exudation, litter fragmentation, priming, microaggregation & microbial activity important
+
+<br/>
+
+* **Some evidence of N limitation reducing the eCO<sub>2</sub> response**
+
+<br/>
+
+* **Plant community structure has influence on ecosystem response to eCO<sub>2</sub>**
+    + composition more important to ecosystem responses than individual species.
     
-widespread expectation that N limitation will lead to a loss in the capacity of an ecosystem to sequester additional C in eCO2 was borne out in some experiments but not in others.
+## Modeling FACE Experiments 
+<hr>
 
-The structure of the plant community can have a dominant influence on C and N cycles and the response of the ecosystem to eCO2. 
-    + plant community composition may be much more important to ecosystem function than the physiological responses of individual species.
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:650px; HEIGHT:500px" SRC="images/models.png">
 
-microbial activity can be accelerated under eCO2
-    + increased substrate availability associated with greater plant detritus production under eCO2 can stimulate saprotrophic microbial activity and metabolism of SOM. This mechanism has the potential to sustain greater rates of NPP by increasing soil N availability, but the response may not be sustainable
-    
-## Modelling FACE experiments 
+
+## 
+<IMG STYLE="position:absolute; TOP:75px; LEFT:275px; WIDTH:500px; HEIGHT:600px" SRC="images/hypo.jpg">
+ 
+## What is Missing?
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Most sites are from temperate zones**
+
+<br/>
+
+* **No mature mature forests sites**
+    + Only capturing plants during fast growth phases
+    + How sustained is the response?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:600px; WIDTH:300px; HEIGHT:500px" SRC="images/synthesis5.gif">
+ 
+## New Age of FACE Experiments
 <hr>
 <br/>
 
-Model predictions of responses to eCO2 should correspond with, or at least be informed by, the responses observed in FACE experiments.
-
-limited as most past experiments are from temperate zones and not in mature forests
-
- <IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/hypo.jpg">
- 
- 
-## New AGE of FACE
- <IMG STYLE="position:absolute; TOP:180px; LEFT:565px; WIDTH:475px; HEIGHT:475px" SRC="images/nvsp_newface.jpg">
+ <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/nvsp_newface.jpg">
 
 
-## Bio-FOr
+## BIFor: University of Birmingham
 <hr>
 <br/>
 
-The Birmingham Institute of Forest Research (BIFoR) FACE is a CO2 enrichment experiment in a mature deciduous temperate woodland on long‐established woodland soil
+<div style="float: left; width: 55%;">
 
+* **FACE experiment in a mature deciduous temperate woodland**
+    + long‐established woodland soil
 
-oaks were planted c. 150 yr ago; other species have self‐seeded and become established, particularly sycamore (Acer pseudoplatanus), silver birch (Betula pendula), and holly (Ilex aquifolium), leading to a distribution of ages in dominant and sub‐dominant trees at the site.
+<br/>
 
+* **Oaks species planted 150 years ago**
+    + natural distribution of ages
+    + dominant and sub‐dominant trees
 
-## Amazon FACE
+<br/>
+
+* **Additioanlly looks to address trade-gap in forestry for UK**
+    + sustainable UK by manged woodlands
+    + identify disease resistance in trees
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:400px; HEIGHT:400" SRC="images/bifor.jpg">
+
+## Amazon-FACE: Amazon River basin
 <hr>
 <br/>
 
- highly diverse, old‐growth, closed canopy terra firme forest on a plateau within the Amazon River basin 70 km north of Manaus, Brazil
- 
- very high plant diversity
- 
- two 30‐m diameter plots include at least 21 different families and 52 species of trees with diameters > 10 cm; only 10 families and five species were represented in both plots. 
- 
- 
- ## Sweed FACE
- <hr>
-<br/
+<div style="float: left; width: 55%;">
 
- SwedFACE is a proposed multi‐factor ecosystem manipulation experiment that will be implemented in a c. 35‐yr old closed‐canopy stand of mature Scots pine (Pinus sylvestris) trees in the hemiboreal zone of southern Sweden (Fig. 1d). The stand was probably subjected to noncommercial thinning some time before canopy closure, but it is currently unmanaged. The project aims to bridge the knowledge gap left by past forest FACE experiments as to the direct effects of rising CO2 concentrations on boreal forests,
+* **Undisturbed forest reserve in Brazil**
+    + very high plant diversity
+    + old-growth primary forest
+    + closed canopy
+
+<br/>
+
+* **Project includes 2 eCO<sub>2</sub> + 2 aCO<sub>2</sub> rings**
+    + test ring built, layouts complete
+    + plots include at least 21 different families
+    + 2 species of trees with diameters > 10 cm
+    + only 10 families and five species overlap in 2 proposed plots
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:500px; HEIGHT:400" SRC="images/amazon.jpg">
  
- belowground processes and nutrient feedbacks that may counteract the primary plant physiological responses to eCO2. Boreal forests are an important reservoir for stored C and may in the future contribute increasingly to biosphere–atmosphere C exchange as higher average temperatures lead to an extension of the growing season, promoting C uptake, and faster decomposition rates, promoting C release from warming soils. 
+## Sweed FACE
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Proposed site in 35‐yr old closed‐canopy stand of mature Scots pine**
+      + hemiboreal zone of southern Sweden
+      + stand noncommercial thinning before canopy closure
+      + now unmanaged
+
+<br/>
+
+* **Knowledge gap of eCO<sub>2</sub> on boreal forests**
+      + important reservoir for stored C
+      + warming/extended growing season promoting C release?
+      + belowground processes may counteract plant physiological responses
+</div>
+ 
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:400" SRC="images/boreal.jpg">
 
 ## EUC FACE
 <hr>
 <br/>
 
-* **The world's only Free Air CO2 Enrichment experiment in native forest**
+<div style="float: left; width: 55%;">
 
- Cumberland Forest is unique, being one of the last remaining stretches of almost-original forest left in Sydney.
+* **Sites in a mature native Australian woodland**
+    + Cumberland Forest is now down to just 6% (Sydney expansion)
+    + open and grassy with native and introduced grasses
 
-Once covering almost 30% of the Sydney Basin, the Cumberland Forest is now down to just 6% as it is removed for housing and urban infill.
+<br/>
 
-What remains at UWS Hawkesbury is close to original, with a mix of Forest Red Gum (E. tereticornis), Cabbage Gum (E. amplifolia) and other species. It is open and grassy with native and introduced grasses such as Microlaena.
+* **3 eCO<sub>2</sub> + 3 aCO<sub>2</sub> rings**
+    + eCO<sub>2</sub> 'ramped up' over a year
+    + Nutrient and water limited forest
 
+<br/>
+
+* **Designed to minimise environmental footprint**
+    + no concrete in the forest 
+    + rings are raised so that animals can move freely
+    + access by raised footpaths only
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:400" SRC="images/eucface.jpg">
