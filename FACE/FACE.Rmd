@@ -27,8 +27,8 @@ runtime: shiny
 
 * **Terrestrial biosphere responds to rising [CO<sub>2</sub>]**
       + fundamental role in rate of global change
-      + Photosynthesis removes CO<sub>2</sub> from the atmosphere
-      + Respiration by plants and heterotrophs add it back.
+      + photosynthesis removes CO<sub>2</sub> from the atmosphere
+      + respiration by plants and heterotrophs add it back.
       
 <br/>
 
@@ -56,7 +56,7 @@ runtime: shiny
 
 * **Wind direction/velocity and [CO<sub>2</sub>] are measured at the center of each plot**
       + computers adjust CO<sub>2</sub> flow rate to maintain target
-      + Pipes on the upwind side of the plots release CO<sub>2</sub>
+      + pipes on the upwind side of the plots release CO<sub>2</sub>
 
 <br/>
       
@@ -75,7 +75,7 @@ runtime: shiny
 <div style="float: right; width: 50%;">
 
 * **Circular systems designed to allow open-air exposures to CO<sub>2</sub>, sulfur dioxide, nitrogen oxides, and ozone**
-    + uniform exposures of gases to large field plots
+    + uniform exposures of gases to large plots
     
 <br/>
 
@@ -92,7 +92,7 @@ runtime: shiny
 <IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/liquid.jpg">
 
 ##
-<IMG STYLE="position:absolute; TOP:75px; LEFT:225px; WIDTH:700px; HEIGHT:600px" SRC="images/tech.png">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/tech.png">
 
 ## Advantages of FACE
 <hr>
@@ -192,7 +192,7 @@ https://facedata.ornl.gov/global_face.html
 
 </div> 
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:75px; WIDTH:450px; HEIGHT:350px" SRC="images/duke3.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:400px; HEIGHT:325px" SRC="images/duke3.jpg">
 
 ## DUKE FACE
 <hr>
@@ -242,8 +242,8 @@ https://facedata.ornl.gov/global_face.html
 <br/>
 
 * **Sweetgum plantation @ Oak Ridge National Lab**
-    + east Tennessee in Cumberland Platuea
-    + plantation establsihed 1988
+    + east Tennessee in Cumberland Plateau
+    + plantation established 1988
     + 1998-2009.
 
 <br/>
@@ -314,7 +314,7 @@ https://facedata.ornl.gov/global_face.html
 <div style="float: left; width: 60%;">
 
 * **Secondary successional old field after vegetation cleared**
-      + glacial outwash sandplain 
+      + glacial out wash sandplain 
       + nitrogen limited site
 
 <br/>
@@ -359,7 +359,7 @@ https://facedata.ornl.gov/global_face.html
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/soy2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:650px; HEIGHT:400px" SRC="images/soy2.jpg">
 
 ## Many First Generation FACE Sites Have Ended
 <hr>
@@ -374,7 +374,7 @@ https://facedata.ornl.gov/global_face.html
 <div style="float: left; width: 55%;">
 
 * **Photosynthesis by canopy foliage ↑ up to 50 %**
-    + Litterfall ↑ in eCO<sub>2</sub> and litter layer ↑
+    + litterfall ↑ in eCO<sub>2</sub> and litter layer ↑
 
 <br/>
 
@@ -434,7 +434,7 @@ https://facedata.ornl.gov/global_face.html
 <br/>
 
 * **Diversity loss due to N enrichment under aCO<sub>2</sub>**
-    + diversity suppresed by N effects on productivity
+    + diversity suppressed by N effects on productivity
     + soil solution N, soil moisture & root C:N
 
 <br/>
@@ -555,7 +555,7 @@ https://facedata.ornl.gov/global_face.html
 
 * **Different C allocation patterns of extra C taken up**
     + allocation of plant C among SOM pools determines ecosystem C fate
-    + exudation, litter fragmentation, priming, microaggregation & microbial activity important
+    + exudation, litter fragmentation, priming, soil aggregation & microbial activity important
 
 <br/>
 
