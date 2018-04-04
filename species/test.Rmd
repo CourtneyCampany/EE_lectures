@@ -1,0 +1,716 @@
+---
+title: "FACE Experiments"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Climate Change: Just Plant More Trees
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/moretrees.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/co2hypo2.jpg">
+
+## Brookhaven FACE Program
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:650px; WIDTH:375px; HEIGHT:500px" SRC="images/co2hypo.jpg">
+
+<div style="float: left; width: 55%;">
+
+* **Terrestrial biosphere responds to rising [CO<sub>2</sub>]**
+      + fundamental role in rate of global change
+      + photosynthesis removes CO<sub>2</sub> from the atmosphere
+      + respiration by plants and heterotrophs add it back.
+      
+<br/>
+
+* **Plants respond to rising [CO<sub>2</sub>] through ↑ photosynthesis and ↓ transpiration**
+      + what greenhouse experiments tell us
+
+<br/>
+      
+* **Techonology to grow plants in the field at a controlled [CO<sub>2</sub>] under open-air conditions** 
+      + better estimate of plant and ecosystem response to a high CO<sub>2</sub> world
+      
+</div>
+
+## Free-air CO<sub>2</sub> enrichment experiments (FACE)
+<hr>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+* **Circular plots surrounded by a ring of pipes**
+      + release ambient or enriched CO<sub>2</sub>
+      + @ vertical intervals through plant canopy. 
+
+<br/>
+
+* **Wind direction/velocity and [CO<sub>2</sub>] are measured at the center of each plot**
+      + computers adjust CO<sub>2</sub> flow rate to maintain target
+      + pipes on the upwind side of the plots release CO<sub>2</sub>
+
+<br/>
+      
+ * **Utilized with some variationss in numerous large-scale experiments**
+    + up to 30m diameter plots
+    + vegetation up to 25 meters
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:65px; WIDTH:400px; HEIGHT:500px" SRC="images/design.png">
+
+## Brookhaven National Lab: FACE Specs
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **Circular systems designed to allow open-air exposures to CO<sub>2</sub>, sulfur dioxide, nitrogen oxides, and ozone**
+    + uniform exposures of gases to large plots
+    
+<br/>
+
+* **Liquid CO<sub>2</sub> is piped from storage tanks to heat exchangers to vaporize the CO2**
+       + CO<sub>2</sub> is typically obtained as a by-product fertilizer manufacturing 
+       
+<br/>
+
+* **Gaseous CO<sub>2</sub> is channeled through pipes by pressure regulators to each FACE plot**
+    + 24 to 32 vertical standing vent pipes for emitting CO<sub>2</sub> 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/liquid.jpg">
+
+##
+<IMG STYLE="position:absolute; TOP:75px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/tech.png">
+
+## Advantages of FACE
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Investigation of undisturbed ecosystems**
+      + light, temperature, wind & precipitation
+      + interactions with pathogens and insects
+      + natural or agriculture systems
+
+<br/>
+
+* **Integrated measurements of plant and ecosystem processes simultaneously**
+    + avoids problems with edge effects
+    + plants studied throughout life cycle 
+    + trees have space to develop to canopy closure
+
+<br/>
+
+* **Additional treatments**
+    + Ozone
+    + Nitrogen
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:400px; HEIGHT:300px" SRC="images/grasslandface.jpg">
+    
+## What is Typically Measured?
+<hr>
+<br/>
+
+* **Growth enhancement**
+    + NPP 
+    + yield (agriculture)
+    + LAI
+
+<br/>
+
+* **Soil Processes**
+    + soil respiration
+    + nutrient cycling
+
+<br/>
+
+* **Carbon allocation**
+    + sequestration
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:350px; WIDTH:300px; HEIGHT:300px" SRC="images/npp.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:675px; WIDTH:300px; HEIGHT:300px" SRC="images/soil_respiration.jpg">
+
+## What is Typically Measured: Canopy Access
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:525px; HEIGHT:400px" SRC="images/access2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/access.jpg">
+
+
+## What is Typically Measured: Harvests
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:300px; HEIGHT:450px" SRC="images/aspenface_pit.jpg">
+    
+<IMG STYLE="position:absolute; TOP:175px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/aspenface.png">    
+
+## Where are FACE Experiments?
+<hr>
+<br/>
+
+https://facedata.ornl.gov/global_face.html
+
+
+## DUKE FACE
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **Loblolly pine plantation @ Duke Forest**
+      + 13-year-old loblolly pines
+      + 1996-1998 to 2008
+      + among the fastest growing tree species at peak growing age.
+
+<br/>
+
+* **4 eCO<sub>2</sub> plots (+ 200ppm)** 
+      + 4 ambient CO<sub>2</sub> controls.
+
+<br/>
+
+* **eCO<sub>2</sub> × soil N enrichment from 1998**
+      + plots halved with a soil barrier
+
+</div> 
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:400px; HEIGHT:325px" SRC="images/duke3.jpg">
+
+## DUKE FACE
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/duke1.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/duke2.jpg">
+
+## Nevada Desert FACE Facility (NDFF)
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Undisturbed Mojave Desert plots**
+      + 1997-2007
+  
+<br/>
+
+* **9 study plots, each 23 m in diameter**
+      + 3 eCO<sub>2</sub> plots (550 PPM)
+      + 6 aCO<sub>2</sub> plots
+
+<br/>
+
+* **~75 annual species depending on rainfall **
+      + including exotic annual grass: red brome
+
+<br/>
+
+* **Soils had well-developed biological crust**
+      + bacteria, algae, mosses and lichens
+</div> 
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/desert1.jpg">
+
+## Nevada Desert FACE Facility (NDFF)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/desert2.jpg">
+
+## Oak Ridge FACE
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **Sweetgum plantation @ Oak Ridge National Lab**
+    + east Tennessee in Cumberland Plateau
+    + plantation established 1988
+    + 1998-2009.
+
+<br/>
+
+* **Five 25-m diameter plots in deciduous forest**
+    + two eCO<sub>2</sub> plots (528-560 ppm)
+    + three aCO<sub>2</sub> plots
+    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/campany.jpg">
+
+## Oak Ridge FACE
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/ornl.png">
+
+## Aspen FACE: Wisconsin, USA
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Twelve 30m rings with split-plots**
+    +  1/2 of ring Aspen monoculture
+    +  1/4 of ring Aspen-Maple
+    +  1/4 of ring Aspen-Birch
+    + site planted from seedlings
+
+<br/>
+
+* **Manipulated  CO<sub>2</sub>  &  O<sub>3</sub>**
+    + single and interaction treatments
+    + Aspen monoculture planted with O<sub>3</sub> sensitive genotypes
+
+<br/>
+
+* **Fumigating from 2001 - 2009**
+    + coppiced and fumigated from 2010-2011
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:400" SRC="images/aspenface.jpg">
+
+## Swiss FACE: Grasslands
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Response of grassland ecosystems to eCO<sub>2</sub>**
+      + community composition shifts
+      + nitrogen fixers vs microbes in the rhizospere
+
+<br/>
+
+* **Response by functional type** 
+      + C3, C4, legumes, etc
+      + annual vs perennials
+</div> 
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/swiss.jpg">
+
+## BIOCON: Minnesota, USA
+<hr>
+
+<div style="float: left; width: 60%;">
+
+* **Secondary successional old field after vegetation cleared**
+      + glacial out wash sandplain 
+      + nitrogen limited site
+
+<br/>
+
+* **371 plots (2x2m) arranged in six 20m rings**
+      + each ring has 61-63 plots
+      + 16 species of herbaceous perennial prairie species
+
+<br/>
+
+* **biodiversity, N, CO<sub>2</sub> and H<sub>2</sub>0 manipulated**
+      + elevated CO<sub>2</sub> in 3 rings (560 ppm)
+      + subplot rain removal via portable rain shelters
+      + warming with soil rod and infrared lamp technology
+      + 1/2 of plots receive N addition @ 2x deposition
+</div>
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/biocon.jpg">
+
+## SoyFACE: U.Illinois
+<hr>
+<br/>
+
+* **32-ha farm with 20m plots**
+    + eCO<sub>2</sub> plots
+    + elevated O<sub>3</sub> plots
+    + warming subplots (+3.5°C)
+
+<br/>
+<br/>
+
+* **Research questions:**
+<br/>
+1. What yield and quality changes will result with rising CO<sub>2</sub>, temperature, drought stress and ozone?
+2. What genotypes and genes may be exploited to ↑ yield and maintain quality under future conditions?
+3. Will soil quality be degraded, and how can this be alleviated?
+4. Will rates of soil carbon deposition ↑, and what value might this have in terms of carbon credits?
+5. How will eCO<sub>2</sub>, temperature, drought stress and ozone impact insect and pathogens?
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:600px; WIDTH:275px; HEIGHT:275px" SRC="images/soy1.jpg">
+
+## SoyFACE
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:650px; HEIGHT:400px" SRC="images/soy2.jpg">
+
+## Many First Generation FACE Sites Have Ended
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/group.png">
+
+## DUKE - Key findings
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Photosynthesis by canopy foliage ↑ up to 50 %**
+    + litterfall ↑ in eCO<sub>2</sub> and litter layer ↑
+
+<br/>
+
+* **Minimal change in the SOM from eCO<sub>2</sub>**
+
+<br/>
+
+* **Stimulation of NPP by eCO<sub>2</sub> persisted** 
+    + biomass + 27% in eCO<sub>2</sub> plots
+    + evidence of N limitation started
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:615px; WIDTH:400px; HEIGHT:300px" SRC="images/dukeresults2.gif">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:350px; WIDTH:400px; HEIGHT:550px" SRC="images/dukeresults3.gif">
+
+## Oak Ridge - Key Findings
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Enhancement of NPP not sustained via N cycle feedbacks**
+    + N availability declined faster under eCO<sub>2</sub>
+    + lower soil microbial biomass under eCO<sub>2</sub>
+
+<br/>
+
+* **Fine-root production was stimulated by eCO<sub>2</sub>**
+    + more deep fine roots
+    + resulting in more C added to the soil system.
+    
+<br/>
+
+* **Carbon storage in the soil ↑ in elevated CO<sub>2</sub>**
+    + including in protected forms
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:615px; WIDTH:400px; HEIGHT:300px" SRC="images/nppornl.gif">
+
+##
+<IMG STYLE="position:absolute; TOP:25px; LEFT:300px; WIDTH:500px; HEIGHT:650px" SRC="images/moreroots.gif">
+
+## BIOCON: Grassland Findings
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **eCO<sub>2</sub> had modest effects on species richness**
+
+<br/>
+
+* **Diversity loss due to N enrichment under aCO<sub>2</sub>**
+    + diversity suppressed by N effects on productivity
+    + soil solution N, soil moisture & root C:N
+
+<br/>
+
+* **eCO<sub>2</sub> amlieorated this diversity loss**
+    + interaction treatments
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:650px; WIDTH300px; HEIGHT:500px" SRC="images/biocon2.gif">
+
+## SOY FACE: Key Findings
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Smaller than expected ↑ in photosynthesis/biomass for soybeans at eCO<sub>2</sub>**
+    + warming also offset biomass increases via eCO<sub>2</sub>
+
+<br/>
+
+* **Low stomatal limitation, ↑ respiration & photosynthetic acclimation muted response to eCO<sub>2</sub> & temperature**
+
+<br/>
+
+* **O<sub>3</sub> fumigation reduced photosynthesis**
+
+<br/>
+
+* **Overall, soybeans were less nutritous**
+      + decreased Fe & Zn 
+</div> 
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:610px; WIDTH:400px; HEIGHT:300px" SRC="images/soy2.jpg">
+
+## Synthesis Results from FACE
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **eCO<sub>2</sub> ↑ leaf photosynthesis by 31% across sites and species**
+
+<br/>
+
+* **Stomatal conductance ↓ by 20% with growth at eCO<sub>2</sub> across 40 species**
+    + low N and drought exacerbated the ↓ in g<sub>s</sub>
+
+<br/>
+
+* **Plant water use efficiency ↑ under eCO<sub>2</sub> ~50%**
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:400" SRC="images/synthesis.gif">
+
+
+## Synthesis Results from FACE
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Growth and aboveground biomass ↑ with eCO<sub>2</sub>**
+      + ~20% enhancement
+      + response varied between species, growing seasons and experimental conditions 
+      + trees > crops > grasses
+      
+<br/>
+
+* **Allocation to wood and structure ↑ woody plants under eCO<sub>2</sub>**
+      + taller plants
+      + larger stem diameter
+      + increased branching and leaf #
+      
+<br/>
+  
+* **Nutrient limitation muted the aboveground enhancement**
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:400" SRC="images/synthesis3.gif">
+
+## FACE: Crops
+<hr>
+<br/>
+<br/>
+
+
+<div style="float: left; width: 55%;">
+
+* **Crop yield ↑ by only ~ 17%**
+    + lower than previous estimates 
+
+<br/>
+
+* **Cotton, a woody crop, showed most yield enhancement in eCO<sub>2</sub>**
+
+<br/>
+
+* **Site conditions modulated eCO<sub>2</sub> response**
+    + no yield increase in wet conditions
+    + 28% increase in dry conditions
+    + Low N fertilization  eliminated any yield response
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:650px; WIDTH:400px; HEIGHT:400" SRC="images/synthesis4.gif">
+
+## Ecological Lessons from FACE Experiments
+<hr>
+<br/>
+
+* **Time =  is highest importance in consideration of C cycling**
+    + life stage, functional type, canopy closure
+    + how long to reach equilibrium?
+
+<br/>
+
+* **Different C allocation patterns of extra C taken up**
+    + allocation of plant C among SOM pools determines ecosystem C fate
+    + exudation, litter fragmentation, priming, soil aggregation & microbial activity important
+
+<br/>
+
+* **Some evidence of N limitation reducing the eCO<sub>2</sub> response**
+
+<br/>
+
+* **Plant community structure influences ecosystem response to eCO<sub>2</sub>**
+    + composition more important to ecosystem responses than individual species.
+    
+## Modeling FACE Experiments 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:650px; HEIGHT:500px" SRC="images/models.png">
+
+
+## 
+<IMG STYLE="position:absolute; TOP:75px; LEFT:275px; WIDTH:500px; HEIGHT:600px" SRC="images/hypo.jpg">
+ 
+## What is Missing?
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Most sites are from temperate zones**
+
+<br/>
+
+* **No mature mature forests sites**
+    + Only capturing fast growth phases
+    + How sustained is the response?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:600px; WIDTH:300px; HEIGHT:500px" SRC="images/synthesis5.gif">
+ 
+## New Age of FACE Experiments
+<hr>
+<br/>
+
+ <IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/nvsp_newface.jpg">
+
+
+## BIFor: University of Birmingham
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Mature deciduous temperate woodland**
+    + long‐established woodland soil
+
+<br/>
+
+* **Oaks species planted 150 years ago**
+    + natural distribution of ages
+    + dominant and sub‐dominant trees
+
+<br/>
+
+* **Address trade-gap in forestry for UK**
+    + sustainable UK by manged woodlands
+    + identify disease resistance in trees
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:400px; HEIGHT:400" SRC="images/bifor.jpg">
+
+## Amazon-FACE: Amazon River basin
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Undisturbed forest reserve in Brazil**
+    + very high plant diversity
+    + old-growth primary forest
+    + closed canopy
+
+<br/>
+
+* **Project includes 2 eCO<sub>2</sub> + 2 aCO<sub>2</sub> rings**
+    + test ring built, layouts complete
+    + plots include at least 21 different families
+    + only 10 families and five species overlap in 2 proposed plots
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:500px; HEIGHT:400" SRC="images/amazon.jpg">
+ 
+## Sweed FACE
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Proposed site in 35‐yr old closed‐canopy stand of mature Scots pine**
+      + hemiboreal zone of southern Sweden
+      + stand noncommercial thinning before canopy closure
+      + now unmanaged
+
+<br/>
+
+* **Knowledge gap of eCO<sub>2</sub> on boreal forests**
+      + important reservoir for stored C
+      + warming/extended growing season promoting C release?
+      + belowground processes may counteract plant physiological responses
+</div>
+ 
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:400" SRC="images/boreal.jpg">
+
+## EUC FACE
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Sites in a mature native Australian woodland**
+    + Cumberland Forest is now down to just 6% (Sydney expansion)
+    + open and grassy with native and introduced grasses
+
+<br/>
+
+* **3 eCO<sub>2</sub> + 3 aCO<sub>2</sub> rings**
+    + eCO<sub>2</sub> 'ramped up' over a year
+    + Nutrient and water limited forest
+
+<br/>
+
+* **Designed to minimise environmental footprint**
+    + no concrete in the forest 
+    + rings are raised so that animals can move freely
+    + access by raised footpaths only
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:500px; HEIGHT:400" SRC="images/eucface.jpg">
+
+
+## Class Discussion:
+<hr>
+<br/>
+<br/>
+
+**(1) Predict 10 yr response of NPP to eCO<sub>2</sub> in each new FACE site**
+
+<br/>
+
+**(2) What is the most important regulator of this response?**
+
+<br/>
+
+**(3) How will warming interact with the ecosystem response?**
+
+<br/>
+
+**(4) Can these systems be modified to increase C sequestration?**

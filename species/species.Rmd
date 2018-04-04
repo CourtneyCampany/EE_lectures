@@ -1,0 +1,442 @@
+---
+title: "Species Effects on Ecosystems"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Species compoistion of the Biosperes
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Intricate webs of interacting organisms  create resilient sources of ecological services**
+    + 2,000,000 species are known 
+    + 18,000  plants and animals discovered per year
+    + estimated 87% of eukaryotes unknown
+
+<br/>
+
+* **Reflects billions of ways in which organisms have adapted, over and over, to a constantly changing planet**
+
+<br/>
+
+* **Humans have altered 75% of ice-free surface**
+    + alters species composition
+    + directly impacts ecosystem processes
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/globaldiversity.jpg">
+    
+## Megafauna Extinction
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/lostmega.jpeg">
+
+<div style="float: right; width: 50%;">
+
+* **Large herbivores and carnivores declined since the Late Pleistocene**
+      + land and oceans
+      + human induced effects
+
+<br/>
+
+* **Do megafana impact climate?**
+    + consumption and digestion releases methane
+    + trampling or browsing alters vegetaion: albedo/water cycles 
+
+</div>
+
+## Hot Topic: Invasives
+<hr>
+<br/>
+
+* **Exotic species can change physical and biotic environment**
+    + may alter abundance or elimate native species
+
+<br/>
+
+* **Aquatic ecosystems have been heavily affected**
+    + accidental & intentional
+
+<br/>
+
+* **Impacts of invasives outweigh natural extinction rates**
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/invasives1.jpg">
+
+## Hot Topic: Invasives
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/invasives2.jpg">
+
+## Hot Topic: Invasives
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:700px; HEIGHT:500px" SRC="images/invasives3.jpg">
+
+## Hot Topic: Homogenization
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Replacement of native species by exotics**
+    + process by which ecosystems lose their biological uniqueness 
+
+<br/>
+
+* **Taxonomic homogenization: increased similarity of species over space and time has occurred across numerous taxa:** 
+      + plants (Rooney et al. 2004)
+      + insects (Dormann et al. 2007), 
+      + fish (Rahel 2000), 
+      + birds (Devictor et al. 2007) 
+      + mammals (Isaac et al. 2014)
+
+<br/>
+
+* **Biotic homogenization tied to human activities**
+    + landscape simplification leads to resource declines
+    + loss of habitat & resources following urbanization
+    + competition and hybridization with invasive species
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/blender.jpg">
+
+## Hot Topic: Homogenization
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:550px; HEIGHT:550px" SRC="images/homgen_urban.gif">
+
+## Hot Topic: Homogenization
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/richness.png">
+
+## Species Effects: Trophic Levels
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Several hierarchical levels in an ecosystem**
+      + organisms that share the same function in the food chain**
+
+<br/>
+
+* **No single species performs all functional roles within a trophic level**
+
+<br/>
+
+* **Biodiversity is important for ecosysem processes**
+    + ecosystem scales
+    + within a trophic level
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/species_eco.jpg">
+
+## Biodiversity
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Sum of all biolgoical traits, of all species, within an ecosystem**
+    + when species lost, range of traits ↓
+
+<br/>
+
+* **↓ in biodiversity reduce ecosystem capacity to function**
+    + loss of dominant species hurts more
+    + keystone species: ecologically distinct
+    
+<br/>
+
+* **High species richness in multiple trophic groups has positive effects on ecosystem services**
+      + greater than richness in any single trophic group
+      
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/diverse_eco.jpg">
+      
+##
+<IMG STYLE="position:absolute; TOP:75px; LEFT:100px; WIDTH:800px; HEIGHT:650px" SRC="images/diverse_services.png">
+
+## What is Species Diversity?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:500px; HEIGHT:400px" SRC="images/spp_diversity.gif">
+
+<div style="float: right; width: 50%;">
+
+* **# of different species that are represented in a given community**
+
+<br/>
+
+* **3 components**
+    + richness = simple count of species
+    + evenness = how equal the abundances of the species are
+    + taxonomic or phylogenetic diversity
+
+<br/>
+
+* **gradient ranging from low at the poles to high at the equator**
+    + terrestrial and oceans(?)
+</div>
+
+## Functional Traits
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:550px; HEIGHT:550px" SRC="images/functionaltrait.png">
+
+## 
+<IMG STYLE="position:absolute; TOP:75px; LEFT:250px; WIDTH:550px; HEIGHT:650px" SRC="images/planttraits.jpg">
+
+## Functional Traits: Ecosystems
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px; WIDTH:800px; HEIGHT:550px" SRC="images/traits_wetlands.jpg">
+
+## Trait Based Ecology
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Way to link population processes with the underlying environmental gradients or competitive interactions**
+    + dictate which species persist together
+    
+<br/>
+ 
+**Traits, rather than species, provide a mechanistic basis for how ecosystems function**
+      + provide services that they deliver to humanity
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:2175px; LEFT:550px; WIDTH:400px; HEIGHT:500px" SRC="images/traits1.jpg">
+
+## Trait Based Ecology
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:400px; HEIGHT:500px" SRC="images/traitecology.jpg">
+
+## Functional Types
+<hr>
+<br/>
+
+* **Groups of species that are "ecologically similar"**
+    
+<br/>
+
+* **Respones Functional Types**
+    + C~4~ grasses
+    + fire-adapted species
+    
+<br/>
+
+* **Effect Functional Types**
+    + nitrifying bacteria
+    + termites
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:500px" SRC="images/resprout.jpg">
+
+## Species Effects: Biogeochemisty
+<hr>
+<br/>
+
+* **Traits that affect nutrient supply have large ecosystem effects**
+    + *Morella faya*: N fixing tree in Hawaii
+    + Deep-rooted species: *Eucalpytus*
+    + Salmon: nutrient transerh
+
+<br/>
+
+* **Soil fertility related to species litter quality**
+    + decompostion rates +/-
+
+<br/>
+
+* **Species compoistion of lakes**
+    + filter rates of Zebra mussels
+    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:500px" SRC="images/bear.jpg">
+
+## Species Effects: Climate
+<hr>
+<br/>
+
+* **Species effets on microclimate**
+    + boreal mosses insulate soil in summer
+    + 'nurse plants' shade baby cactuses
+
+<br/>
+
+* **Species effects on energy exchange**
+    + plant height/density = surface roughness
+    + conifers = low albedo
+    + overgrazing ↑ albedo
+    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:500px" SRC="images/nurse.jpg">
+
+## Desertification of Fertile Cresent
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:225px; WIDTH:6500px; HEIGHT:6500px" SRC="images/fertilecresent.jpg">
+
+## Species Effects: Trophic Interactions
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Top-down controls: removal of top predators**
+    + otters : urchins : kelp
+    + overfishing : urchins : killer whates
+    + wolves : elk : vegetation
+    + elephats : savannas : forests
+
+<br/>
+
+* **Top-down controls large impact on lower trophic levels**
+    + usually through nutrient cycling
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:450px; HEIGHT:400px" SRC="images/otter.png">
+
+## Species Effects: Distrubance
+<hr>
+<br/>
+<div style="float: right; width: 50%;">
+
+* **Organisms can alter disturbance regimes**
+    + impacts colonization and species interactions
+    + cheat grass promotes fire
+
+<br/>
+
+* **Ecosystem engineers create or modify habitats**
+    + physical distrubance alters succession
+    + trampling affets vegetation/nutrients
+    + plants and flammability (resins)
+    + plants and soil stability
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/beaver.jpg">
+
+## Ecosystem Engineering
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:650px" SRC="images/mangroves.jpg">
+
+## Response Functional Types
+<hr>
+<br/>
+
+
+* **Species occur together because they can survive, compete and reproduce in the environment the co-occur**
+    + not all perfectly adapted
+    
+* **Species differences in respones broaden ecosystem function**
+    + larger threshold of environmental conditions
+    + fosters ecosystem resilence
+
+## Response diversity may enhance resouce use
+<hr>
+<br/>
+
+* **Leaching ↓ in more diverse grasslands**
+    + nutrient retention also ↑
+    
+<br/>
+
+* **However, ↑ may lead to increase resource use**
+    + *Complementary patterns of resouce use*:
+    + grasslands with C~3~ and C~4~ species
+    + summer vs winter rains in deserts
+    
+## Diversity vs Richness
+<hr>
+<br/>
+
+* **Diverse ecosystems are not always more productice**
+    + plantations vs mixed-forests
+
+## Functioanl Matric of Traits
+<hr>
+<br/>
+
+* **Organisms affect ecosystems through multiple traits**
+    + traits vary indepedently
+    + eg. many traits affect decomposition
+
+<br/>
+
+* **Each trait can be treated as a continuous variable**
+    + each species has a value for that trait
+
+<br/>
+
+* **Useful for restoration**
+    + species choice can shapte ecosystem trajectory
+    + multiple traits needed for stream restoration
+    + must consider trade-offs
+
+## Linking Environmental Variability with Traits
+<hr>
+<br/>
+
+* **Traits in an ecosystem are packaged into distinct species**
+    + each has a set of 'effects' and 'responses'
+    + ecosystems are sensitive when 'packages' are linked
+
+<br/>
+
+* **Species with high capacity for nitrogen absoprtion**
+    + high photosynthesis and growth
+    + rapidly decompsing litter
+    + **high sensitivity** to nutrient supply
+    
+## Diversity as Insurance
+<hr>
+<br/>
+
+* **6^th^ major extinction event**
+      + 100-fold greater than pre-human
+      + biologically driven
+      + loss of species is irreversible
+      
+* **Diverisy buffers against functioanl changes**
+    + ecosystem stability maintained
+    + protects against drastic change to extreme events
+
+## Species Interactions and Ecosystem Processes
+<hr>
+<br/>
+
+* **Interactions among species govern which traits are expressed**
+      + modify pathways of enery and material flow
+      + mutualisms, competition, predation, etc
+
+<br/>
+
+* **Species effects are often indirect**
+    + hard to predict
+    + single pollinator has a small direct effect
+    + legumes + C~4~ plants = soil C ↑
+    + litter quality in a mixed forest
+
+<br/>
+
+* **Species presence or absense can predict ecosystem functions**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/bee.jpg">
