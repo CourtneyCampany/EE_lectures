@@ -345,7 +345,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<div style="float: right; width: 50%;">
+<div style="float: left; width: 45%;">
 
 * **Species occur together because they can survive, compete and reproduce in the environment the co-occur**
     + not all perfectly adapted
@@ -358,73 +358,102 @@ runtime: shiny
     + fosters ecosystem resilience
  </div>   
         
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/birds_network.jpg">  
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/interaction.jpg">  
     
 ## Bird Networks in the Amazon
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/birds_network.jpg">
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:650px" SRC="images/birds_network.jpg">
-
-## Response diversity may enhance resouce use
+## Response diversity
 <hr>
 <br/>
 <br/>
-
-* **Leaching ↓ in more diverse grasslands**
-    + nutrient retention also ↑
+<div style="float: right; width: 50%;">
+* **Diveristy may affect ecosystem resouce use**
+      + Leaching ↓ in more diverse grasslands
+      + High diversity may lead to ↑ resource use
     
 <br/>
 
-* **However, ↑ may lead to increase resource use**
-    + *Complementary patterns of resouce use*:
-    + grasslands with C~3~ and C~4~ species
-    + summer vs winter rains in deserts
-    
-## Diversity vs Richness
-<hr>
+* **Complementary patterns of resouce use**
+      + grasslands with C~3~ and C~4~ species
+      + summer vs winter rains in deserts
+
 <br/>
 
-* **Diverse ecosystems are not always more productice**
+* **Diverse ecosystems are not always more productive**
     + plantations vs mixed-forests
+    + ecosystem processes may saturate
+</div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:450px; HEIGHT:400px" SRC="images/response.png"> 
 
 ## Functional Matrix of Traits
 <hr>
 <br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
 
 * **Organisms affect ecosystems through multiple traits**
     + traits vary independently
-    + eg. many traits affect decomposition
+    + eg. many traits affect N cycling
 
 <br/>
 
 * **Each trait can be treated as a continuous variable**
     + each species has a value for that trait
 
+<IMG STYLE="position:absolute; TOP:235px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/root_traits.jpg"> 
+
+## Functional Matrix of Traits
+<hr>
+<br/>
 <br/>
 
+<div style="float: right; width: 50%;">
 * **Useful for restoration**
     + species choice can shape ecosystem trajectory
-    + multiple traits needed for stream restoration
-    + must consider trade-offs
+    + multiple traits needed 
+    + species interactions determine success
+
+<br/>
+
+* **Trade-offs exist**
+    + fast growing species (erosion) susceptible to drought
+    + limit trait combinations
+</div>
+ 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/stream.jpg"> 
 
 ## Linking Environmental Variability with Traits
 <hr>
 <br/>
+<br/>
 
+<div style="float: left; width: 48%;">
 * **Traits in an ecosystem are packaged into distinct species**
     + each has a set of 'effects' and 'responses'
     + ecosystems are sensitive when 'packages' are linked
 
 <br/>
 
-* **Species with high capacity for nitrogen absoprtion**
+* **Species with traits for high N absorption**
     + high photosynthesis and growth
     + rapidly decomposing litter
     + **high sensitivity** to nutrient supply
-    
+</div>
+
+<IMG STYLE="position:absolute; TOP:215px; LEFT:560px; WIDTH:400px; HEIGHT:400px" SRC="images/traitpackages.jpg"> 
+
 ## Diversity as Insurance
 <hr>
 <br/>
+<br/>
+<br/>
 
+<div style="float: right; width: 48%;">
 * **6^th^ major extinction event**
       + 100-fold greater than pre-human
       + biologically driven
@@ -435,16 +464,25 @@ runtime: shiny
 * **Diversity buffers against functional changes**
     + ecosystem stability maintained
     + protects against drastic change to extreme events
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/extinction2.png"> 
+
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction3.jpg">
+
+##
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png">
     
 ## Complementraty Hypothesis
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:125px; WIDTH:800px; HEIGHT:400px" SRC="images/comp.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/comp.jpg">
 
 ## Redundancy Hypothesis
 <hr>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:125px; WIDTH:800px; HEIGHT:400px" SRC="images/redund.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/redund.jpg">
 
 ## Species Interactions and Ecosystem Processes
 <hr>
