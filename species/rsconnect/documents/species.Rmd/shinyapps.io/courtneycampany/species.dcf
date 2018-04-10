@@ -1,0 +1,12 @@
+name: species
+title: species
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 318935
+bundleId: 1311721
+url: https://courtneycampany.shinyapps.io/species/
+when: 1523368013.38774
+asMultiple: FALSE
+asStatic: FALSE

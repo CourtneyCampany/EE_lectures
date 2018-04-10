@@ -62,7 +62,7 @@ runtime: shiny
 <div style="float: left; width: 50%;">
 
 * **Exotic species can change physical and biotic environment**
-    + may alter abundance or eliminate native species
+    + alter native species communities
 
 <br/>
 
@@ -336,7 +336,7 @@ runtime: shiny
     + physical disturbance alters succession
     + trampling affects vegetation/nutrients
     + plants and flammability (resins)
-    + plants and soil stability
+    + dune plants and soil stability
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/beaver.jpg">
@@ -373,9 +373,9 @@ runtime: shiny
 <br/>
 <br/>
 <div style="float: right; width: 50%;">
-* **Diveristy may affect ecosystem resouce use**
+* **Diversity impactst ecosystem resouce use**
       + Leaching ↓ in more diverse grasslands
-      + High diversity may lead to ↑ resource use
+      + High diversity may lead to ↑ nutrient use
     
 <br/>
 
@@ -409,7 +409,7 @@ runtime: shiny
 * **Each trait can be treated as a continuous variable**
     + each species has a value for that trait
 
-<IMG STYLE="position:absolute; TOP:235px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/root_traits.jpg"> 
+<IMG STYLE="position:absolute; TOP:235px; LEFT:605px; WIDTH:400px; HEIGHT:400px" SRC="images/root_traits.jpg"> 
 
 ## Functional Matrix of Traits
 <hr>
