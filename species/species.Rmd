@@ -9,7 +9,7 @@ output:
 runtime: shiny
 ---
 
-## Species Compoistion of the Biospere
+## Species Composition of the Biospere
 <hr>
 <br/>
 
@@ -368,7 +368,7 @@ runtime: shiny
 <hr>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/birds_network.jpg">
 
-## Response diversity
+## Response Diversity
 <hr>
 <br/>
 <br/>
@@ -474,21 +474,6 @@ runtime: shiny
 </div>
 <IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:400px; HEIGHT:400px" SRC="images/bee.jpg">
 
-## Complementraty Hypothesis
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/comp.jpg">
-
-## Redundancy Hypothesis
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/redund.jpg">
-
-## Driver and Passenger Hypothesis
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/driver.jpg">
-
 ## Diversity as Insurance
 <hr>
 <br/>
@@ -515,3 +500,19 @@ runtime: shiny
 
 ##
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:800px; HEIGHT:600px" SRC="images/extinction1.png">
+
+
+## Complementary Hypothesis
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/comp.jpg">
+
+## Redundancy Hypothesis
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/redund.jpg">
+
+## Driver and Passenger Hypothesis
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/driver.jpg">

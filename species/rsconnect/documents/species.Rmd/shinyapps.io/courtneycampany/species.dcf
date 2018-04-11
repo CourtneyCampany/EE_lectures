@@ -5,8 +5,8 @@ account: courtneycampany
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 318935
-bundleId: 1311721
+bundleId: 1314058
 url: https://courtneycampany.shinyapps.io/species/
-when: 1523368013.38774
+when: 1523466705.51116
 asMultiple: FALSE
 asStatic: FALSE
