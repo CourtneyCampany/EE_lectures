@@ -1,0 +1,259 @@
+---
+title: "Landscape Heterogeneity"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+runtime: shiny
+---
+
+## Landscape Heterogeniety Concepts
+<hr>
+<br/>
+
+* **Landscapes:**
+
+<br/>
+
+* **Spatial patterns control ecological processes**
+    + all scales
+
+<br/>
+
+* **Biogeochemical hot spots**
+    + high process rates (CH~4~, NO~x, CO~2~)
+    + more important than total area suggests
+    + urine patches : wetlands : cities
+
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/landscapes1.jpg">
+
+## Landscape Ecology
+<hr>
+<br/>
+
+* **Addresses the cause and consequences of spatial heterogenity**
+    + beaver dams : patchily distributed biomes
+    
+<br/>
+
+* **Controls of hotspots vs surrounding matrix**
+    + scales up their consequences
+    + essential to estimating large fluxes
+    
+## Patches
+<hr>
+<br/>
+
+* **Patch size & shape**
+    + habitat heterogeneity
+    +large patches support more species
+    + determines how far any point is to edge
+    + ratio of edge:area
+
+<br/>
+
+* **Configuration**
+    + arrangement of patches in a landscape
+    + degree of interaction
+
+<br/>
+
+* **Size, shape and configuration influence connectivity**
+    + critical for climate change
+    + corridor management
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/patch.jpg">
+
+## Patches by Humans
+<hr>
+<br/>
+
+* **Fragmented landscapes via land-use change**
+    + larger matrix becomes managed land
+    + small pathces of natural lands
+    + natural embedded within human matrix
+
+<br/>
+
+* **Increaes in landscapes edges**
+    + loss of ecosystem connectivity
+    + alters physicall environment
+
+<br/>
+
+* **Purposeful attention to landscape configuration and dynamics**
+    + reduce regional scale impacts
+    + better maintatin sustainable patches
+    + connectiveness w/ agriculture?
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/centralpark.jpg">
+
+## Ecological Boundaries
+<hr>
+<br/>    
+
+* **Interactions among neighboring landscapes**
+    + deer are edge specialist
+
+<br/>
+
+* **Edges have different environments than within patches**
+    + wind, raditaion & VPD
+    + disturbances differ
+    + rates of nutrient cycling
+
+<br/>
+
+* **Broad gradients exist between biomes**
+    + gradual edge transitions
+    + can be climatically determined
+    
+## Causes of Spatial Heterogeneity
+<hr>
+<br/> 
+
+* **Spatial differences in states factors**
+    + causes environmental variation
+
+<br/> 
+
+* **Interactive conrols**
+    + disturbance
+    + dominant species
+
+<br/> 
+
+* **Human activities**
+
+## How Do We Detect Spatial Heterogeneity
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/remote.jpg">
+
+## Variation from State Factors
+<hr>
+<br/>
+
+* **Abiotic characteristics**
+    + surface variation (temp, precip, topographt, parent material) 
+    + climate exists in gradients
+    + parent material can have abrupt boundaries
+    + factors vary indepentdently (seperate patterns)
+
+<br/>
+
+* **Biotic processes**
+    + regulated by spatial patterns of state factors
+    + biota:cliamte
+    + nutrient cycling :parent material
+
+<br/>
+
+* **Combined these account for the basic matrix of landscape variability**
+
+## Community Processes and Legacies
+<hr>
+<br/>
+
+* **Ecological processes depend on past events**
+    + variation in fire severity : seedling recruitment
+
+<br/>
+
+* **Species Effects**
+    + resources islands
+    
+## Disturbance
+<hr>
+<br/>
+
+* **Create spatial patterning at many scales**
+      + Patches reflect disturbance and succession
+
+<br/>
+
+* **Shifting steady-state mosaic**
+    + vegetaion is always changing at a certain point
+    + however, stable when considered over large area
+    + i.e. successional stage remains constant
+    + depends on degree of disturbance
+
+<br/>
+
+* **Non-steady state mosaic**
+    + large infrequent disturbance over large area
+    + large areas of landscape in same successional stage
+    + hurricanes
+    + large fires or long fire suppression
+    
+## Disturbance: Functional Mosaic
+<hr>
+<br/>
+    
+* **Large distrubed areas are usually patchy**
+    + Functional differences exits between patches**
+
+<br/>
+
+* **Islands of unburned vegetation**
+    + vegetation density:nutrient cycling
+    + seed sources
+    + wildlife cover
+
+<br/>
+
+* **Patches decline as succession proceeds**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/unburn.jpg">
+
+## Landscape heterogeneity vs Disturbance History
+<hr>
+<br/>
+
+## Cross Scake Linkages
+<hr>
+<br/>
+
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/crossscale.png">
+
+##
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/firebug.jpg">
+
+## Cross Scake Linkages via Humans are Novel
+<hr>
+<br/>
+
+
+## Patch Interactions on the Landscape
+<hr>
+<br/>
+
+## Topographic & Land-Water Interactions
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/topo.jpg">
+
+## Transfer of materials among ecosystems
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/transfer.jpg">
+
+## Vulnerability of Ecosystems in Inputs
+<hr>
+<br/>
+
+* **Esturaries**
+
+## Atmospheric Transfers
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/atmo_transger.png">
