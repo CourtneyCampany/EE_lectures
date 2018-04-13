@@ -9,9 +9,11 @@ output:
 runtime: shiny
 ---
 
-## Landscape Heterogeniety Concepts
+## Landscape Heterogeneity Concepts
 <hr>
 <br/>
+<br/>
+
 
 * **Landscapes:**
 
@@ -23,17 +25,21 @@ runtime: shiny
 <br/>
 
 * **Biogeochemical hot spots**
-    + high process rates (CH~4~, NO~x, CO~2~)
+    + high process rates (CH~4~, NO~x~, CO~2~)
     + more important than total area suggests
     + urine patches : wetlands : cities
 
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/landscapes1.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/landscapes1.jpg">
 
 ## Landscape Ecology
 <hr>
 <br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
 
 * **Addresses the cause and consequences of spatial heterogenity**
     + beaver dams : patchily distributed biomes
@@ -43,15 +49,19 @@ runtime: shiny
 * **Controls of hotspots vs surrounding matrix**
     + scales up their consequences
     + essential to estimating large fluxes
-    
-## Patches
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/landscapes2.jpg">
+
+## Landscape Patches
 <hr>
 <br/>
 
+<div style="float: left; width: 50%;">
+
 * **Patch size & shape**
     + habitat heterogeneity
-    +large patches support more species
-    + determines how far any point is to edge
+    + large patches support more species
     + ratio of edge:area
 
 <br/>
@@ -65,32 +75,35 @@ runtime: shiny
 * **Size, shape and configuration influence connectivity**
     + critical for climate change
     + corridor management
+</div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/patch.jpg">
+<IMG STYLE="position:absolute; TOP:215px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/patch.jpg">
 
-## Patches by Humans
+## Landscape Patches by Humans
 <hr>
-<br/>
+
+<div style="float: right; width: 52%;">
 
 * **Fragmented landscapes via land-use change**
-    + larger matrix becomes managed land
-    + small pathces of natural lands
+    + larger matrix = managed land
+    + small patches = natural lands
     + natural embedded within human matrix
 
 <br/>
 
 * **Increaes in landscapes edges**
     + loss of ecosystem connectivity
-    + alters physicall environment
+    + alters physical environment
 
 <br/>
 
-* **Purposeful attention to landscape configuration and dynamics**
+* **Attention to landscape configuration and dynamics**
     + reduce regional scale impacts
-    + better maintatin sustainable patches
+    + better maintain sustainable patches
     + connectiveness w/ agriculture?
+</div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/centralpark.jpg">
+<IMG STYLE="position:absolute; TOP:215px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/centralpark.jpg">
 
 ## Ecological Boundaries
 <hr>
@@ -101,8 +114,8 @@ runtime: shiny
 
 <br/>
 
-* **Edges have different environments than within patches**
-    + wind, raditaion & VPD
+* **Edges differ from within patches**
+    + wind, radiation & VPD
     + disturbances differ
     + rates of nutrient cycling
 
@@ -111,9 +124,12 @@ runtime: shiny
 * **Broad gradients exist between biomes**
     + gradual edge transitions
     + can be climatically determined
-    
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/landscapes3.jpg">   
+
 ## Causes of Spatial Heterogeneity
 <hr>
+<br/>
 <br/> 
 
 * **Spatial differences in states factors**
@@ -121,7 +137,7 @@ runtime: shiny
 
 <br/> 
 
-* **Interactive conrols**
+* **Interactive controls**
     + disturbance
     + dominant species
 
@@ -129,74 +145,94 @@ runtime: shiny
 
 * **Human activities**
 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/spatial.jpg"> 
+
 ## How Do We Detect Spatial Heterogeneity
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/remote.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/remote.jpg">
 
-## Variation from State Factors
+## Landscape Variation via State Factors
 <hr>
 <br/>
 
+<div style="float: left; width: 50%;">
+
 * **Abiotic characteristics**
-    + surface variation (temp, precip, topographt, parent material) 
+    + surface variation (temp, precip, topography, parent material) 
     + climate exists in gradients
     + parent material can have abrupt boundaries
-    + factors vary indepentdently (seperate patterns)
+    + factors vary independently (separate patterns)
 
 <br/>
 
 * **Biotic processes**
     + regulated by spatial patterns of state factors
-    + biota:cliamte
+    + biota:climate
     + nutrient cycling :parent material
 
 <br/>
 
-* **Combined these account for the basic matrix of landscape variability**
+* **Basic matrix of landscape variability**
+</div>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:575px; WIDTH:400px; HEIGHT:500px" SRC="images/plains.png">
+
 
 ## Community Processes and Legacies
 <hr>
 <br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
 
 * **Ecological processes depend on past events**
     + variation in fire severity : seedling recruitment
 
 <br/>
+<br/>
 
 * **Species Effects**
     + resources islands
     
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/YellowstoneRegen.jpg">
+
 ## Disturbance
 <hr>
 <br/>
-
-* **Create spatial patterning at many scales**
+<div style="float: left; width: 55%;">
+* **Creates spatial patterning across scales**
       + Patches reflect disturbance and succession
 
 <br/>
 
 * **Shifting steady-state mosaic**
-    + vegetaion is always changing at a certain point
-    + however, stable when considered over large area
-    + i.e. successional stage remains constant
-    + depends on degree of disturbance
+    + vegetation is always changing at any point
+    + stable when considered over large area
+    + successional stage remains constant
 
 <br/>
 
 * **Non-steady state mosaic**
     + large infrequent disturbance over large area
     + large areas of landscape in same successional stage
-    + hurricanes
-    + large fires or long fire suppression
+    + hurricanes, large fires or fire suppression
+    
+ </div>   
+ 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/mosaics.jpg">
     
 ## Disturbance: Functional Mosaic
 <hr>
 <br/>
+<br/>
     
 * **Large distrubed areas are usually patchy**
-    + Functional differences exits between patches**
+    + Functional differences exist between patches
 
 <br/>
 
@@ -209,51 +245,406 @@ runtime: shiny
 
 * **Patches decline as succession proceeds**
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/unburn.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/unburn.jpg">
 
 ## Landscape heterogeneity vs Disturbance History
 <hr>
 <br/>
 
-## Cross Scake Linkages
+<div style="float: left; width: 50%;">
+
+* **Landscape variation affects disturbance frequency**
+    + topography & aspect
+    + mosaic of fire fuel loads
+    + fire moves uphill and stops at ridge tops
+    + fire suppression to wide expansion
+
+<br/>
+
+* **Patchiness from previous disturbance**
+    + zones of succession
+    + controls new fire intensity
+    + insect outbreaks leave resistant patches
+    
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:185px; LEFT:575px; WIDTH:400px; HEIGHT:450px" SRC="images/history.png">
+
+## Cross Scale Linkages
 <hr>
 <br/>
 
+<div style="float: left; width: 50%;">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/crossscale.png">
+* **Landscape interactions can lead to non-linear consequences**
+    + lightning strike : local weather : nearby plant canopies
+    + desertification
+    + agriculture : dust : black blizzards
 
-##
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/firebug.jpg">
+<br/>
+
+* **Disturbances may increase probability of other disturances**
+    + hard to predict
+    + insect outbreaks : landscape flammability ?
+    + insect outbreak : reduce fuel loads?
+ </div>    
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/crossscale.png">
+
+## Dust Bowl
+<hr>
+<br/>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/dustbowl.jpg">
+
+## Interactions with Insects and Fire
+<hr>
+<br/>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/firebug.jpg">
 
 ## Cross Scake Linkages via Humans are Novel
 <hr>
 <br/>
 
+<div style="float: left; width: 50%;">
 
-## Patch Interactions on the Landscape
+* **Human activities create feed-backs to disturbance**
+    + amplifying and stabilizing
+    + alter patch structure & landscape functioning
+
+<br/>
+
+* **Increasingly extensive occurrences**
+    + roads
+    + larger agricultural patches with mechanized agriculture
+ 
+<br/>
+ 
+* **Disturbance as a management tool**
+    + forest harvest regimes
+    + retention of specific vegetation
+    + prescribed fire
+    
+ </div>    
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:475px; HEIGHT:300px" SRC="images/smokey2.jpg">
+    
+## The Smokey Bear Effect Led To Raging Wildfires
 <hr>
 <br/>
+
+<div class="centered">
+<strong><span style="color:red">https://apps.npr.org/fire-forecast/ </span></strong></div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/smokey.png">
 
 ## Topographic & Land-Water Interactions
 <hr>
 <br/>
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/topo.jpg">
-
-## Transfer of materials among ecosystems
-<hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/transfer.jpg">
+ * **Gravity controls many landscape interactions**
+    + water flow (with dissolved materials)
+    + soil movement
+    + nitrate/phosphorus from agriculture:aquatic 
+
+<br/>
+
+* **Erosion removes and depoists**
+    + depends on slope and gradient
+    + stability of biota
+    + parent material / soil type
+    + climate/human driven
+    
+<IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:500px; HEIGHT:250px" SRC="images/topo.png">
+
+## Landscape Driven Material Transfer (Patch Interaction)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/transfer.jpg">
 
 ## Vulnerability of Ecosystems in Inputs
 <hr>
 <br/>
+<br/>
 
-* **Esturaries**
+* **Capacity to sequester or transfer inputs**
+    + riparian areas & denitrification
+    + slow or fast moving streams
+
+<br/>
+
+* **Esturaries: high productivty from inputs**
+    + rooted plants decrease tidal energy
+    + combine with salinity to increase sedimentation
+    + nutrient absorption by plants or burial
+    + "sink" for nutrient inputs
+    
+<IMG STYLE="position:absolute; TOP:215px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/npp_biome.jpg">
 
 ## Atmospheric Transfers
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/atmo_transger.png">
+* **Link ecosystems over large distances**
+    + transport of gases and particles
+    + alter functioning of receiving ecosystems
+
+<br/>
+
+* **Nitrogen Depoistion**
+    + agriculture
+    + industry & fossil fuels
+    + consequences for NPP and cycling
+
+<br/>
+
+* **Gases released from biomass burning**
+    + oxidized C (CO~2~, CH~4~, CO)
+    + NO~x~ & NH~3~
+    + ash and aerosols
+    
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/acid.png">
+
+## Wind Blown Particles Link Ecosystems
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Major transport of some elements by atmosphere**
+    + base cations and P
+    + local : regional : global scales
+
+<br/>
+
+* **Dust loads can reduce snow cover**
+    + USA southwest : San Juan mountains
+    + Asian dust : Rocky mountains
+
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:375px" SRC="images/dust.jpg">
+
+## Surface - Air Exchange Influences Distant Landscapes
+<hr>
+<br/>
+<br/>
+
+* **Large bodies of water alter climate**
+    + ↑ precip & ↓ temp of adjacent lands
+
+<br/>
+
+* **Deforestation reduces regional evapotranspiration**
+    + precip ↓ regionally
+
+<br/>
+
+* **Global land clearing for agriculture**
+    + ↓ albedo & evapotranspiration
+    + ↑ sensible heat flux regionally
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:650px; WIDTH:300px; HEIGHT:500px" SRC="images/albedo_ag.jpg">
+
+
+## Plant and Animal Movement
+<hr>
+<br/>
+
+* **Large animals consume and poop**
+    + sheep move nutrients to ridges
+    + marine birds transfer P to land
+    + anadromous fish (salmon) 
+
+<br/>
+
+* **Animals transfer plants**
+    + seed dispersal
+    + invasives carry invasives
+
+<br/>
+
+* **Transport by humans**
+    + fertilizers, etc
+    + diversion of water
+    + food imports : nitrogen sources
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/n_import.jpg">
+
+## Disturbance Spread
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **Fire, pest & pathogens easily spread across disturbance prone vegetation**
+
+<br/>
+<br/>
+
+* **Landscape patches influence spread**
+    + provide fuel-breaks for fires
+    + may be less prone to pest/pathogen outbreaks
+    + alters severity and/or frequency
+</div>
+ 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:450px; HEIGHT:350px" SRC="images/pests.jpg">
+
+## Landscapes and Humans
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Land-use change had intensified in recent centuries**
+    + 466% increase in crop production
+    + ~10-20% of ice-free surface
+
+<br/>
+
+* **Surface dominated by patches related to agriculture**
+    + fields, pastures & remnant systems
+    + cut and regenerated forests
+
+<br/>
+
+* **Alters role of ecosystems in regional/global processes**
+    + how do we model this fractured landscape?
+    
+ </div>
+<IMG STYLE="position:absolute; TOP:215px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/global_ag.jpg">
+ 
+
+## Extensification
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **Pattern of increased AREA affected by humans**
+
+<br/>
+
+* **Land-use conversion**
+    + human induced change in ecosystem type
+    + new plant functional type
+    + forest:pasture or stream:reservoir
+
+<br/>
+
+* **Land-use modification**
+    + human alteration of ecosystem processes
+    + vegetation/physical environment not radically changed
+    + natural:managed forest
+    + dams that alter flood frequency
+ </div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:450px; HEIGHT:350px" SRC="images/slashburn.jpg">
+
+## Deforestataion
+<hr>
+<br/>
+
+* **Forest cover ~25% of surface**
+    + 2-3x area of agriculture
+    + conversion of tropical forests
+
+<br/>
+
+* **2.3 million km^2^ of forest lost since 2000**
+    + 800,000 km^2^ gained
+    + Brazil improving
+    + Indonesia losing
+
+<br/>
+
+* **Landscape tracjectory**
+    + complete conversion: large elemental losses
+    + logging: smaller elemental losses
+    + impacts nearby aquatic systems
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/deforest.jpg">
+
+## Deforestation in North America
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/usa_deforest.jpg">
+
+## Land-Use Modification for Cattle
+<hr>
+<br/> 
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/cattle1.jpg">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/cattle2.jpg">
+
+## Reforestation
+<hr>
+<br/> 
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/reforest1.png">
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:600px; WIDTH:450px; HEIGHT:350px" SRC="images/reforest2.jpg">
+
+## Intensification
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Increase in INPUTS applied to a given area of land/water**
+
+<br/>
+
+* **Agriculture increases transfer of nutrients to adjacent ecosystems**
+    + also pollutants
+    + reduces landscape heterogeneity
+
+<br/>
+
+* **Focus on high yield crops**
+    + food production : human population
+    + ↑ tillage & irrigation
+    + ↑ in fertilizers, pesticides & herbicides
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/fert.jpg">
+
+## Agricultural Intensification: Nutrient Loading
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/erie.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:590px; WIDTH:500px; HEIGHT:400px" SRC="images/manure.png">
+
+## Scaling-Up Landscape Heterogeneity
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+* **Ecosystem processes @ large scales**
+    + role of spatial heterogeneity
+    + cumulative role in landscape dynamics
+
+<br/>
+
+* **Annual C sequestration**
+    + key for climate change mitigation
+    + @ what resolution can we scale up with fractured landscapes?
+
+<br/>
+
+* **Paint by numbers approch**
+    + using mean values for important patches
+    + incorporate spatial variation in regional:global models
+    + can we include interactions between patches?
+</div>   
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:610px; WIDTH:350px; HEIGHT:450px" SRC="images/interactions.gif">
+
+## 
+<IMG STYLE="position:absolute; TOP:125px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/tem.jpg">
