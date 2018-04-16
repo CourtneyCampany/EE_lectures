@@ -19,11 +19,6 @@ runtime: shiny
 
 <br/>
 
-* **Spatial patterns control ecological processes**
-    + all scales
-
-<br/>
-
 * **Biogeochemical hot spots**
     + high process rates (CH~4~, NO~x~, CO~2~)
     + more important than total area suggests
@@ -31,27 +26,10 @@ runtime: shiny
 
 <br/>
 
+* **Spatial patterns control ecological processes**
+    + all scales
+
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/landscapes1.jpg">
-
-## Landscape Ecology
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 50%;">
-
-* **Addresses the cause and consequences of spatial heterogenity**
-    + beaver dams : patchily distributed biomes
-    
-<br/>
-
-* **Controls of hotspots vs surrounding matrix**
-    + scales up their consequences
-    + essential to estimating large fluxes
-</div>
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/landscapes2.jpg">
 
 ## Landscape Patches
 <hr>
@@ -79,6 +57,27 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:215px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/patch.jpg">
 
+## Landscape Ecology
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Addresses the cause and consequences of spatial heterogenity**
+    + beaver dams : patchily distributed biomes
+    
+<br/>
+<br/>
+
+* **Controls of hotspots vs surrounding matrix**
+    + scales up their consequences
+    + essential to estimating large fluxes
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/landscapes2.jpg">
+
 ## Landscape Patches by Humans
 <hr>
 
@@ -97,13 +96,13 @@ runtime: shiny
 
 <br/>
 
-* **Attention to landscape configuration and dynamics**
-    + reduce regional scale impacts
-    + better maintain sustainable patches
+* **What configurations reduce impact**
+    + meet food production targets
+    + function of natural patches
     + connectiveness w/ agriculture?
 </div>
 
-<IMG STYLE="position:absolute; TOP:215px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/centralpark.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:450px; HEIGHT:350px" SRC="images/centralpark.jpg">
 
 ## Ecological Boundaries
 <hr>
@@ -130,6 +129,7 @@ runtime: shiny
 ## Causes of Spatial Heterogeneity
 <hr>
 <br/>
+<br/> 
 <br/> 
 
 * **Spatial differences in states factors**
@@ -185,6 +185,7 @@ runtime: shiny
 <br/>
 <br/>
 <br/>
+<br/>
 
 <div style="float: right; width: 50%;">
 
@@ -194,8 +195,9 @@ runtime: shiny
 <br/>
 <br/>
 
-* **Species Effects**
-    + resources islands
+* **Species distribution**
+    + habitat needs, legacies & stocastic events
+    + can persist for long time frames
     
 </div>
 
@@ -211,7 +213,7 @@ runtime: shiny
 <br/>
 
 * **Shifting steady-state mosaic**
-    + vegetation is always changing at any point
+    + vegetation always changing : small disturbances
     + stable when considered over large area
     + successional stage remains constant
 
@@ -219,7 +221,7 @@ runtime: shiny
 
 * **Non-steady state mosaic**
     + large infrequent disturbance over large area
-    + large areas of landscape in same successional stage
+    + large areas in same successional stage
     + hurricanes, large fires or fire suppression
     
  </div>   
@@ -237,7 +239,7 @@ runtime: shiny
 <br/>
 
 * **Islands of unburned vegetation**
-    + vegetation density:nutrient cycling
+    + vegetation density : nutrient cycling
     + seed sources
     + wildlife cover
 
@@ -253,7 +255,7 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Landscape variation affects disturbance frequency**
+* **Variation controls disturbance frequency**
     + topography & aspect
     + mosaic of fire fuel loads
     + fire moves uphill and stops at ridge tops
@@ -270,11 +272,31 @@ runtime: shiny
  
 <IMG STYLE="position:absolute; TOP:185px; LEFT:575px; WIDTH:400px; HEIGHT:450px" SRC="images/history.png">
 
+## Disturbance Spread
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+* **Fire, pest & pathogens easily spread across disturbance prone vegetation**
+
+<br/>
+<br/>
+
+* **Landscape patches influence spread**
+    + provide fuel-breaks for fires
+    + may be less prone to pest/pathogen outbreaks
+    + alters severity and/or frequency
+</div>
+ 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:450px; HEIGHT:350px" SRC="images/pests.jpg">
+
 ## Cross Scale Linkages
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
 * **Landscape interactions can lead to non-linear consequences**
     + lightning strike : local weather : nearby plant canopies
@@ -283,13 +305,13 @@ runtime: shiny
 
 <br/>
 
-* **Disturbances may increase probability of other disturances**
+* **Disturbances may ↑ probability of other disturances**
     + hard to predict
-    + insect outbreaks : landscape flammability ?
-    + insect outbreak : reduce fuel loads?
+    + insect outbreaks : landscape flammability?
+    + insect outbreak : reduce fuel density?
  </div>    
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:400px; HEIGHT:300px" SRC="images/crossscale.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/crossscale.png">
 
 ## Dust Bowl
 <hr>
@@ -320,10 +342,8 @@ runtime: shiny
 <br/>
  
 * **Disturbance as a management tool**
-    + forest harvest regimes
-    + retention of specific vegetation
-    + prescribed fire
-    
+    + selective harvesting
+    + prescribed fire or suppression
  </div>    
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:575px; WIDTH:475px; HEIGHT:300px" SRC="images/smokey2.jpg">
@@ -335,7 +355,7 @@ runtime: shiny
 <div class="centered">
 <strong><span style="color:red">https://apps.npr.org/fire-forecast/ </span></strong></div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/smokey.png">
+<IMG STYLE="position:absolute; TOP:290px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/smokey.png">
 
 ## Topographic & Land-Water Interactions
 <hr>
@@ -374,8 +394,8 @@ runtime: shiny
 <br/>
 
 * **Esturaries: high productivty from inputs**
-    + rooted plants decrease tidal energy
-    + combine with salinity to increase sedimentation
+    + rooted plants ↓ tidal energy
+    + combine with salinity to ↑ sedimentation
     + nutrient absorption by plants or burial
     + "sink" for nutrient inputs
     
@@ -391,7 +411,7 @@ runtime: shiny
 
 <br/>
 
-* **Nitrogen Depoistion**
+* **Nitrogen Deposition**
     + agriculture
     + industry & fossil fuels
     + consequences for NPP and cycling
@@ -413,10 +433,11 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Major transport of some elements by atmosphere**
-    + base cations and P
+* **Major transport of certain elements**
+    + Ca^2+^, Mg^2+^, Na^+^ & K
     + local : regional : global scales
-
+    + Gobi desert: Hawaii
+    
 <br/>
 
 * **Dust loads can reduce snow cover**
@@ -443,11 +464,9 @@ runtime: shiny
 <br/>
 
 * **Global land clearing for agriculture**
-    + ↓ albedo & evapotranspiration
     + ↑ sensible heat flux regionally
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:650px; WIDTH:300px; HEIGHT:500px" SRC="images/albedo_ag.jpg">
-
 
 ## Plant and Animal Movement
 <hr>
@@ -466,32 +485,12 @@ runtime: shiny
 
 <br/>
 
-* **Transport by humans**
+* **Transfer by humans**
     + fertilizers, etc
     + diversion of water
     + food imports : nitrogen sources
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/n_import.jpg">
-
-## Disturbance Spread
-<hr>
-<br/>
-<br/>
-
-<div style="float: right; width: 50%;">
-
-* **Fire, pest & pathogens easily spread across disturbance prone vegetation**
-
-<br/>
-<br/>
-
-* **Landscape patches influence spread**
-    + provide fuel-breaks for fires
-    + may be less prone to pest/pathogen outbreaks
-    + alters severity and/or frequency
-</div>
- 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:75px; WIDTH:450px; HEIGHT:350px" SRC="images/pests.jpg">
 
 ## Landscapes and Humans
 <hr>
@@ -511,13 +510,12 @@ runtime: shiny
 
 <br/>
 
-* **Alters role of ecosystems in regional/global processes**
+* **Alters role of ecosystems in global processes**
     + how do we model this fractured landscape?
     
  </div>
 <IMG STYLE="position:absolute; TOP:215px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/global_ag.jpg">
  
-
 ## Extensification
 <hr>
 <br/>
@@ -537,7 +535,7 @@ runtime: shiny
 
 * **Land-use modification**
     + human alteration of ecosystem processes
-    + vegetation/physical environment not radically changed
+    + environment not radically changed
     + natural:managed forest
     + dams that alter flood frequency
  </div>
@@ -572,7 +570,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:250px; WIDTH:500px; HEIGHT:500px" SRC="images/usa_deforest.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/usa_deforest.jpg">
 
 ## Land-Use Modification for Cattle
 <hr>
@@ -596,13 +594,14 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Increase in INPUTS applied to a given area of land/water**
+* **Increase in INPUTS applied to a given area**
+    + land & water
 
 <br/>
 
 * **Agriculture increases transfer of nutrients to adjacent ecosystems**
     + also pollutants
-    + reduces landscape heterogeneity
+    + global N cycle
 
 <br/>
 
@@ -628,23 +627,23 @@ runtime: shiny
 <div style="float: left; width: 50%;">
 * **Ecosystem processes @ large scales**
     + role of spatial heterogeneity
-    + cumulative role in landscape dynamics
+    + landscape interactions
 
 <br/>
 
-* **Annual C sequestration**
-    + key for climate change mitigation
+* **Key for climate change mitigation**
+    + annual C sequestration
     + @ what resolution can we scale up with fractured landscapes?
 
 <br/>
 
-* **Paint by numbers approch**
+* **Paint by numbers approach**
     + using mean values for important patches
     + incorporate spatial variation in regional:global models
-    + can we include interactions between patches?
+    + how do we include patche interactions?
 </div>   
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:610px; WIDTH:350px; HEIGHT:450px" SRC="images/interactions.gif">
 
 ## 
-<IMG STYLE="position:absolute; TOP:125px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="images/tem.jpg">
+<IMG STYLE="position:absolute; TOP:125px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/tem.jpg">
