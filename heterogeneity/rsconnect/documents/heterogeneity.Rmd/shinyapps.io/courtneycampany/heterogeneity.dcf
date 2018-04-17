@@ -1,0 +1,12 @@
+name: heterogeneity
+title: heterogeneity
+username:
+account: courtneycampany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 324515
+bundleId: 1323222
+url: https://courtneycampany.shinyapps.io/heterogeneity/
+when: 1523972432.33991
+asMultiple: FALSE
+asStatic: FALSE

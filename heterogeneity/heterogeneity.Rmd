@@ -27,7 +27,6 @@ runtime: shiny
 <br/>
 
 * **Spatial patterns control ecological processes**
-    + all scales
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/landscapes1.jpg">
 
@@ -50,7 +49,7 @@ runtime: shiny
 
 <br/>
 
-* **Size, shape and configuration influence connectivity**
+* **Connectivity**
     + critical for climate change
     + corridor management
 </div>
@@ -72,7 +71,7 @@ runtime: shiny
 <br/>
 
 * **Controls of hotspots vs surrounding matrix**
-    + scales up their consequences
+    + scaling up their consequences
     + essential to estimating large fluxes
 </div>
 
@@ -90,13 +89,13 @@ runtime: shiny
 
 <br/>
 
-* **Increaes in landscapes edges**
+* **Increases in landscapes edges**
     + loss of ecosystem connectivity
     + alters physical environment
 
 <br/>
 
-* **What configurations reduce impact**
+* **What configurations reduce impact?**
     + meet food production targets
     + function of natural patches
     + connectiveness w/ agriculture?
@@ -160,10 +159,10 @@ runtime: shiny
 <div style="float: left; width: 50%;">
 
 * **Abiotic characteristics**
-    + surface variation (temp, precip, topography, parent material) 
-    + climate exists in gradients
+    + surface variation (topography, soils) 
+    + climate gradients
     + parent material can have abrupt boundaries
-    + factors vary independently (separate patterns)
+    + factors vary independently
 
 <br/>
 
@@ -233,8 +232,8 @@ runtime: shiny
 <br/>
 <br/>
     
-* **Large distrubed areas are usually patchy**
-    + Functional differences exist between patches
+* **Disturbed areas are usually patchy**
+    + Functional differences between patches
 
 <br/>
 
@@ -249,15 +248,16 @@ runtime: shiny
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:575px; WIDTH:400px; HEIGHT:400px" SRC="images/unburn.jpg">
 
-## Landscape heterogeneity vs Disturbance History
+## Landscape Heterogeneity vs Disturbance History
 <hr>
+<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
 
-* **Variation controls disturbance frequency**
+* **Landscape controls disturbance frequency**
     + topography & aspect
-    + mosaic of fire fuel loads
+    + different fire fuel loads
     + fire moves uphill and stops at ridge tops
     + fire suppression to wide expansion
 
@@ -276,6 +276,7 @@ runtime: shiny
 <hr>
 <br/>
 <br/>
+<br/>
 
 <div style="float: right; width: 50%;">
 
@@ -285,7 +286,7 @@ runtime: shiny
 <br/>
 
 * **Landscape patches influence spread**
-    + provide fuel-breaks for fires
+    + barriers or fire fuel-breaks
     + may be less prone to pest/pathogen outbreaks
     + alters severity and/or frequency
 </div>
@@ -299,19 +300,19 @@ runtime: shiny
 <div style="float: left; width: 55%;">
 
 * **Landscape interactions can lead to non-linear consequences**
-    + lightning strike : local weather : nearby plant canopies
+    + lightning strike : nearby plant canopies : local weather 
     + desertification
     + agriculture : dust : black blizzards
 
 <br/>
 
-* **Disturbances may ↑ probability of other disturances**
+* **Disturbances may ↑ probability of new disturbances**
     + hard to predict
     + insect outbreaks : landscape flammability?
     + insect outbreak : reduce fuel density?
  </div>    
 
-<IMG STYLE="position:absolute; TOP:275px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/crossscale.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:605px; WIDTH:400px; HEIGHT:300px" SRC="images/crossscale.png">
 
 ## Dust Bowl
 <hr>
@@ -331,7 +332,7 @@ runtime: shiny
 
 * **Human activities create feed-backs to disturbance**
     + amplifying and stabilizing
-    + alter patch structure & landscape functioning
+    + patch structure & landscape functioning
 
 <br/>
 
@@ -458,12 +459,12 @@ runtime: shiny
 
 <br/>
 
-* **Deforestation reduces regional evapotranspiration**
+* **Deforestation reduces evapotranspiration**
     + precip ↓ regionally
 
 <br/>
 
-* **Global land clearing for agriculture**
+* **Land clearing for agriculture**
     + ↑ sensible heat flux regionally
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:650px; WIDTH:300px; HEIGHT:500px" SRC="images/albedo_ag.jpg">
@@ -522,13 +523,13 @@ runtime: shiny
 
 <div style="float: right; width: 50%;">
 
-* **Pattern of increased AREA affected by humans**
+* **AREA affected by humans**
 
 <br/>
 
 * **Land-use conversion**
     + human induced change in ecosystem type
-    + new plant functional type
+    + new species functional types
     + forest:pasture or stream:reservoir
 
 <br/>
@@ -536,7 +537,7 @@ runtime: shiny
 * **Land-use modification**
     + human alteration of ecosystem processes
     + environment not radically changed
-    + natural:managed forest
+    + managed forests
     + dams that alter flood frequency
  </div>
 
@@ -559,7 +560,7 @@ runtime: shiny
 
 <br/>
 
-* **Landscape tracjectory**
+* **Landscape trajectory**
     + complete conversion: large elemental losses
     + logging: smaller elemental losses
     + impacts nearby aquatic systems
@@ -570,7 +571,7 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:275px; WIDTH:500px; HEIGHT:500px" SRC="images/usa_deforest.jpg">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:295px; WIDTH:500px; HEIGHT:500px" SRC="images/usa_deforest.jpg">
 
 ## Land-Use Modification for Cattle
 <hr>
@@ -594,7 +595,7 @@ runtime: shiny
 
 <div style="float: left; width: 50%;">
 
-* **Increase in INPUTS applied to a given area**
+* **INPUTS applied to a given area**
     + land & water
 
 <br/>
@@ -617,8 +618,8 @@ runtime: shiny
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/erie.jpg">
-<IMG STYLE="position:absolute; TOP:200px; LEFT:590px; WIDTH:500px; HEIGHT:400px" SRC="images/manure.png">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="images/erie.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:590px; WIDTH:500px; HEIGHT:400px" SRC="images/manure.png">
 
 ## Scaling-Up Landscape Heterogeneity
 <hr>
@@ -639,11 +640,8 @@ runtime: shiny
 
 * **Paint by numbers approach**
     + using mean values for important patches
-    + incorporate spatial variation in regional:global models
-    + how do we include patche interactions?
+    + incorporate spatial variation in global models
+    + how do we include patch interactions?
 </div>   
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:610px; WIDTH:350px; HEIGHT:450px" SRC="images/interactions.gif">
-
-## 
-<IMG STYLE="position:absolute; TOP:125px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/tem.jpg">
